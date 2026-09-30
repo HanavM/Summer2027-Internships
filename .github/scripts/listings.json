@@ -23662,7 +23662,7 @@
         "company_name": "SDSU Research Foundation",
         "id": "92e9dd79-e2da-43cf-ac8b-c99c97cde9d8",
         "title": "Graduate Student ISR Department Lead Systems Engineer - Task",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -301668,7 +301668,7 @@
         "company_name": "CACI",
         "id": "2cc80e52-b7a3-47a0-9301-4311883dda00",
         "title": "Embedded Software Engineer Co-op - Fall 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
