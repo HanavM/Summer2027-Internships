@@ -388361,7 +388361,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "4a1157a6-d353-457f-b894-9deb47f6d3d5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
