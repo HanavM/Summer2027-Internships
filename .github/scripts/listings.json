@@ -313147,7 +313147,7 @@
         "company_name": "Allied Solutions",
         "id": "20930d88-f7dd-4419-8030-471b614af90e",
         "title": "IT Performance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345367,7 +345367,7 @@
         "company_name": "Entegris",
         "id": "a3b700b5-11b3-48ae-92cf-a4cd8017c1f6",
         "title": "Lab Automation & AI Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -393418,7 +393418,7 @@
         "company_name": "GlobalFoundries",
         "id": "30aaecc3-d600-4c24-bde5-386b4056f2ee",
         "title": "Design Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396436,7 +396436,7 @@
         "company_name": "Texas A&M International University",
         "id": "9f7a8ad3-d41e-4a2f-90e0-cdc666f82723",
         "title": "Undergraduate Research Assistant - Wiseman",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
