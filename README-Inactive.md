@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 1185 Inactive Internship Roles by Category
+### Browse 1186 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (430)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (57)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (365)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (366)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (167)
 
@@ -4408,6 +4408,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Allied-Solutions?utm_source=GHList&utm_medium=company">Allied Solutions</a></strong></td>
+<td>Data Governance Intern</td>
+<td>St Paul, MN</td>
+<td>🔒</td>
+<td>28d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>IT Performance Analyst Intern</td>
 <td>Carmel, IN</td>
 <td>🔒</td>
