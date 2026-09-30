@@ -257430,7 +257430,7 @@
         "company_name": "Centerfield",
         "id": "1200d9c3-8c18-4a2b-a55a-19887da19374",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343672,7 +343672,7 @@
         "company_name": "Smartly.io",
         "id": "6d310655-ab54-47e9-9428-a66507d57d98",
         "title": "Marketing Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
