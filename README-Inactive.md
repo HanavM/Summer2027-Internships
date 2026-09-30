@@ -6,11 +6,11 @@
 
 ---
 
-### Browse 1187 Inactive Internship Roles by Category
+### Browse 1188 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (430)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (57)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (58)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (367)
 
@@ -3248,6 +3248,13 @@
 <td><strong><a href="https://simplify.jobs/c/Amgen?utm_source=GHList&utm_medium=company">Amgen</a></strong></td>
 <td>Operations Graduate Program Intern - Operations</td>
 <td><details><summary><strong>6 locations</strong></summary>Cambridge, MA<br>Remote in USA<br>Thousand Oaks, CA<br>Holly Springs, NC<br>New Albany, OH<br>West Greenwich, RI</details></td>
+<td>🔒</td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Allied-Solutions?utm_source=GHList&utm_medium=company">Allied Solutions</a></strong></td>
+<td>Product Management Intern - Risk Management</td>
+<td>St Paul, MN</td>
 <td>🔒</td>
 <td>28d</td>
 </tr>
