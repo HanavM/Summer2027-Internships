@@ -256059,7 +256059,7 @@
         "company_name": "Rho",
         "id": "2fe0230d-4428-4408-9d8b-91d6274a06b6",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313101,7 +313101,7 @@
         "company_name": "Allied Solutions",
         "id": "af4ae6bb-f0fe-41f1-af62-5ea8c2bc515f",
         "title": "Data Governance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317084,7 +317084,7 @@
         "company_name": "Toyota Research Institute",
         "id": "e5f8a85e-932c-4e67-b965-44c9946b5a23",
         "title": "Robotics Research Intern - Post-Training",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
