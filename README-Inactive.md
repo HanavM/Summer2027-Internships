@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 1186 Inactive Internship Roles by Category
+### Browse 1187 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (430)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (57)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (366)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (367)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (167)
 
@@ -736,14 +736,14 @@
 <td>Software Engineer Intern</td>
 <td>Boston, MA</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
@@ -3270,10 +3270,10 @@
 <td>Clubs & Lounges Intern - Summer 2027</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/United-Airlines?utm_source=GHList&utm_medium=company">United Airlines</a></strong></td>
+<td>↳</td>
 <td>Sales Product Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -4408,6 +4408,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Allied-Solutions?utm_source=GHList&utm_medium=company">Allied Solutions</a></strong></td>
+<td>Data Science Intern - Data Intelligence</td>
+<td>Carmel, IN</td>
+<td>🔒</td>
+<td>28d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Data Governance Intern</td>
 <td>St Paul, MN</td>
 <td>🔒</td>
@@ -7799,7 +7806,7 @@
 <td>Systems Architecture Intern</td>
 <td>Prairie Village, KS</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/K2-Space?utm_source=GHList&utm_medium=company">K2 Space</a></strong></td>
