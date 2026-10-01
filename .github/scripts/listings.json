@@ -234143,7 +234143,7 @@
         "company_name": "Phonic",
         "id": "dad82669-969e-46be-b826-6a55e2428723",
         "title": "Machine Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -260847,7 +260847,7 @@
         "company_name": "TikTok",
         "id": "2546c60d-b4b4-495a-927e-6a112bdefc69",
         "title": "Product Operations Intern - TikTok Shop Apps and API",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -264789,7 +264789,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -264956,7 +264956,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -264982,7 +264982,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -278858,7 +278858,7 @@
         "company_name": "Apple",
         "id": "68eeb05f-c94a-49b3-950a-0e69b203c009",
         "title": "GPU Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -285896,7 +285896,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297205,7 +297205,7 @@
         "company_name": "Edison International",
         "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -303736,7 +303736,7 @@
         "company_name": "Michelin",
         "id": "10e5e95c-8b55-4510-9620-5c7cf27c7589",
         "title": "R&D Performance Measurement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -320921,7 +320921,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328416,7 +328416,7 @@
         "company_name": "Micron Technology",
         "id": "11ebfbb3-96f2-4ff0-a652-c2c9f0c85e86",
         "title": "DRAM Test Structure Design and Layout Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -346767,7 +346767,7 @@
         "company_name": "Kinaxis",
         "id": "5b07d830-b50d-4cff-a64a-555dad0ea478",
         "title": "Developer Intern - Clients - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -360808,7 +360808,7 @@
         "company_name": "APEX Analytix",
         "id": "45fec14d-2001-41b9-802c-251d000290e1",
         "title": "Data Engineering Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -368464,7 +368464,7 @@
         "company_name": "Northwestern Mutual",
         "id": "0cf03a99-5927-44d1-b6d0-24ed2a172416",
         "title": "Investment Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391631,7 +391631,7 @@
         "company_name": "W.W. Grainger",
         "id": "2535090d-f04a-40f9-afb9-01cd43e2af3f",
         "title": "Business Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2026"
@@ -393143,7 +393143,7 @@
         "company_name": "Marvell",
         "id": "05682b26-d33e-4a92-91e9-6790192bf697",
         "title": "AMS Validation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -396721,7 +396721,7 @@
         "company_name": "KLA",
         "id": "117006f6-d11e-4253-8385-f360e37b8c48",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -397991,6 +397991,32 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AfterQuery",
+        "id": "0dd2a24d-6ed2-46e0-ad44-2b1f11989d18",
+        "title": "Research Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1790847725,
+        "date_posted": 1789510813,
+        "url": "https://jobs.ashbyhq.com/AfterQuery/b1794d2c-fdbf-4165-a244-9e3ccc9cc800/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AfterQuery",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD",
+            "JD",
+            "MD"
         ]
     }
 ]
