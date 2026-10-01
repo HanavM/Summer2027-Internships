@@ -290983,7 +290983,7 @@
         "company_name": "Qorvo",
         "id": "149dd2b8-068f-4834-ac59-dfaa8f0eec8e",
         "title": "Analog Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -295886,7 +295886,7 @@
         "company_name": "American Express",
         "id": "8b2dfc2d-bc59-4d1d-bafb-40bdfb0f5e5e",
         "title": "Digital Product Management Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -295909,7 +295909,7 @@
         "company_name": "American Express",
         "id": "38028b1b-1782-42cb-aa59-d759d5a4853e",
         "title": "Data Analytics Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -309530,7 +309530,7 @@
         "company_name": "Qorvo",
         "id": "5945028e-6da9-4848-94a7-8683f2573886",
         "title": "Device Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324631,7 +324631,7 @@
         "company_name": "Principal Financial Group",
         "id": "12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348754,7 +348754,7 @@
         "company_name": "Fidelity Investments",
         "id": "440d6c3d-f1e6-4dcf-a975-bbe2cbe8aebf",
         "title": "Quantitative Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -355434,7 +355434,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "90bb6df8-68e3-4efc-b9fb-ab125bf7fa9f",
         "title": "Algorithmic Trading Developer Co-op - Global Equities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365724,7 +365724,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c49714fc-aeef-44fd-9c2c-b2eae660a74e",
         "title": "Software Engineer Intern - Investor Services - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379527,7 +379527,7 @@
         "company_name": "Wellington Management",
         "id": "a556cb89-3aca-4f2b-a78a-5923079ad190",
         "title": "Investment Platform Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
