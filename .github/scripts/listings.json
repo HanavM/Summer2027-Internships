@@ -351883,7 +351883,7 @@
         "company_name": "Principal Financial Group",
         "id": "b0f8239a-22cb-4ff6-8e56-f1c8cfd9ae87",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360653,7 +360653,7 @@
         "company_name": "Micron Technology",
         "id": "6dfeb793-c0c0-4943-84dd-143dd18fd166",
         "title": "AI Hardware and Memory Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365600,7 +365600,7 @@
         "company_name": "Marvell",
         "id": "8ae81b2e-5edf-4abd-a7bb-22ca99648273",
         "title": "IC Validation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377579,7 +377579,7 @@
         "company_name": "CIBC",
         "id": "79a335d9-6e4f-4077-8388-9e14bd1c08c9",
         "title": "Data Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
