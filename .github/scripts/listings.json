@@ -266772,7 +266772,7 @@
         "company_name": "American Express",
         "id": "057837b7-3fc8-4359-a8b2-1a63802d4a6e",
         "title": "Software Engineer Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -295955,7 +295955,7 @@
         "company_name": "American Express",
         "id": "f5e12056-4444-4b01-bf77-7f43f3583607",
         "title": "Data Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -296254,7 +296254,7 @@
         "company_name": "American Express",
         "id": "36534b44-9f68-4144-8fe3-e0c027a266ff",
         "title": "Data Analytics Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348555,7 +348555,7 @@
         "company_name": "Fidelity Investments",
         "id": "88f11ce3-1385-47af-9fd7-81b25a184d70",
         "title": "Software Full Stack Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -348680,7 +348680,7 @@
         "company_name": "Fidelity Investments",
         "id": "562a1131-7b05-4ca4-ba15-e968eb30a31a",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -352622,7 +352622,7 @@
         "company_name": "Principal Financial Group",
         "id": "f6b42284-9795-4e37-9fa2-435b51880db7",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364513,7 +364513,7 @@
         "company_name": "Wellington Management",
         "id": "cadbb7d8-73c4-4387-91ec-dcd5b6e333a4",
         "title": "Quantitative Trading Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365605,7 +365605,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "909d58de-afd4-4e68-b2a3-84c247f3cc27",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
