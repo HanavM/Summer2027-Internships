@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "a27350ce-ed33-4e4b-9f35-fe93a0f480df",
-        "title": "2026 Returning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770133171,
-        "date_posted": 1770133171,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN02--10--50-Moulton-St--MOULTON-B1/XMLNAME-2026-Returning-Intern_01821197",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Momentive",
-        "id": "db4317d2-d541-42a3-914d-306806ad64b7",
-        "title": "Summer 2026 R&D Intern - Hardcoats",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770132954,
-        "date_posted": 1770132954,
-        "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/Summer-2026-R-D-Intern---Hardcoats_R8655",
-        "locations": [
-            "Cohoes, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Momentive-Performance-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "GE Vernova",
-        "id": "6447d008-de70-4489-aae6-9c29961202be",
-        "title": "Wind Product Management Leadership Program Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770132710,
-        "date_posted": 1770132710,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/Wind-Product-Management-Leadership-Program-Intern---Summer-2026_R5029302-3",
-        "locations": [
-            "Greenville, SC",
-            "Schenectady, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "KLA",
         "id": "dad6989f-536e-4eac-8e23-3d447e716eaa",
@@ -393297,7 +393225,7 @@
         "company_name": "Chamberlain Group",
         "id": "5c39f3b6-0839-4032-bfa3-cc95ec3a854d",
         "title": "Engineer 1 Intern - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
