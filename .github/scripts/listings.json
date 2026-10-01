@@ -231999,7 +231999,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -267357,7 +267357,7 @@
         "company_name": "Thomson Reuters",
         "id": "ac5989fe-f0e5-4cd6-a149-b8329eda175c",
         "title": "Applied Research Intern - NLP/ML/GenAI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -275906,7 +275906,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "dc42c118-273e-4eda-b0ee-e5b47a65e974",
         "title": "Data Enablement Co-op - Data Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -295020,7 +295020,7 @@
         "company_name": "Travelers",
         "id": "c6dd05de-594d-4fa3-8da1-c646ae0eca31",
         "title": "Engineering Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -310146,7 +310146,7 @@
         "company_name": "Alberta Investment Management Corporation",
         "id": "a0690963-ad5c-4710-92b1-ce2cab817542",
         "title": "Fixed Income Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316227,7 +316227,7 @@
         "company_name": "Brunswick",
         "id": "84f60c1d-5d94-4e3b-a460-466cccf1d021",
         "title": "Engineering Test Lab Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325846,7 +325846,7 @@
         "company_name": "Marvell",
         "id": "ce92705c-8ef8-41b9-b977-84b925ad7137",
         "title": "Analog Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -328178,7 +328178,7 @@
         "company_name": "Marvell",
         "id": "56f40262-c4cd-4b41-a304-a541df7d38a7",
         "title": "Advanced Packaging Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -355367,7 +355367,7 @@
         "company_name": "Lowe's",
         "id": "6be172ec-d3a7-445d-8218-d442e9c6dd1c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384354,7 +384354,7 @@
         "company_name": "Intel",
         "id": "c125d363-9bdc-456d-92f1-eff43afdc8ae",
         "title": "Firmware Development Undergraduate Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -388585,7 +388585,7 @@
         "company_name": "Leidos",
         "id": "e61c4916-6a49-4922-a691-73e2250dd9c9",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -393503,7 +393503,7 @@
         "company_name": "Chamberlain Group",
         "id": "5c39f3b6-0839-4032-bfa3-cc95ec3a854d",
         "title": "Engineer 1 Intern - Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -397634,7 +397634,7 @@
         "company_name": "Southwest Airlines",
         "id": "8b6adedc-bcf4-4553-9fa2-ff61cdd5425f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -398183,6 +398183,29 @@
         "sponsorship": "Other",
         "degrees": [
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "5ca3d9ed-7ea0-42ca-87f3-9791668c9ee4",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1790865082,
+        "date_posted": 1790864921,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=8002345003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
