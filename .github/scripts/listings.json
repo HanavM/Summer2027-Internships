@@ -268070,7 +268070,7 @@
         "company_name": "RTX",
         "id": "a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
         "title": "Conversion Systems Engineer 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -278000,7 +278000,7 @@
         "company_name": "Procter & Gamble",
         "id": "24bed835-60bb-4054-acb7-317cd97877c7",
         "title": "Analytics & Insights Intern - Advanced Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2028"
@@ -308340,7 +308340,7 @@
         "company_name": "Intel",
         "id": "4ba241d0-99b3-4fa5-a8cc-38e1bc93ce59",
         "title": "Silicon Hardware Engineering Intern - Bachelor's",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -311521,7 +311521,7 @@
         "company_name": "Texas Instruments",
         "id": "25a04e72-1703-4ff5-ace6-4fe2129f5b27",
         "title": "Digital IC Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -320039,7 +320039,7 @@
         "company_name": "Micron Technology",
         "id": "ac51c04c-ef1b-4705-8b2c-8001da135c28",
         "title": "DRAM Design Rules Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -345222,7 +345222,7 @@
         "company_name": "Marvell",
         "id": "b993dfd1-18f6-4fe1-97b4-b37792dd18ae",
         "title": "Architecture, DSP & Systems Architecture Ph.D. Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -379854,7 +379854,7 @@
         "company_name": "GE Healthcare",
         "id": "94701b25-a1e7-43b1-88a6-dba6fef5c0ea",
         "title": "Full-Stack Software Engineer Intern - MIM Commercialized Web Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
