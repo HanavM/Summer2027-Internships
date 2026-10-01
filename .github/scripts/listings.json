@@ -2,53 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Guidewire",
-        "id": "53f2f876-3af5-4241-bdbf-2793e9175189",
-        "title": "Cyber Risk Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770124354,
-        "date_posted": 1770124354,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Cyber-Risk-Data-Science-Intern_JR_14312",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Guidewire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Guidewire",
-        "id": "f5d44621-d7dc-4445-af68-630c9f362b2b",
-        "title": "Go To Market AI Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770124027,
-        "date_posted": 1770124027,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Go-To-Market-AI-Engineer-Intern_JR_14295",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Guidewire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The Walt Disney Company",
         "id": "93bea70b-49b8-440e-a9bf-7e905c3088c7",
         "title": "Content & Brand Insights Intern",
@@ -276018,7 +275971,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "db42cd6e-0049-465b-9501-5f2e08640942",
         "title": "Data Analyst Co-op - Data Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -278047,7 +278000,7 @@
         "company_name": "Procter & Gamble",
         "id": "24bed835-60bb-4054-acb7-317cd97877c7",
         "title": "Analytics & Insights Intern - Advanced Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2028"
@@ -311568,7 +311521,7 @@
         "company_name": "Texas Instruments",
         "id": "25a04e72-1703-4ff5-ace6-4fe2129f5b27",
         "title": "Digital IC Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -325840,7 +325793,7 @@
         "company_name": "Marvell",
         "id": "72a95a86-9b4f-436c-b408-21eafc8a80fb",
         "title": "IC Validation Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -345269,7 +345222,7 @@
         "company_name": "Marvell",
         "id": "b993dfd1-18f6-4fe1-97b4-b37792dd18ae",
         "title": "Architecture, DSP & Systems Architecture Ph.D. Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -352992,7 +352945,7 @@
         "company_name": "CoStar Group",
         "id": "54109f9e-2999-4211-9273-b6d34bc06e25",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -374062,7 +374015,7 @@
         "company_name": "Axiom Space",
         "id": "a2aece51-4842-47ed-ae57-24e53d89a054",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392696,7 +392649,7 @@
         "company_name": "RTX",
         "id": "adc7d58d-45c9-4d40-9767-800a3c274f01",
         "title": "Systems Engineer Co-op - Avi MIL Fms/Das",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -396067,7 +396020,7 @@
         "company_name": "Marvell",
         "id": "2e092fdb-ec46-491f-a0b4-0730b3e3d0d7",
         "title": "Test Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -396630,7 +396583,7 @@
         "company_name": "Leidos",
         "id": "89a55bb0-1a26-4c4b-8874-d26cf1f5d2b7",
         "title": "Embedded Design Engineer Intern - Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
