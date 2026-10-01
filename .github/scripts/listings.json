@@ -2,53 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "15030291-be0e-4446-ae72-3831791abae0",
-        "title": "Human-Centered AI Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770103361,
-        "date_posted": 1770103361,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Human-Centered-AI-Intern_R-00174724",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cresta",
-        "id": "7ba71986-7f36-4096-9d70-31f988a5cd08",
-        "title": "Forward Deployed Engineering Intern - AI Agent",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770103151,
-        "date_posted": 1770103151,
-        "url": "https://job-boards.greenhouse.io/cresta/jobs/5106468008",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cresta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Hewlett Packard (HP)",
         "id": "ca574552-ff87-497c-b8aa-b3b6aef4ed3a",
         "title": "Research Intern - Audio and Acoustics",
@@ -370,27 +323,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Draper",
-        "id": "0d31d3be-8530-4d81-8ea5-de46cf7a9f05",
-        "title": "System Level Electromechanical Integration & Test Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770103870,
-        "date_posted": 1770103870,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/System-Level-Electromechanical-Integration---Test-Intern_JR002171",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -259813,7 +259745,7 @@
         "company_name": "Advanced Energy",
         "id": "34a18efe-cd13-4293-a683-2e44304e1154",
         "title": "Firmware Engineer Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266703,7 +266635,7 @@
         "company_name": "American Express",
         "id": "3f62999c-13f9-4d85-b98b-66660fd47199",
         "title": "Software Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
