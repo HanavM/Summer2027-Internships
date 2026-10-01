@@ -285824,7 +285824,7 @@
         "company_name": "RTX",
         "id": "96a2bb42-3d8d-415b-ad67-993931ebeac4",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367340,7 +367340,7 @@
         "company_name": "Visa",
         "id": "42074831-4df6-43c3-a5e6-cd8a61daef56",
         "title": "Staff Research Scientist Intern - Agentic AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -370703,7 +370703,7 @@
         "company_name": "RTX",
         "id": "d1b58794-f4e7-4d28-af0d-73a29d2fd9b6",
         "title": "Electrical Firmware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -383980,7 +383980,7 @@
         "company_name": "Qumulo",
         "id": "c2cbd149-9096-42ca-b785-b8ab7d96e3cf",
         "title": "Software Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -395670,7 +395670,7 @@
         "company_name": "RTX",
         "id": "5ee87d96-970f-4544-9f60-1c689d45466d",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
