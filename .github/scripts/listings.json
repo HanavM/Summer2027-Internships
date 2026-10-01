@@ -319834,7 +319834,7 @@
         "company_name": "Booz Allen",
         "id": "f88678d0-d026-47de-9d1f-7d68a6063b87",
         "title": "Electronic Warfare FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325978,7 +325978,7 @@
         "company_name": "Schonfeld",
         "id": "1679d1fa-953d-4b83-b4f5-e2e3a9f4cdd0",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
