@@ -395625,7 +395625,7 @@
         "company_name": "Patch My PC",
         "id": "8333b344-795f-4400-aa23-11358ddd296e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
