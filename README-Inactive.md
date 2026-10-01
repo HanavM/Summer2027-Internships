@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 1236 Inactive Internship Roles by Category
+### Browse 1232 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (444)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (443)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (62)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (385)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (384)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (175)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (174)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (170)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (169)
 
 ---
 
@@ -931,13 +931,6 @@
 <td><strong><a href="https://simplify.jobs/c/LSEG?utm_source=GHList&utm_medium=company">LSEG</a></strong></td>
 <td>Engineering Intern - Multiple Teams</td>
 <td>London, UK</td>
-<td>🔒</td>
-<td>17d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Lowes?utm_source=GHList&utm_medium=company">Lowe's</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Charlotte, NC</td>
 <td>🔒</td>
 <td>17d</td>
 </tr>
@@ -4134,13 +4127,6 @@
 <td>17d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
-<td>AI Engineer Co-op - Global Equities</td>
-<td>Toronto, ON, Canada</td>
-<td>🔒</td>
-<td>17d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
 <td>Business Intelligence Co-op</td>
 <td>Irving, TX</td>
@@ -6423,13 +6409,6 @@
 <td>14d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
-<td>Algorithmic Trading Developer Co-op - Global Equities</td>
-<td>Toronto, ON, Canada</td>
-<td>🔒</td>
-<td>17d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
 <td>Global Markets Analyst or Associate - Months</td>
 <td>Toronto, ON, Canada</td>
@@ -7688,13 +7667,6 @@
 <td>Tempe, AZ</td>
 <td>🔒</td>
 <td>9d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Fort Wayne, IN</td>
-<td>🔒</td>
-<td>10d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
