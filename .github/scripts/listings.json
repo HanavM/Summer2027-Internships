@@ -266988,7 +266988,7 @@
         "company_name": "American Express",
         "id": "7b295350-3015-456a-8a5a-c1c0bc02557c",
         "title": "AI Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337061,7 +337061,7 @@
         "company_name": "Moog",
         "id": "e7eb27e6-15b0-4325-9c19-980f7887f458",
         "title": "Hardware Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362982,7 +362982,7 @@
         "company_name": "Duolingo",
         "id": "32b50162-20ab-42eb-9e0c-dcff21dd5c0c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366982,7 +366982,7 @@
         "company_name": "Wellington Management",
         "id": "16c6ee10-b9bc-4ae6-8b01-a39169c3835e",
         "title": "Portfolio Reference Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -368998,7 +368998,7 @@
         "company_name": "Wellington Management",
         "id": "2e5be99c-2c39-4520-92aa-703c96a24c92",
         "title": "Business Intelligence Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
