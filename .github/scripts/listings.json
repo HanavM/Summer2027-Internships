@@ -249917,7 +249917,7 @@
         "company_name": "American Express",
         "id": "7aa9448f-c028-4566-8078-45d402ca4ffe",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -266145,7 +266145,7 @@
         "company_name": "American Express",
         "id": "63a29ab9-6ce2-4acf-982b-ed23f2035ab4",
         "title": "AI Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -295815,7 +295815,7 @@
         "company_name": "American Express",
         "id": "6b7ed30e-779a-4825-bac5-048fcdfae445",
         "title": "Digital Product Management Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362638,7 +362638,7 @@
         "company_name": "Duolingo",
         "id": "54d89b96-1ff8-49ce-99e9-b03c8d093745",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383212,7 +383212,7 @@
         "company_name": "Microsoft",
         "id": "fc6689ab-a875-4d38-bb9f-24c5edf42db8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
