@@ -1,55 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Applied Materials",
-        "id": "874a64ce-7524-458c-a9be-c61e968d86e8",
-        "title": "Product Line Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770077091,
-        "date_posted": 1770077091,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Summer-Product-Line-Management-Intern---Master-s--Gloucester--MA-_R2611505",
-        "locations": [
-            "Essex County, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ASM Global",
-        "id": "ae2d9193-c8c6-4c71-9933-75362edaf7cf",
-        "title": "Summer Associate - Enterprise AI & Insights - 8 Week Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770076969,
-        "date_posted": 1770076969,
-        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "RTX",
         "id": "a4ff0712-dba5-43be-b1a3-311d1c2adaad",
@@ -367423,7 +367374,7 @@
         "company_name": "Pacific Northwest National Laboratory",
         "id": "e7a217eb-3b85-4467-a232-5b59910d153f",
         "title": "PhD Intern - Language Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
