@@ -326607,7 +326607,7 @@
         "company_name": "Man Group",
         "id": "6ec32705-a78d-4495-a1de-43e51dac3a57",
         "title": "Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -366565,7 +366565,7 @@
         "company_name": "Wellington Management",
         "id": "de842588-7a1b-4f74-8b9f-98e9fb143e74",
         "title": "People Analytics Co-op - HR",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -383495,7 +383495,7 @@
         "company_name": "Microsoft",
         "id": "01fdaf75-6ec3-47f6-b4a9-83bd99b93157",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
