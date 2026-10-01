@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Finastra",
-        "id": "efe15899-5107-46c6-acf2-7a777c89d92c",
-        "title": "AI Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770122398,
-        "date_posted": 1770122398,
-        "url": "https://finastra.wd3.myworkdayjobs.com/FINC/job/Atlanta/AI-Engineer-Intern_REQ0126_0035950",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Finastra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Guidewire",
         "id": "53f2f876-3af5-4241-bdbf-2793e9175189",
         "title": "Cyber Risk Data Science Intern",
@@ -282862,7 +282841,7 @@
         "company_name": "Brunswick",
         "id": "87b11195-7636-4d15-98ef-a30cea2dff16",
         "title": "Systems Engineer Co-op - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -325861,7 +325840,7 @@
         "company_name": "Marvell",
         "id": "72a95a86-9b4f-436c-b408-21eafc8a80fb",
         "title": "IC Validation Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -327666,7 +327645,7 @@
         "company_name": "Marvell",
         "id": "b72627a2-345c-4008-84ca-772020b7b572",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -337116,7 +337095,7 @@
         "company_name": "Navy Federal",
         "id": "a52f9be6-50a2-4946-a09a-dfda0252c072",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338028,7 +338007,7 @@
         "company_name": "Zions Bank",
         "id": "a8f74022-e7f9-431a-a969-0b7d525a735c",
         "title": "Quantitative Modeling Analyst Intern - Corporate Quantitative Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343942,7 +343921,7 @@
         "company_name": "Walmart",
         "id": "5f786704-9f4e-4137-8947-80614fba3b53",
         "title": "Data Science Intern 3",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -353013,7 +352992,7 @@
         "company_name": "CoStar Group",
         "id": "54109f9e-2999-4211-9273-b6d34bc06e25",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365471,7 +365450,7 @@
         "company_name": "KBR",
         "id": "979ac96d-8d31-44b0-b0ce-b26b281568e9",
         "title": "Data Processing Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -367507,7 +367486,7 @@
         "company_name": "Visa",
         "id": "5f405c1a-fcc4-4c61-996b-826be17bfb30",
         "title": "Research Scientist Intern - Quantum",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -374792,7 +374771,7 @@
         "company_name": "Fidelity Investments",
         "id": "9cada06b-51c0-417f-8863-1c0468182c31",
         "title": "Undergraduate Internship - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -392717,7 +392696,7 @@
         "company_name": "RTX",
         "id": "adc7d58d-45c9-4d40-9767-800a3c274f01",
         "title": "Systems Engineer Co-op - Avi MIL Fms/Das",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -396088,7 +396067,7 @@
         "company_name": "Marvell",
         "id": "2e092fdb-ec46-491f-a0b4-0730b3e3d0d7",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396651,7 +396630,7 @@
         "company_name": "Leidos",
         "id": "89a55bb0-1a26-4c4b-8874-d26cf1f5d2b7",
         "title": "Embedded Design Engineer Intern - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
