@@ -295978,7 +295978,7 @@
         "company_name": "American Express",
         "id": "a74844d5-7c95-4e92-aea0-75ab011fb0e1",
         "title": "Data Analytics Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348531,7 +348531,7 @@
         "company_name": "Fidelity Investments",
         "id": "f1abd68f-df79-41c3-a0cc-567463dbbf18",
         "title": "Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -355616,7 +355616,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "16e17942-d165-4b2f-bcb6-074d432003ea",
         "title": "Quantitative Trading Analyst Co-op - Global Equities",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392142,7 +392142,7 @@
         "company_name": "Verizon Communications",
         "id": "810a66c8-0c3f-4ac3-bec1-fb4ae6080325",
         "title": "Data Scientist Intern - Fiber Engineering & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
