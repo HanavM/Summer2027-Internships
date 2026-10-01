@@ -310280,7 +310280,7 @@
         "company_name": "Allied Solutions",
         "id": "255aad80-1a86-44ec-bf34-a8f924b6efdd",
         "title": "AI Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330126,7 +330126,7 @@
         "company_name": "NXP Semiconductors",
         "id": "c4fbe8f2-ba6f-44ca-8798-cbf9cbbb3a3c",
         "title": "Analog Validation Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
