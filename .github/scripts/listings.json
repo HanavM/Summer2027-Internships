@@ -326025,7 +326025,7 @@
         "company_name": "Schonfeld",
         "id": "ce15dae3-7399-4de2-93b2-1047bc6aedc8",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347275,7 +347275,7 @@
         "company_name": "RTX",
         "id": "d33add69-247a-45fe-877c-f6ba4d421782",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
