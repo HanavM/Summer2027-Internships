@@ -248696,7 +248696,7 @@
         "company_name": "NTT DATA AIVista",
         "id": "a2304215-7eea-4897-b101-88b9172fcae0",
         "title": "AI Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326072,7 +326072,7 @@
         "company_name": "Schonfeld",
         "id": "13029c1c-d8c6-4568-a234-471d6081d632",
         "title": "Technology Intern - DMFI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357393,7 +357393,7 @@
         "company_name": "Wex",
         "id": "89e69230-379f-4aee-89b4-80a000e2d655",
         "title": "AI & Data Platform Engineering Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
