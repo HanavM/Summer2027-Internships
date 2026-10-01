@@ -326095,7 +326095,7 @@
         "company_name": "Schonfeld",
         "id": "2958c86d-fef5-4422-a0a1-7bd489bfebf1",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376876,7 +376876,7 @@
         "company_name": "GE Healthcare",
         "id": "7291b6ac-970f-4f7b-bbd8-67141ae89009",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
