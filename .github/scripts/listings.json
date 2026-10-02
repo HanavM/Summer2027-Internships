@@ -251496,7 +251496,7 @@
         "company_name": "Vertiv",
         "id": "fa8b65b7-46f3-4fed-bdff-a50d4855519d",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311647,7 +311647,7 @@
         "company_name": "AMD",
         "id": "f16c4b8c-a66a-4096-b0d8-d0cb78d6664f",
         "title": "Diagnostics Design Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316169,7 +316169,7 @@
         "company_name": "Wipfli",
         "id": "ee2f804d-b718-4730-838f-89fe383039ca",
         "title": "Data and Analytics Consulting Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350078,7 +350078,7 @@
         "company_name": "EquipmentShare",
         "id": "b527b34d-0364-42a6-9fbc-c21274a053eb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
