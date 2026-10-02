@@ -297825,7 +297825,7 @@
         "company_name": "Genuine Parts Company",
         "id": "d2322e21-89e6-4a3e-9539-a149cadbf6d5",
         "title": "Customer Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -348444,7 +348444,7 @@
         "company_name": "CoStar Group",
         "id": "85d55295-0c76-4133-880c-055ce402b526",
         "title": "Technology Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348490,7 +348490,7 @@
         "company_name": "CoStar Group",
         "id": "5e63a9e0-387b-437d-983c-017171f32eea",
         "title": "Technology Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370129,7 +370129,7 @@
         "company_name": "Medtronic",
         "id": "667e212e-f538-4047-be88-67c3e724d68a",
         "title": "Data Analysis & Market Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -377084,7 +377084,7 @@
         "company_name": "Gorbel",
         "id": "de94d407-d9e8-4cae-a214-452707cb46ed",
         "title": "Data BI Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -383693,7 +383693,7 @@
         "company_name": "GoTo Group",
         "id": "f2af6a58-c979-43d6-a20b-83d4442bc1a9",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -391541,7 +391541,7 @@
         "company_name": "GE Healthcare",
         "id": "2e8fab2b-d09c-456f-9ec4-f142c8021d83",
         "title": "Algorithms Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -392455,7 +392455,7 @@
         "company_name": "Life Fitness",
         "id": "6545cac1-80c8-4ecb-9b22-e6dc11411f9d",
         "title": "Marketing Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397633,6 +397633,96 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gas South",
+        "id": "ed5bc2d4-26fb-44d6-82bd-7e1ff254739e",
+        "title": "Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790952351,
+        "date_posted": 1790952217,
+        "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247586",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gas-South",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Graphcore",
+        "id": "f587f567-7076-4901-8b22-2476f0e17fdd",
+        "title": "Machine Learning and Data Science Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790951998,
+        "date_posted": 1790951858,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8862951002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "e58ec8c1-6859-41aa-af05-4d0267eca597",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1790951662,
+        "date_posted": 1790899200,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "American Bankers Association",
+        "id": "ec2c0694-e2d1-4b6f-a0d8-8246515195c7",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790951761,
+        "date_posted": 1790899200,
+        "url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Bankers-Association",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
