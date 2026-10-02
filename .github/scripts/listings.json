@@ -352044,7 +352044,7 @@
         "company_name": "Marvell",
         "id": "a72db9eb-aa2e-404c-8da4-e7916b173f94",
         "title": "Architecture Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363710,7 +363710,7 @@
         "company_name": "Rockwell Automation",
         "id": "258a5d1f-2df5-4402-8cc1-876a88c5d320",
         "title": "Robotics Research Co-op - Physical AI - OTTO",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
