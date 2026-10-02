@@ -362818,7 +362818,7 @@
         "company_name": "Autodesk",
         "id": "07af08ab-906b-43eb-b110-94f0ff3c0dc2",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -363775,7 +363775,7 @@
         "company_name": "Rockwell Automation",
         "id": "430ed618-501d-4c53-ba90-e19adb770e58",
         "title": "Robotics Research Co-op - Physical AI - OTTO",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -372657,7 +372657,7 @@
         "company_name": "Fidelity Investments",
         "id": "1c5d275f-2e6f-4188-8951-f122d59a4f77",
         "title": "Quantitative Research Intern - Multi-Asset Systematic Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387489,7 +387489,7 @@
         "company_name": "Cigna Group",
         "id": "2dda6a1e-68a5-41f2-ac16-746b5bf4d7ec",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394669,7 +394669,7 @@
         "company_name": "Magna",
         "id": "1c2be5c5-568e-4267-992c-d7b9469c0e33",
         "title": "Optics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
