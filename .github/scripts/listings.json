@@ -238293,7 +238293,7 @@
         "company_name": "Melius",
         "id": "3d88fb1f-4b46-4e88-a576-048f777a91f2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331754,7 +331754,7 @@
         "company_name": "Hex Technologies",
         "id": "6901d9ce-1abd-41d5-bcfc-3cd5a9bbf89c",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338639,7 +338639,7 @@
         "company_name": "Cox",
         "id": "3b30c0b3-6106-44e5-8c85-5c67c2116d43",
         "title": "Data Governance and Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348027,7 +348027,7 @@
         "company_name": "CoStar Group",
         "id": "54109f9e-2999-4211-9273-b6d34bc06e25",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352346,7 +352346,7 @@
         "company_name": "OpenGov",
         "id": "5bda221a-8620-420c-a38b-48bd4bdc58d3",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361394,7 +361394,7 @@
         "company_name": "Leidos",
         "id": "be3dadf8-1646-4cc7-926c-77a499228223",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387323,7 +387323,7 @@
         "company_name": "Altice USA",
         "id": "5a537b13-411e-49f8-a1f4-631a90f3d9d6",
         "title": "Mobile Device Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
