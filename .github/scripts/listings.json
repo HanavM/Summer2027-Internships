@@ -130957,7 +130957,7 @@
         "company_name": "ByteDance",
         "id": "de291dac-66b0-4867-84dc-697d2f4f487c",
         "title": "Student Researcher - Seed Infra-Compiler - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288324,7 +288324,7 @@
         "company_name": "Medline",
         "id": "e9eb279e-a129-41a1-b557-c045cc34f172",
         "title": "Business Intelligence Development/Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390029,7 +390029,7 @@
         "company_name": "Altera",
         "id": "ca3f8b2a-724e-44cf-8a3a-7f784c36077c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
