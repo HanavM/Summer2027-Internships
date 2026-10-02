@@ -379451,7 +379451,7 @@
         "company_name": "Intel",
         "id": "65f618f2-09b0-4451-83c9-7110216c541f",
         "title": "System Simulation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
