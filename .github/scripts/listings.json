@@ -325231,7 +325231,7 @@
         "company_name": "NXP Semiconductors",
         "id": "9c632936-03e5-469b-8179-e29afcf95665",
         "title": "Digital Design Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -383090,7 +383090,7 @@
         "company_name": "Boston Scientific",
         "id": "e7777af9-8bca-4dd7-b5b6-6ec86fff06f9",
         "title": "Software Development Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
