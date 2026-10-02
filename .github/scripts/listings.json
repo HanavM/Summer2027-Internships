@@ -353983,7 +353983,7 @@
         "company_name": "3M",
         "id": "9f24eba1-f1d2-4c28-953b-412af51abd49",
         "title": "Business Analyst Intern - Consumer Business Group",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -374869,7 +374869,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "e9e5a7ad-e923-47e1-9db6-284c1cb7744f",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
