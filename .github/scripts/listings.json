@@ -236068,7 +236068,7 @@
         "company_name": "Deloitte",
         "id": "4b79443f-64b0-4381-aa54-5febee12149d",
         "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -254630,7 +254630,7 @@
         "company_name": "Deloitte",
         "id": "ab415b2f-4b79-4996-a204-a63273564c89",
         "title": "Software Engineering Analyst Intern - Government & Public Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -262949,7 +262949,7 @@
         "company_name": "Google",
         "id": "2de78b3a-47c4-4a03-9f0b-683df19e56db",
         "title": "Research Scientist PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281373,7 +281373,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297825,7 +297825,7 @@
         "company_name": "Genuine Parts Company",
         "id": "d2322e21-89e6-4a3e-9539-a149cadbf6d5",
         "title": "Customer Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305035,7 +305035,7 @@
         "company_name": "Deutsche Bank",
         "id": "9c6268c8-21a5-4c50-b4cd-d027da19170d",
         "title": "Quant Intern - Strategic Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356572,7 +356572,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -373066,7 +373066,7 @@
         "company_name": "Marvell",
         "id": "5cea235d-5221-4084-b43e-f96fc1894a55",
         "title": "Digital IC Design Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -373213,7 +373213,7 @@
         "company_name": "Fidelity Investments",
         "id": "580bd080-8355-4c59-a6d5-f4d6cc61be55",
         "title": "Quantitative Research Analyst Intern - Equity Quantitative Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374706,7 +374706,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388699,7 +388699,7 @@
         "company_name": "Marvell",
         "id": "8d8ac70c-4524-4e6c-abd0-378889133e68",
         "title": "AI-Native Development Platform Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -391030,7 +391030,7 @@
         "company_name": "MFS",
         "id": "b6e13db3-be91-4612-8719-470246e65112",
         "title": "Investment Data Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -391541,7 +391541,7 @@
         "company_name": "GE Healthcare",
         "id": "2e8fab2b-d09c-456f-9ec4-f142c8021d83",
         "title": "Algorithms Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392455,7 +392455,7 @@
         "company_name": "Life Fitness",
         "id": "6545cac1-80c8-4ecb-9b22-e6dc11411f9d",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397491,6 +397491,148 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "75c9bd55-d962-405d-8b35-8302935fa982",
+        "title": "Associate Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790951293,
+        "date_posted": 1790951178,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/103464941339452102",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Humanoid",
+        "id": "090093e5-7ef5-475c-a791-32ea8ed332a7",
+        "title": "Robot Learning Intern - Robot Learning Research",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790950964,
+        "date_posted": 1790950777,
+        "url": "https://jobs.ashbyhq.com/humanoid/e1a2a9de-ad23-4632-9d93-ee50fd41a221/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Humanoid",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "IDeaS",
+        "id": "4200fef6-f177-438c-aaf7-eb7c087f048b",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790950951,
+        "date_posted": 1790950738,
+        "url": "https://ideas-sas.icims.com/jobs/42648/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/IDeaS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Definity Financial",
+        "id": "212771ed-92c6-48c7-b5d0-8fba7e55a26f",
+        "title": "Operations Analyst Co-op Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1790950353,
+        "date_posted": 1790950113,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Waterloo, ON, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Definity-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Wabtec",
+        "id": "ce9d6556-a976-430c-baea-f3f22efbf0e1",
+        "title": "Firmware Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1790950333,
+        "date_posted": 1790950099,
+        "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015854776",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wabtec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "78a8e115-f0ce-4ab7-be5c-d4a784e15262",
+        "title": "Artificial Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790950329,
+        "date_posted": 1790950059,
+        "url": "https://jobs.l3harris.com/job/Rochester-Intern,-Artificial-Intelligence-NY-14624/1436177900/?ats=successfactors",
+        "locations": [
+            "Rochester, NY",
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
