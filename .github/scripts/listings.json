@@ -283738,7 +283738,7 @@
         "company_name": "Brunswick",
         "id": "1a7cd887-6c00-45f3-bf3d-87fa5aebe90f",
         "title": "Reinforcement Learning Intern - Boating Intelligence Design Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -304692,7 +304692,7 @@
         "company_name": "Deutsche Bank",
         "id": "e534eafc-22e9-4880-a6af-3884c72ecd2e",
         "title": "Quantitative Trading Intern - Fixed Income & Currencies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
