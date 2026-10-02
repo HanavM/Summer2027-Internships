@@ -261980,7 +261980,7 @@
         "company_name": "KeyBank",
         "id": "530c60b3-3de0-4a8e-bb7c-5f32553939ac",
         "title": "Data Intern - Key Technology & Services - Data Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -265791,7 +265791,7 @@
         "company_name": "American Express",
         "id": "54a129c8-53ec-4e38-b878-daaaa309f3f7",
         "title": "Data Analytics Intern - Global Servicing - Financial Crimes Risk & Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286584,7 +286584,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "0852ed33-40cd-4b53-b3e2-96262ea69a2d",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
