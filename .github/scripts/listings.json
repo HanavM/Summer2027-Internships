@@ -265768,7 +265768,7 @@
         "company_name": "American Express",
         "id": "d3edd2a3-5270-4a02-9f8f-830ec508bcc6",
         "title": "Product Development Intern - Global Servicing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297066,7 +297066,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "58e0fc45-0a62-48e7-b095-d62d3cfbca39",
         "title": "Software Developer Intern - Address Intelligence Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -325726,7 +325726,7 @@
         "company_name": "NXP Semiconductors",
         "id": "bba408d1-2b5f-4dd2-aa18-9b668e6ec15d",
         "title": "FAB Device Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335708,7 +335708,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "20f34452-67a0-400c-8cb5-7f929d7c7dec",
         "title": "Sales Project Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -355324,7 +355324,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "1d4cc953-544e-4872-9740-94020ef03904",
         "title": "Back-end Developer Intern - Mobile Application",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -383348,7 +383348,7 @@
         "company_name": "Boston Scientific",
         "id": "b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390840,7 +390840,7 @@
         "company_name": "RTX",
         "id": "d9192af9-44cc-4afc-bb53-481c9e5acabf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
