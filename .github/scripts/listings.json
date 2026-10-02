@@ -1,51 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thales",
-        "id": "dc652799-07b1-48c6-81ac-a1ad5c1e4f70",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770208686,
-        "date_posted": 1770208686,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/Software-Engineering-Intern_R0313891",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "96cc5ac5-7f27-4570-bde4-3d5d254357c9",
-        "title": "Level 4 Data Analyst Apprenticeship",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1770208529,
-        "date_posted": 1770208529,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/London-United-Kingdom/Level-4-Data-Analyst-Apprenticeship_10142267",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Johnson & Johnson",
         "id": "affaf0b1-b73a-481b-bc78-c115f4b5823a",
@@ -266522,7 +266477,7 @@
         "company_name": "NVIDIA",
         "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
         "title": "Mixed Signal Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -285299,7 +285254,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "f32cc37e-03b7-40c8-93fc-a2b179618b4f",
         "title": "R&D Solution Builder Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -321402,7 +321357,7 @@
         "company_name": "Marvell",
         "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
         "title": "Design for Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -390724,7 +390679,7 @@
         "company_name": "GE Healthcare",
         "id": "864cc8b9-b420-476e-a6a6-b9bb048c678d",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392662,7 +392617,7 @@
         "company_name": "Intel",
         "id": "8d699dd6-89fb-4c17-8319-47d01a7f9bf3",
         "title": "Research Scientist Intern - Graphics - ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -397275,7 +397230,7 @@
         "company_name": "General Motors",
         "id": "7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
         "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
