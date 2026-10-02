@@ -343062,7 +343062,7 @@
         "company_name": "Cone Health",
         "id": "afd21544-6639-41f1-8291-72912c4dd6c6",
         "title": "Healthcare Innovation Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -371634,7 +371634,7 @@
         "company_name": "EMC Insurance",
         "id": "b4d6bb98-c5d0-457e-b701-54a86738c07e",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389744,7 +389744,7 @@
         "company_name": "Solventum",
         "id": "d9096e87-c0da-412f-8d9c-7f060e26ee29",
         "title": "Linguistic Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
