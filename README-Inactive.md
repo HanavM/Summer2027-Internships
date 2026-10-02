@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 1321 Inactive Internship Roles by Category
+### Browse 1322 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (476)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (477)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (68)
 
@@ -160,6 +160,13 @@
 <tr>
 <td>↳</td>
 <td>Software Development Engineer Intern</td>
+<td>Waltham, MA</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Development Engineer Co-op</td>
 <td>Waltham, MA</td>
 <td>🔒</td>
 <td>7d</td>
