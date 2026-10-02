@@ -316435,7 +316435,7 @@
         "company_name": "Visionist",
         "id": "77f4f856-b89f-4e69-ad68-3f38aeda2b04",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -352823,7 +352823,7 @@
         "company_name": "Repsol",
         "id": "a6b8f766-8c9e-4078-bbb7-a4df6bf0d9de",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
