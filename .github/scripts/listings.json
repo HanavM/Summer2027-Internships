@@ -1,32 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "affaf0b1-b73a-481b-bc78-c115f4b5823a",
-        "title": "AI/ML Summer Intern - Statistics & Decision Sciences - Sds",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770210269,
-        "date_posted": 1770210269,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/High-Wycombe-Buckinghamshire-United-Kingdom/AI-ML-Summer-Intern---Statistics---Decision-Sciences--SDS-_R-056470",
-        "locations": [
-            "Paris, France",
-            "High Wycombe, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Micron Technology",
         "id": "55e3599c-120d-4a24-afc5-e3724ad6aa0d",
@@ -148766,7 +148740,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -238387,7 +238361,7 @@
         "company_name": "Copart",
         "id": "079e1669-46b8-488f-8297-f7c139a745ec",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301634,7 +301608,7 @@
         "company_name": "Omnicom Group",
         "id": "75e8f127-6508-489a-85af-6d0bb6299903",
         "title": "Experience Design Engineer Intern Consultant - Design Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -301662,7 +301636,7 @@
         "company_name": "Geotab",
         "id": "271b8fea-6d1f-4318-aaa7-aa9a13159d72",
         "title": "Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -350937,7 +350911,7 @@
         "company_name": "Marvell",
         "id": "ce1940f7-7c29-4bdd-8e79-4e7c906d46c2",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -390679,7 +390653,7 @@
         "company_name": "GE Healthcare",
         "id": "864cc8b9-b420-476e-a6a6-b9bb048c678d",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -392617,7 +392591,7 @@
         "company_name": "Intel",
         "id": "8d699dd6-89fb-4c17-8319-47d01a7f9bf3",
         "title": "Research Scientist Intern - Graphics - ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
