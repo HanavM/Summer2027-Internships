@@ -166588,7 +166588,7 @@
         "company_name": "Heron Power",
         "id": "73ceaf56-0208-4efc-ab70-3dea4246f067",
         "title": "Hardware Test Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -251906,7 +251906,7 @@
         "company_name": "Blue Origin",
         "id": "2d12bca6-cc8c-4e3f-877e-0219f82a069b",
         "title": "Software Development Engineer 1 Intern - Corporate Functions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -257521,7 +257521,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -258170,7 +258170,7 @@
         "company_name": "Levi Strauss & Co.",
         "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
         "title": "Analytics Intern - eCommerce",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -275142,7 +275142,7 @@
         "company_name": "Copart",
         "id": "2a0b4fae-5de5-4ba8-b55d-c4bba930145b",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -278282,7 +278282,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313381,7 +313381,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -313488,7 +313488,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -313511,7 +313511,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -353561,7 +353561,7 @@
         "company_name": "APEX Analytix",
         "id": "00026218-6b9b-420f-a490-b3b29742cf17",
         "title": "Data Analyst Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -353778,7 +353778,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -354008,7 +354008,7 @@
         "company_name": "Trane Technologies",
         "id": "781b4a1a-f2af-40b2-866b-03dcefc5245b",
         "title": "Software Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -369582,7 +369582,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "62014017-f39b-4e2f-969b-4520e27dc627",
         "title": "Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -375107,7 +375107,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -382456,7 +382456,7 @@
         "company_name": "Intuit",
         "id": "71018f38-602e-4001-9e45-698d20f81b5f",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -386675,7 +386675,7 @@
         "company_name": "ICF International",
         "id": "05c9b1e2-1f2b-4278-a44f-e94d1a919981",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388794,7 +388794,7 @@
         "company_name": "Marvell",
         "id": "2e092fdb-ec46-491f-a0b4-0730b3e3d0d7",
         "title": "Test Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -393441,7 +393441,7 @@
         "company_name": "Intel",
         "id": "59d6aad4-9652-4f35-9a72-29c3ef4f9d16",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -394387,7 +394387,7 @@
         "company_name": "General Motors",
         "id": "5c721084-2430-498d-ae4c-d36aeaee8fac",
         "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395449,7 +395449,7 @@
         "company_name": "Altera",
         "id": "25d37d61-12f2-475a-afdc-1ea80a5057aa",
         "title": "High Level Synthesis Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
