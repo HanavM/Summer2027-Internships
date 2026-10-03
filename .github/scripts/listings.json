@@ -250563,7 +250563,7 @@
         "company_name": "PSP Investments",
         "id": "f545abf5-18c8-42fa-9bc9-37d9184a61a1",
         "title": "AI Solutions Intern - External Manager Selection & Monitoring",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -263587,7 +263587,7 @@
         "company_name": "NVIDIA",
         "id": "c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
         "title": "Hardware Design for Test Intern - DFT",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -303084,7 +303084,7 @@
         "company_name": "Micron Technology",
         "id": "f03e18cd-43a7-42fb-95e7-609dd0d670d8",
         "title": "Advanced DRAM Cell & Device Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -320372,7 +320372,7 @@
         "company_name": "Marvell",
         "id": "b72627a2-345c-4008-84ca-772020b7b572",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337042,7 +337042,7 @@
         "company_name": "Dominion Energy",
         "id": "ab871e6a-bd35-48fb-9f35-0666ae890fbf",
         "title": "Business Intelligence Analyst Intern - Design COE",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -385087,7 +385087,7 @@
         "company_name": "Invesco",
         "id": "d29e1b26-6366-4790-a9fb-5c7c87927b69",
         "title": "Early Career Intern - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -392221,7 +392221,7 @@
         "company_name": "CoStar Group",
         "id": "be949df0-0657-4f39-b1f3-e45962a3eee3",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -396038,7 +396038,7 @@
         "company_name": "General Motors",
         "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
         "title": "Software Engineer Intern - AV/AI Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
