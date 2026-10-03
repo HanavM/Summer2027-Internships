@@ -284791,7 +284791,7 @@
         "company_name": "Fifth Third Bank",
         "id": "60b68227-25d4-4cb0-bb71-13a501242bcf",
         "title": "Enterprise Data Office Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302515,7 +302515,7 @@
         "company_name": "Northrop Grumman",
         "id": "68f77e24-7325-4a04-9e6f-048e16a551a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
