@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "OTR Solutions",
-        "id": "f794da35-e1bf-4525-938f-d3f53eb63617",
-        "title": "Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770306316,
-        "date_posted": 1770306316,
-        "url": "https://job-boards.greenhouse.io/otrcapital1/jobs/4659147002",
-        "locations": [
-            "Roswell, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/OTR-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Roku",
-        "id": "ad117403-3a6a-4a4c-af14-0606df291010",
-        "title": "Analytics & Insights Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770305641,
-        "date_posted": 1770305641,
-        "url": "https://www.weareroku.com/jobs/7589192?gh_jid=7589192",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Roku",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Royal Bank of Canada",
         "id": "11a4914d-9142-4862-96a1-02be1e6b629b",
@@ -2711,30 +2667,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ASML",
-        "id": "bcb31036-f4d9-4a1e-a0f9-b1d7a12f6a11",
-        "title": "Intern - CS EUV Operations",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770388093,
-        "date_posted": 1770305495,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Internship--CS-EUV-Operations_J-00333510",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
