@@ -285329,7 +285329,7 @@
         "company_name": "NiSource",
         "id": "a8aeaa5d-b0bc-4b1a-8111-0b8dd687c2af",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286284,7 +286284,7 @@
         "company_name": "Fifth Third Bank",
         "id": "fc396683-946a-41e7-ba84-1e4cdd1af8e2",
         "title": "Enterprise Data Office Co-op - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -303599,7 +303599,7 @@
         "company_name": "Kinder Morgan",
         "id": "e5be58b3-8e57-426f-843b-f92609fdc6d5",
         "title": "Intern - IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343178,7 +343178,7 @@
         "company_name": "LabCorp",
         "id": "da9bd09e-497e-4156-97b9-4e15e2f7f027",
         "title": "Financial Analytics & Technology Intern - Financial Analytics Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383975,7 +383975,7 @@
         "company_name": "Florida Atlantic University",
         "id": "d46941ee-3f12-4840-b86c-0b2125dfc557",
         "title": "Student Web Developer - Research Computing Systems Administration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
