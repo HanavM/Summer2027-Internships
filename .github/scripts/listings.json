@@ -346492,7 +346492,7 @@
         "company_name": "Ulta Beauty",
         "id": "ae4d1646-e040-43a9-939a-18ab81955f9a",
         "title": "Supply Chain Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387523,7 +387523,7 @@
         "company_name": "Iridium Communications",
         "id": "7e94c6d9-c88c-4d70-8bd0-51a2cc801485",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
