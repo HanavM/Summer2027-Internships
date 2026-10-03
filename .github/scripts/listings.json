@@ -261329,7 +261329,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c8239540-af84-491d-8907-13b4bb623874",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266872,7 +266872,7 @@
         "company_name": "AMD",
         "id": "33e514e4-a58b-48dd-a27c-aed4a3391473",
         "title": "Hardware Engineering Intern/Co-op - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -289128,7 +289128,7 @@
         "company_name": "Emerson Electric",
         "id": "1c2f0776-ffba-43df-b229-ca36d616f363",
         "title": "Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -290277,7 +290277,7 @@
         "company_name": "AMD",
         "id": "3419991d-5fc5-4324-be22-3741aa48785f",
         "title": "Hardware Design Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353491,7 +353491,7 @@
         "company_name": "APEX Analytix",
         "id": "45fec14d-2001-41b9-802c-251d000290e1",
         "title": "Data Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358535,7 +358535,7 @@
         "company_name": "Intel",
         "id": "02e5128c-f9d6-4224-9ba7-5ab3d06f1352",
         "title": "Operations Research Engineering Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -369489,7 +369489,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "052eb803-66af-435a-9f6d-069e2aa8d052",
         "title": "Summer Intern - Data Mesh Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371888,7 +371888,7 @@
         "company_name": "Tesla",
         "id": "1a1a2a75-10ef-4a52-9850-702ee859dc3d",
         "title": "Reliability Test Engineer Intern - Energy Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -374266,7 +374266,7 @@
         "company_name": "Marvell",
         "id": "02e2f469-ae3f-418c-9712-1e786b25ad68",
         "title": "Analog Layout Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377197,7 +377197,7 @@
         "company_name": "Wellington Management",
         "id": "1536d52f-c983-4784-9564-0353ee0692ac",
         "title": "Technology Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378954,7 +378954,7 @@
         "company_name": "Marvell",
         "id": "030de51d-475d-4824-8b91-aa3e6ff1c86a",
         "title": "Analog Design Intern Co-op - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -383866,7 +383866,7 @@
         "company_name": "Marvell",
         "id": "045d26e5-429e-4701-9b98-6353918f48fe",
         "title": "Architecture Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384571,7 +384571,7 @@
         "company_name": "RTX",
         "id": "159f82a2-c7ed-4eee-8157-6d300f593c83",
         "title": "Systems Engineer Co-op - Spring/Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386791,7 +386791,7 @@
         "company_name": "RTX",
         "id": "0444d324-7733-4696-a2b1-2fb982558dcc",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -388167,7 +388167,7 @@
         "company_name": "RTX",
         "id": "04a691aa-579c-4daf-98c5-87a42434da2b",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -390200,7 +390200,7 @@
         "company_name": "Stripe",
         "id": "48975da5-2bb2-4457-8702-de4898cd805e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394270,7 +394270,7 @@
         "company_name": "Google",
         "id": "49dad85f-a6af-4fb4-b6e9-20402bab7e9d",
         "title": "Forward Deployed Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394729,7 +394729,7 @@
         "company_name": "Humanoid",
         "id": "090093e5-7ef5-475c-a791-32ea8ed332a7",
         "title": "Robot Learning Intern - Robot Learning Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -396087,7 +396087,7 @@
         "company_name": "General Motors",
         "id": "037d751e-e964-4164-ad1e-5cd1b7b6cb57",
         "title": "Machine Learning Engineer Intern - AV/AI Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
