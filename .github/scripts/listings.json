@@ -138913,7 +138913,7 @@
         "company_name": "Haize Labs",
         "id": "01b73789-a55c-4227-864d-4e1c9f06b059",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -210766,7 +210766,7 @@
         "company_name": "Seven Research",
         "id": "53251689-34f9-4e14-8fd1-42cda602bfe4",
         "title": "Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272417,7 +272417,7 @@
         "company_name": "Meridian Partners",
         "id": "ce5ce805-2b7c-460d-a010-28c5e413b7f6",
         "title": "Flight Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272634,7 +272634,7 @@
         "company_name": "Meridian Partners",
         "id": "2b427c48-848f-4f28-b666-9136b44ba757",
         "title": "Embedded Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272658,7 +272658,7 @@
         "company_name": "Meridian Partners",
         "id": "7a0e26e4-7787-42a2-8128-e496212ae724",
         "title": "Full Stack Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272683,7 +272683,7 @@
         "company_name": "Meridian Partners",
         "id": "eeda0ac4-569c-4d27-927d-56e668f95ffa",
         "title": "Python Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272708,7 +272708,7 @@
         "company_name": "Meridian Partners",
         "id": "c27d16b6-b660-4fb5-b2f8-825ddf9072f7",
         "title": "Cloud Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272732,7 +272732,7 @@
         "company_name": "Meridian Partners",
         "id": "d7b507c0-bb45-40b2-97e2-575198d7b5c7",
         "title": "Front End Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272755,7 +272755,7 @@
         "company_name": "Meridian Partners",
         "id": "721b1502-72bd-47a9-91c2-a71011c5fd1c",
         "title": "Data Scientist Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272782,7 +272782,7 @@
         "company_name": "Meridian Partners",
         "id": "1e31d74f-0f5b-482c-9140-d0be0ff9eeeb",
         "title": "Python Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272807,7 +272807,7 @@
         "company_name": "Meridian Partners",
         "id": "bc77c289-ab13-4062-adf6-da8e0aa72034",
         "title": "Machine Learning Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272834,7 +272834,7 @@
         "company_name": "Meridian Partners",
         "id": "850ae44b-e26e-426b-a045-99d7bb70e509",
         "title": "Full Stack Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272859,7 +272859,7 @@
         "company_name": "Meridian Partners",
         "id": "b6132ac2-9368-4e6a-aa27-567060ba3f3f",
         "title": "Front End Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272883,7 +272883,7 @@
         "company_name": "Meridian Partners",
         "id": "279f47da-651d-4b99-be89-f25aaa8768d1",
         "title": "Data Scientist Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -272908,7 +272908,7 @@
         "company_name": "Meridian Partners",
         "id": "d4337bc3-9805-4025-bbb6-1871543e465f",
         "title": "Embedded Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -292014,7 +292014,7 @@
         "company_name": "Dev Technology Group",
         "id": "de6ca294-1126-4454-898d-b2b85359b595",
         "title": "React/Node Developer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -292037,7 +292037,7 @@
         "company_name": "Dev Technology Group",
         "id": "f33a9b6b-aaf2-4d1c-b524-ceb79605cae0",
         "title": "Microsoft Power Platform & AI Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -292060,7 +292060,7 @@
         "company_name": "Dev Technology Group",
         "id": "b188985e-7bef-424a-bc46-4d33a76dfd4f",
         "title": "AI/ML Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -294111,7 +294111,7 @@
         "company_name": "Eulerity",
         "id": "7ae95eff-55e0-4665-83d8-efac629ebe48",
         "title": "Backend Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -297659,7 +297659,7 @@
         "company_name": "Flagship Pioneering",
         "id": "bea449aa-d978-4884-a1d9-1703017cfb0b",
         "title": "Agentic AI Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -298388,7 +298388,7 @@
         "company_name": "Garda Capital Partners",
         "id": "cfc5c938-5953-4e6d-afc2-63f245937f94",
         "title": "Trading Analyst Intern - Rates",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -303322,7 +303322,7 @@
         "company_name": "Garda Capital Partners",
         "id": "51358acd-0c6f-4028-b648-4fa9741a9355",
         "title": "Trading Analyst Intern - Credit",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -306399,7 +306399,7 @@
         "company_name": "Mill",
         "id": "6a458733-cf4b-4877-8ccb-0a7736ea7a50",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325236,7 +325236,7 @@
         "company_name": "Syska Hennessy Group",
         "id": "bb9701a2-db4c-4a7d-b931-968ef50eb604",
         "title": "Software Developer Intern - Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325518,7 +325518,7 @@
         "company_name": "Flagship Pioneering",
         "id": "ec38611d-5a43-4ef5-8d56-2eeac93dc28d",
         "title": "Data Science Co-op - Embedded Science Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -328132,7 +328132,7 @@
         "company_name": "Coinbase",
         "id": "52c6c00b-0538-4eae-ba83-7a32198496a7",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328153,7 +328153,7 @@
         "company_name": "Coinbase",
         "id": "0601574e-b3fe-447e-b449-99a6e8022d37",
         "title": "Product Manager Intern - HR Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328176,7 +328176,7 @@
         "company_name": "Coinbase",
         "id": "fc37e578-b9e2-475c-8b6a-2fcf313f6d7c",
         "title": "People Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328200,7 +328200,7 @@
         "company_name": "Coinbase",
         "id": "93048763-5a4d-430c-bb12-ed0ad0d9cfa7",
         "title": "Data Science Intern - Strategy, Execution, & Analytics - Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328224,7 +328224,7 @@
         "company_name": "Coinbase",
         "id": "96af2834-7e64-41a6-b0d4-d000f97b76cb",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328247,7 +328247,7 @@
         "company_name": "Coinbase",
         "id": "8c38dae4-969d-4c95-83c5-685fd048d556",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328318,7 +328318,7 @@
         "company_name": "Coinbase",
         "id": "c588f748-c6d2-459d-90b6-c43d81d4522b",
         "title": "Associate Product Manager Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328339,7 +328339,7 @@
         "company_name": "Coinbase",
         "id": "3bb1cef5-cd4d-4c81-afd9-b4770557e5b1",
         "title": "Analytics Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -332687,7 +332687,7 @@
         "company_name": "Amperesand",
         "id": "4de22b57-49da-4b2d-8d4b-d292fe7f6a05",
         "title": "Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -343241,7 +343241,7 @@
         "company_name": "Lightmatter",
         "id": "1e8644d0-127c-4750-bfbf-36aa12cae932",
         "title": "Silicon Packaging Engineer Intern & New Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -346716,7 +346716,7 @@
         "company_name": "Flagship Pioneering",
         "id": "0ccb65ab-e586-4d78-b496-ec4b86e44977",
         "title": "AI Automation Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -349750,7 +349750,7 @@
         "company_name": "DoorDash",
         "id": "d3c0c779-480d-4810-9393-88d215aa5e7e",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -349801,7 +349801,7 @@
         "company_name": "DoorDash",
         "id": "ea0fba80-15e5-4a2e-829e-38a6fde13be8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -361373,7 +361373,7 @@
         "company_name": "Flagship Pioneering",
         "id": "01af7a26-4ffd-4c48-bd87-ba0be7feddcc",
         "title": "Digital CMC TechOps Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -368207,7 +368207,7 @@
         "company_name": "National Life",
         "id": "dc90a21c-25c2-4735-abbe-bee451203aa2",
         "title": "Strategic Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381000,7 +381000,7 @@
         "company_name": "Bluestaq",
         "id": "d314f5f4-0dfc-4dcd-9b4a-b27f1694d1b9",
         "title": "Software Engineering Resident - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -381072,7 +381072,7 @@
         "company_name": "DoorDash",
         "id": "bc95ef3d-75d4-459b-bd69-5d99d0e7f95c",
         "title": "Machine Learning Engineer Intern - Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382429,7 +382429,7 @@
         "company_name": "DoorDash",
         "id": "2754a943-ac4e-4940-841c-4e8fe8a96365",
         "title": "Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -383135,7 +383135,7 @@
         "company_name": "Astranis",
         "id": "8eeb372b-13d5-497c-8d3f-c96c730285c9",
         "title": "RF Validation Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -386649,7 +386649,7 @@
         "company_name": "Robinhood",
         "id": "c436ae49-cb5b-447d-9947-7f790cb0c8d9",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -388531,7 +388531,7 @@
         "company_name": "GenScript",
         "id": "919e5412-3ece-4040-9f86-866837144172",
         "title": "AI Intern \u2013 Enterprise Agent Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -389630,7 +389630,7 @@
         "company_name": "Astranis",
         "id": "33de0b71-35eb-43c8-b0c6-c35c088c8ddf",
         "title": "Radiation Effects Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -390182,7 +390182,7 @@
         "company_name": "Varda Space",
         "id": "fad9fce5-3ae4-4bc8-b290-7a858a041a0a",
         "title": "Avionics Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -393887,7 +393887,7 @@
         "company_name": "General Motors",
         "id": "7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
         "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -395537,7 +395537,7 @@
         "company_name": "General Motors",
         "id": "a30de93c-bc93-469c-bd77-3bb267556f84",
         "title": "Systems/Calibration Engineer Intern - ADAS Drive",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -396946,6 +396946,53 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jump Trading",
+        "id": "95b7110e-12cf-466a-8c11-28c72de75408",
+        "title": "Campus Quantitative Researcher Intern - Trading Team PhD/Postdoc",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791066972,
+        "date_posted": 1790116376,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8209424",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Life",
+        "id": "c2a0262e-8fac-4306-9c0f-0ef0424bb16a",
+        "title": "Market Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791067141,
+        "date_posted": 1789419005,
+        "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009",
+        "locations": [
+            "Montpelier, VT",
+            "Addison, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
