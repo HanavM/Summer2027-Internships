@@ -346516,7 +346516,7 @@
         "company_name": "Ulta Beauty",
         "id": "15390674-0071-4415-afa1-aefebeb40531",
         "title": "Digital Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397632,6 +397632,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "X Development",
+        "id": "0cdfc48a-76e9-4e43-87a1-e9872b66e532",
+        "title": "PhD Resident - AI for Science - Early Stage Project",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1790991569,
+        "date_posted": 1790991499,
+        "url": "https://x.company/careers/8865083002?gh_jid=8865083002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/X-Development",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
