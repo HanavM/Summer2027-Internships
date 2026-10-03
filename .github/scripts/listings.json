@@ -258016,7 +258016,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -258199,7 +258199,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -258225,7 +258225,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -258251,7 +258251,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -258297,7 +258297,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -278868,7 +278868,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -282564,7 +282564,7 @@
         "company_name": "Charles Schwab",
         "id": "09239b96-d26a-4691-b9ab-9b8b442caa9f",
         "title": "Software Engineering Intern - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -305697,7 +305697,7 @@
         "company_name": "Brunswick",
         "id": "aac4d1eb-c398-4462-92a6-b6c581457ff9",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313921,7 +313921,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313944,7 +313944,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -313967,7 +313967,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313990,7 +313990,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314032,7 +314032,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314074,7 +314074,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314144,7 +314144,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314167,7 +314167,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314213,7 +314213,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314237,7 +314237,7 @@
         "company_name": "Goldman Sachs",
         "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -315401,7 +315401,7 @@
         "company_name": "AstraZeneca",
         "id": "72f2b8b3-1d66-4b17-a2a1-5626baa27ee2",
         "title": "Digital & Data Improvement Specialist Intern - University Industrial Placement Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354364,7 +354364,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -372498,7 +372498,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382377,7 +382377,7 @@
         "company_name": "Kinaxis",
         "id": "d3e5ba1e-a291-46e1-a4b3-7da47159deb3",
         "title": "Developer Intern - Back End Technologies",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -397373,6 +397373,261 @@
             "Sacramento, CA"
         ],
         "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Koch Industries",
+        "id": "fdc152bc-2ce6-48c0-86db-6a70bc5a49f3",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790990281,
+        "date_posted": 1790990232,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/195099",
+        "locations": [
+            "Eden Prairie, MN",
+            "Lisle, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "0a9ce9b7-d5b8-4236-b53e-9b0f85df728c",
+        "title": "Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790990281,
+        "date_posted": 1790899200,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159",
+        "locations": [
+            "Pullman, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "b45557a0-8993-4135-8a47-273587c395f5",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790990368,
+        "date_posted": 1790990108,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Electronic Arts",
+        "id": "29da992e-43fd-42b0-bd50-1548d9b595b3",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790990359,
+        "date_posted": 1790990108,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard",
+        "id": "9bf08d62-9c59-4bdb-864f-47920799dc85",
+        "title": "AI Applied Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1790989922,
+        "date_posted": 1790899200,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670-2",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Garmin",
+        "id": "96639e30-3a6b-465c-b60b-7ca7882e61b8",
+        "title": "Audio Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790989749,
+        "date_posted": 1790989678,
+        "url": "https://careers.garmin.com/jobs/20289?icims=1",
+        "locations": [
+            "Miramar, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "4fdb4466-e2bf-4f2d-9bf0-5a2352bf5dfd",
+        "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790990058,
+        "date_posted": 1790899200,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard",
+        "id": "1422b495-5c4c-4cc4-9cb0-74b93a01f75e",
+        "title": "AI Applied Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1790990102,
+        "date_posted": 1790899200,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Vancouver-Washington-United-States-of-America/AI-Applied-Engineering-Intern_UNI4670",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "aa8fbe94-057a-4bb1-bc09-d483cf5fc613",
+        "title": "Digital ASIC Design / Verification Engineer Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790990034,
+        "date_posted": 1790899200,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/TORONTO-02/Digital-ASIC-Design---Verification-Engineering-Intern-Co-Op_R56320",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HNTB",
+        "id": "92c455d6-d3f6-4d95-b523-eeca0104e5a8",
+        "title": "AI Business Process Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790989847,
+        "date_posted": 1790899200,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HNTB",
+        "id": "7510db54-c95e-441b-b7e1-b239a1119742",
+        "title": "AI Business Process Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790989749,
+        "date_posted": 1790899200,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
