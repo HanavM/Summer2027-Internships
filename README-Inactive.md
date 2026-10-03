@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 1425 Inactive Internship Roles by Category
+### Browse 1427 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (513)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (516)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (73)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (476)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (475)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (172)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (171)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (191)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (192)
 
 ---
 
@@ -88,6 +88,20 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
+<td>Software Engineer Intern - AV/AI Platform</td>
+<td>Sunnyvale, CA<br>Warren, MI</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CoStar?utm_source=GHList&utm_medium=company">CoStar Group</a></strong></td>
+<td>Technology Intern</td>
+<td>Sunnyvale, CA</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Dandy?utm_source=GHList&utm_medium=company">Dandy</a></strong></td>
 <td>Software Engineering Intern 🎓</td>
 <td>NYC</td>
@@ -126,6 +140,13 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Cedar Rapids, IA</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Invesco?utm_source=GHList&utm_medium=company">Invesco</a></strong></td>
+<td>Early Career Intern - Technology</td>
+<td>Atlanta, GA</td>
 <td>🔒</td>
 <td>4d</td>
 </tr>
@@ -5135,13 +5156,6 @@
 <td>25d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Auto Product Analyst Intern</td>
-<td>Bloomington, IL</td>
-<td>🔒</td>
-<td>25d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/NXP-Semiconductors?utm_source=GHList&utm_medium=company">NXP Semiconductors</a></strong></td>
 <td>Data Science / Structured Problem Solving Intern - Summer 2027</td>
 <td>Austin, TX</td>
@@ -7592,13 +7606,6 @@
 <td>9d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Neuberger-Berman?utm_source=GHList&utm_medium=company">Neuberger Berman</a></strong></td>
-<td>Quantitative Analyst Intern</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>10d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/First-Citizens-BancShares?utm_source=GHList&utm_medium=company">First Citizens BancShares</a></strong></td>
 <td>Quantitative Analysis Intern - Quantitative Analysis</td>
 <td>Raleigh, NC</td>
@@ -9708,6 +9715,13 @@
 <tr>
 <td>↳</td>
 <td>Ph.D. Research Hardware Intern 🎓</td>
+<td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Hardware Design for Test Intern - DFT 🎓</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>1mo</td>
