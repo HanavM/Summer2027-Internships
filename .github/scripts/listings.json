@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "5ec7d422-0062-4246-a3a5-cbb0293a0f5e",
-        "title": "Artificial Intelligence Data Systems Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770250011,
-        "date_posted": 1770250011,
-        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Boise-Idaho-United-States-of-America/Artificial-Intelligence--Data-Systems-Intern_UNI3786",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Itron",
         "id": "e6c356a0-3d62-4de3-9c32-73c04769c84e",
@@ -315379,7 +315356,7 @@
         "company_name": "AstraZeneca",
         "id": "95eacc77-f18e-4f11-80a1-de0d97b23164",
         "title": "Biometrics AI Science Specialist - AI Science Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -351100,7 +351077,7 @@
         "company_name": "Repsol",
         "id": "678daf11-1b58-4a87-adbd-452833f5a07a",
         "title": "Energy Assessment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360868,7 +360845,7 @@
         "company_name": "Howmet Aerospace",
         "id": "57ded721-ead9-440b-999c-b6f3861f72ed",
         "title": "Artificial Intelligence Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
