@@ -294002,7 +294002,7 @@
         "company_name": "Verisk",
         "id": "1920c9e2-0339-4167-aa3a-3a0e8dd29095",
         "title": "Technology Intern - Summer Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341581,7 +341581,7 @@
         "company_name": "Genworth Financial",
         "id": "09e1c7ef-5308-4aa4-b767-2020b75e4811",
         "title": "Data Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381124,7 +381124,7 @@
         "company_name": "GoTo Group",
         "id": "f2af6a58-c979-43d6-a20b-83d4442bc1a9",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -387113,7 +387113,7 @@
         "company_name": "RTX",
         "id": "f97e9cc9-e342-4cbb-b39c-0628cdca1516",
         "title": "FPGA Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -387471,7 +387471,7 @@
         "company_name": "RTX",
         "id": "d0427656-991f-42e4-96a3-51a38b3e5d8e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
