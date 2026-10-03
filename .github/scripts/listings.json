@@ -243843,7 +243843,7 @@
         "company_name": "Keysight Technologies",
         "id": "cbd56b83-ba52-4c04-b781-d4ae5e585151",
         "title": "Software Engineer Intern - R&D - FPGA",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -276646,7 +276646,7 @@
         "company_name": "Verisk",
         "id": "11d79971-ac6a-48a4-aea8-bb00009860a9",
         "title": "AI Intern - Summer Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299480,7 +299480,7 @@
         "company_name": "NiSource",
         "id": "fa083f38-3f1d-4915-aca9-9bce73ca69b4",
         "title": "People Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -309479,7 +309479,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0526ff10-b2e6-441a-931a-3013f9f82a67",
         "title": "Integration and Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326598,7 +326598,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353561,7 +353561,7 @@
         "company_name": "APEX Analytix",
         "id": "00026218-6b9b-420f-a490-b3b29742cf17",
         "title": "Data Analyst Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358535,7 +358535,7 @@
         "company_name": "Intel",
         "id": "02e5128c-f9d6-4224-9ba7-5ab3d06f1352",
         "title": "Operations Research Engineering Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369489,7 +369489,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "052eb803-66af-435a-9f6d-069e2aa8d052",
         "title": "Summer Intern - Data Mesh Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371888,7 +371888,7 @@
         "company_name": "Tesla",
         "id": "1a1a2a75-10ef-4a52-9850-702ee859dc3d",
         "title": "Reliability Test Engineer Intern - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -374266,7 +374266,7 @@
         "company_name": "Marvell",
         "id": "02e2f469-ae3f-418c-9712-1e786b25ad68",
         "title": "Analog Layout Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378954,7 +378954,7 @@
         "company_name": "Marvell",
         "id": "030de51d-475d-4824-8b91-aa3e6ff1c86a",
         "title": "Analog Design Intern Co-op - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -383866,7 +383866,7 @@
         "company_name": "Marvell",
         "id": "045d26e5-429e-4701-9b98-6353918f48fe",
         "title": "Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386791,7 +386791,7 @@
         "company_name": "RTX",
         "id": "0444d324-7733-4696-a2b1-2fb982558dcc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388167,7 +388167,7 @@
         "company_name": "RTX",
         "id": "04a691aa-579c-4daf-98c5-87a42434da2b",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389031,7 +389031,7 @@
         "company_name": "Dandy",
         "id": "bd15f88f-f59c-49a4-915c-8c54dc3c8adc",
         "title": "PhD Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394729,7 +394729,7 @@
         "company_name": "Humanoid",
         "id": "090093e5-7ef5-475c-a791-32ea8ed332a7",
         "title": "Robot Learning Intern - Robot Learning Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -396087,7 +396087,7 @@
         "company_name": "General Motors",
         "id": "037d751e-e964-4164-ad1e-5cd1b7b6cb57",
         "title": "Machine Learning Engineer Intern - AV/AI Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
