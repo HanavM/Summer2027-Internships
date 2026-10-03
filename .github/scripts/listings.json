@@ -186603,7 +186603,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -208372,7 +208372,7 @@
         "company_name": "Palantir",
         "id": "ffc1f08c-7dd5-4fce-986e-2e3b824aabb4",
         "title": "Forward Deployed Software Engineer Intern - Commercial",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -323901,7 +323901,7 @@
         "company_name": "Micron Technology",
         "id": "366e5594-f4cf-486f-b2e7-0c33b41e8b18",
         "title": "DRAM Customer Enablement Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -387459,7 +387459,7 @@
         "company_name": "Moog",
         "id": "3fb97c17-713f-4d82-ab2e-8174eeaebfb2",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389844,7 +389844,7 @@
         "company_name": "Northrop Grumman",
         "id": "2b8a623c-d139-413c-aff2-d9afce6a38e4",
         "title": "Cyber Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391589,7 +391589,7 @@
         "company_name": "The Federal Reserve System",
         "id": "8ec2033a-ce88-4b22-8928-f0bcfa00049a",
         "title": "Computer Science and Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393325,7 +393325,7 @@
         "company_name": "Intel",
         "id": "b9f57b63-1497-43c1-a2c5-1e13174e3c10",
         "title": "AI Software Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -394294,7 +394294,7 @@
         "company_name": "Intel",
         "id": "c29d0eb0-d886-48aa-910f-b36696f9f839",
         "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
