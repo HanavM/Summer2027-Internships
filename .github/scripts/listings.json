@@ -313172,7 +313172,7 @@
         "company_name": "Walmart",
         "id": "9a65a8df-82be-4934-8e8f-0308d4a7686a",
         "title": "Software Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -327674,7 +327674,7 @@
         "company_name": "COUNTRY Financial",
         "id": "d3a912ff-5ed8-40a6-8a28-91397669ffe8",
         "title": "Auto Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353136,7 +353136,7 @@
         "company_name": "Zions Bank",
         "id": "e04fda0f-12a2-4117-aaa1-dc27e62a8cd0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -353348,7 +353348,7 @@
         "company_name": "APEX Analytix",
         "id": "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -354360,7 +354360,7 @@
         "company_name": "RTX",
         "id": "d3493d3d-52cf-4bc5-a30a-2f26571b4b4b",
         "title": "Software Developer Intern - Digital Engine Services - Ground Cloud Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -357171,7 +357171,7 @@
         "company_name": "EQT Corporation",
         "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
         "title": "Data Engineering Intern - Completions Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -357706,7 +357706,7 @@
         "company_name": "RTX",
         "id": "9f477186-5000-4fe3-8151-4971b1c4abfb",
         "title": "Software Engineer Co-op - Winter/Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -371912,7 +371912,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375732,7 +375732,7 @@
         "company_name": "Neuberger Berman",
         "id": "d19faef5-69be-4dee-b896-16d292336009",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383727,7 +383727,7 @@
         "company_name": "Philips",
         "id": "2c831f83-ca5c-44e8-b6b8-dce99992900e",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392385,7 +392385,7 @@
         "company_name": "Invesco",
         "id": "a63f1342-abee-4e15-bd4c-988628442f07",
         "title": "Early Career Intern - Fixed Income Global Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397161,6 +397161,54 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "blp",
+        "id": "bf7072d3-5d46-48e6-951a-18e940c68ebc",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1791023423,
+        "date_posted": 1786389012,
+        "url": "https://jobs.ashbyhq.com/blp-digital/7c93c32d-f2e6-40be-a02e-b3a9ff0ff40e/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Barcelona, Spain"
+        ],
+        "company_url": "https://simplify.jobs/c/Blp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pinterest",
+        "id": "eda40edd-acbe-4e9d-98b6-9591dea895bc",
+        "title": "UX Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791023401,
+        "date_posted": 1790893159,
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
