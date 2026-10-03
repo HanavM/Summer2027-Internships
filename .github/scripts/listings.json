@@ -1,104 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "e295046d-008f-4d60-9d5d-5359f5197087",
-        "title": "Technology & Innovation Organization Hardware Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770261018,
-        "date_posted": 1770261018,
-        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Corvallis-Oregon-United-States-of-America/Personal-Technology---Innovation-Organization-Hardware-Engineering-Internship_3154457",
-        "locations": [
-            "Corvallis, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "8a490f98-fa95-4a3d-acd4-438e32918a4d",
-        "title": "AI/Machine Learning Automation Intern - BS/MS - Santa Clara",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770260743,
-        "date_posted": 1770260743,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-AI-Machine-Learning-Automation-Intern---BS-MS--Santa-Clara--CA-_R2611962",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "9d6664b9-9537-4185-af4a-6cc98bd0ba4a",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770260699,
-        "date_posted": 1770260699,
-        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304",
-        "locations": [
-            "Spring, TX",
-            "Corvallis, OR",
-            "Vancouver, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AutoNation",
-        "id": "09907129-b816-4e7e-b26e-3d5171e2f932",
-        "title": "Java Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770260669,
-        "date_posted": 1770260669,
-        "url": "https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Headquarters/Java-Development-Intern_JR2026135675",
-        "locations": [
-            "Fort Lauderdale, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/AutoNation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Dryft",
         "id": "bc6607ea-5320-4f25-8647-3ba280377230",
@@ -280313,7 +280215,7 @@
         "company_name": "Micron Technology",
         "id": "8cecca7e-2f21-4ae1-a558-68cd502f95b0",
         "title": "Technical Customer Management Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
