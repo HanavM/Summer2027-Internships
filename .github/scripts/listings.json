@@ -331087,7 +331087,7 @@
         "company_name": "USAA",
         "id": "59607dda-cef3-4eb4-8c26-edee74b6dd72",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342976,7 +342976,7 @@
         "company_name": "Ameriprise Financial",
         "id": "cdc90c92-a2b4-4524-be49-4c6676c48819",
         "title": "Quantitative Investment Research Co-op - Equities",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
