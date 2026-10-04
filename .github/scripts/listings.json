@@ -1,77 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bio-Techne",
-        "id": "1295652a-c213-44e0-8b93-42d92e64fe3c",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770336661,
-        "date_posted": 1770336661,
-        "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Austin-TX/Software-Engineering-Intern_JR101487",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Bio-Techne",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Royal Bank of Canada",
-        "id": "6c1adcd9-e8c3-43c5-9523-94c05c6b24ed",
-        "title": "Relationship Manager Business Markets Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770336392,
-        "date_posted": 1770336392,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GRANBY-Quebec-Canada/Relationship-Manager-Business-Markets-Intern_R-0000158521",
-        "locations": [
-            "Pointe-Claire, QC, Canada",
-            "Brossard, QC, Canada",
-            "Longueuil, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genentech",
-        "id": "235e41da-3b97-4438-bf15-a08f50bcdb4f",
-        "title": "Intern - Statistician and Data Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770336432,
-        "date_posted": 1770336432,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Statistician-and-Data-Scientist_202601-102485",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Resmed",
         "id": "ccf0c64c-11e7-4619-be1c-ba548ea22abf",
@@ -394808,7 +394737,7 @@
         "company_name": "Cadence Design Systems",
         "id": "11026e9a-3bdc-4a1f-b5ce-7ac1a1b56e6b",
         "title": "AI / Agentic AI / GenAI Intern - IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
