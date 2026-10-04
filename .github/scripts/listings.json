@@ -1,168 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "def110c0-8492-4fc3-b8bb-bd3df5e74890",
-        "title": "HPC and AI Software Architecture Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770391142,
-        "date_posted": 1770391142,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/HPC-and-AI-Software-Architecture-Intern_JR2012436",
-        "locations": [
-            "Germany",
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Calix",
-        "id": "0f585097-d53e-4fcd-b3f5-75ffb764a219",
-        "title": "Hardware Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770391067,
-        "date_posted": 1770391067,
-        "url": "https://calix.wd1.myworkdayjobs.com/External/job/Petaluma/Hardware-Engineering-Intern_R-11410",
-        "locations": [
-            "Petaluma, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Calix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sereact",
-        "id": "eae123ec-e9a7-42f4-8d57-a69ef6c8fdac",
-        "title": "Intern Teleoperation & Data Labeling - US",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770390948,
-        "date_posted": 1770390948,
-        "url": "https://jobs.ashbyhq.com/sereact/461de943-619c-44d3-8d45-252152de0c9a/application",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Sereact",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Montenson",
-        "id": "d80a02b0-daf0-42cd-b9e7-7be8690735cf",
-        "title": "AI Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770390507,
-        "date_posted": 1770390507,
-        "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21111",
-        "locations": [
-            "Minnesota"
-        ],
-        "company_url": "https://simplify.jobs/c/Montenson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Experian",
-        "id": "aa69574c-6dff-4cd9-a644-b66d397bc017",
-        "title": "Software Engineer Apprentice",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770390444,
-        "date_posted": 1770390444,
-        "url": "https://jobs.smartrecruiters.com/Experian/744000107713011",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Experian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "37652651-2ad4-4677-8808-52476788015b",
-        "title": "Software / System Engineer for Progeny Business Area - AI/ML",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1770390528,
-        "date_posted": 1770390528,
-        "url": "https://careers-gdms.icims.com/jobs/70433/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Kimley-Horn",
-        "id": "37352168-3277-4418-a59e-acd263343eb8",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770390445,
-        "date_posted": 1770390445,
-        "url": "https://careers-kimley-horn.icims.com/jobs/22314/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Kimley-Horn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "KBR",
         "id": "296427e4-d1d3-4631-862b-3a48fa389415",
@@ -362,73 +200,6 @@
             "Plantation, FL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Instacart",
-        "id": "4d98bbdb-a6f6-4f16-9b76-d679b07f17b0",
-        "title": "Data Science PhD Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770391790,
-        "date_posted": 1770391790,
-        "url": "https://instacart.careers/job/?gh_jid=7592056",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Instacart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "b6131d9a-83f1-492f-9fb5-7b4fcc950e26",
-        "title": "Data Analyst Intern \u2013 Co-op/Internship - Business Banking - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770391705,
-        "date_posted": 1770391705,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Analyst-Intern--Business-Banking---Summer-2026--Co-op-Internship----4-Months_R260004115-3",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "0ce5dc11-a85a-4b8b-b751-c74df6c86746",
-        "title": "Data Analyst Intern \u2013 Co-op/Internship - Business Banking - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770391708,
-        "date_posted": 1770391708,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst-Intern--Business-Banking---Summer-2026--Co-op-Internship----4-Months_R260004115",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -245480,7 +245251,7 @@
         "company_name": "Medline",
         "id": "e296a9f7-4502-4c56-9801-a0b9fca3e850",
         "title": "MBA Intern - Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -260317,7 +260088,7 @@
         "company_name": "NVIDIA",
         "id": "60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9",
         "title": "Hardware Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -281237,7 +281008,7 @@
         "company_name": "Medline",
         "id": "d3e9acbe-429c-41ea-ad4b-0536beab6782",
         "title": "Product Management Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -315497,7 +315268,7 @@
         "company_name": "Marvell",
         "id": "ce92705c-8ef8-41b9-b977-84b925ad7137",
         "title": "Analog Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -351306,7 +351077,7 @@
         "company_name": "Huntington Bancshares",
         "id": "9d03317c-6445-4ac3-86fb-093ab57e58ec",
         "title": "Business Innovation & AI Products Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357673,7 +357444,7 @@
         "company_name": "LSEG",
         "id": "f4082cd5-efa8-433b-a046-a2780c5286b5",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367250,7 +367021,7 @@
         "company_name": "Fidelity Investments",
         "id": "695c330c-a16f-4490-93fc-2f34b8d874ce",
         "title": "Quantitative Research Intern - Multi-Asset Research Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -380976,7 +380747,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "8c93ba5d-c961-40fd-96f0-71e8be7211de",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392394,7 +392165,7 @@
         "company_name": "Houlihan Lokey",
         "id": "d6edb373-31c9-46ca-b0c8-87877dcb9d6d",
         "title": "Financial Analyst - Corporate Valuation Advisory Services - Complex Securities",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -395898,6 +395669,53 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "9147101e-cb46-4f47-9456-f57bca1a2710",
+        "title": "Graduate Geospatial Data Science Modeling and Analysis Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791126231,
+        "date_posted": 1789084800,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14510",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "c87681f7-f024-4e16-8747-fb923be74d50",
+        "title": "Digital Electrical Design Engineer 1 Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791126417,
+        "date_posted": 1788825600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Electrical-Design-Engineer-I--Onsite-_01872984",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
