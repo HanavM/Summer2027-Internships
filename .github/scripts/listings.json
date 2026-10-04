@@ -341577,7 +341577,7 @@
         "company_name": "TD Bank",
         "id": "a78f5a0d-953f-4465-8622-6c6b2ad17d27",
         "title": "Data Engineer Intern - Global Technology & Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377368,7 +377368,7 @@
         "company_name": "Boston Scientific",
         "id": "521a56a4-f683-4861-8565-e081a72736c1",
         "title": "Software Engineer Intern - R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
