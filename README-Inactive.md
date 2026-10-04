@@ -1646,14 +1646,14 @@
 <td>Intern - IT</td>
 <td>Colorado Springs, CO</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Shure?utm_source=GHList&utm_medium=company">Shure</a></strong></td>
 <td>Application Software Engineer Intern</td>
 <td>Niles, IL</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company">GlobalFoundries</a></strong></td>
@@ -5069,7 +5069,7 @@
 <td>Data Science Intern - Summer 2027</td>
 <td>SF</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Allen-Control-Systems?utm_source=GHList&utm_medium=company">Allen Control Systems</a></strong></td>
@@ -7820,14 +7820,14 @@
 <td>Quantitative Trading Intern - Fixed Income & Currencies 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quant Intern - Strategic Analytics 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Oppenheimer-And-Co?utm_source=GHList&utm_medium=company">Oppenheimer & Co. Inc.</a></strong></td>
@@ -9542,7 +9542,7 @@
 <td>Hardware Developer Intern</td>
 <td>Oakville, ON, Canada</td>
 <td>🔒</td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
