@@ -5666,7 +5666,7 @@
         "company_name": "Exa Labs",
         "id": "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -106363,7 +106363,7 @@
         "company_name": "ByteDance",
         "id": "77ff658e-cabb-48be-9248-a271f5f898ff",
         "title": "Student Researcher - AI Foundation Model Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -139515,7 +139515,7 @@
         "company_name": "Fortinet",
         "id": "717f0806-c8b3-4053-9457-9e172707e5fa",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -147304,7 +147304,7 @@
         "company_name": "TikTok",
         "id": "810e50c9-00ba-458d-bdb0-89ae72adc9f9",
         "title": "Research Scientist Intern - Nextgen LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -152650,7 +152650,7 @@
         "company_name": "Cohere",
         "id": "3c716e20-040d-41dc-9d9d-b398aa4b7f77",
         "title": "Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -167189,7 +167189,7 @@
         "company_name": "Palantir",
         "id": "7107711b-0874-460d-932c-0c0d7b729f42",
         "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -167503,7 +167503,7 @@
         "company_name": "Palantir",
         "id": "563916cf-2297-4c6b-93cc-b171f73555c4",
         "title": "Palantir Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206747,7 +206747,7 @@
         "company_name": "Palantir",
         "id": "6f48a60c-c53f-4258-9d61-02f627a6072a",
         "title": "Palantir Software Engineer Intern - Forward Deployed Software Engineer - Commercial",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206955,7 +206955,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219735,7 +219735,7 @@
         "company_name": "Optiver",
         "id": "56965bf6-c164-4f90-8d38-c6ccc6fdcd9a",
         "title": "Trading Automation and Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -221691,7 +221691,7 @@
         "company_name": "GE Healthcare",
         "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
         "title": "Engineering Development Program Intern - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -222092,7 +222092,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "12e90625-1a21-45ca-b442-bd210e183914",
         "title": "Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -222624,7 +222624,7 @@
         "company_name": "Google",
         "id": "1af2873b-32c5-4dac-9ccb-9af00aa0c9a3",
         "title": "Student Researcher",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -222855,7 +222855,7 @@
         "company_name": "Denari",
         "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
         "title": "Product & Software Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231198,7 +231198,7 @@
         "company_name": "TikTok",
         "id": "6219c04b-bc5c-4d14-90ea-426f117b51c0",
         "title": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -232488,7 +232488,7 @@
         "company_name": "Copart",
         "id": "079e1669-46b8-488f-8297-f7c139a745ec",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -235202,7 +235202,7 @@
         "company_name": "Clyde Companies",
         "id": "8620e8e9-d341-4dc4-b0ca-3507586cee66",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -236309,7 +236309,7 @@
         "company_name": "TikTok",
         "id": "32e32073-854a-4b16-8adf-f981a6901e09",
         "title": "Machine Learning Engineer Intern - Recommendation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -236379,7 +236379,7 @@
         "company_name": "TikTok",
         "id": "69040dc4-2a49-4a97-8a41-75f8926c7b5a",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236403,7 +236403,7 @@
         "company_name": "TikTok",
         "id": "55417269-0302-4607-96a4-1ed2b420ba05",
         "title": "Software Engineer Intern - Trust and Safety Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236427,7 +236427,7 @@
         "company_name": "TikTok",
         "id": "54936466-1738-4f96-99aa-7dca5c1c5fb1",
         "title": "Machine Learning Engineer Intern - Data Search Search Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236450,7 +236450,7 @@
         "company_name": "TikTok",
         "id": "53d06972-e847-4ab6-baf8-27f2642beba6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236568,7 +236568,7 @@
         "company_name": "TikTok",
         "id": "583da786-a806-4182-a9ea-6299307644ac",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236639,7 +236639,7 @@
         "company_name": "TikTok",
         "id": "7488c664-80c5-4270-8dba-8eeb45c1397a",
         "title": "Machine Learning Scientist Intern - Content Ecology - LLM Application",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236782,7 +236782,7 @@
         "company_name": "TikTok",
         "id": "8db73e59-868b-443c-ae94-c136c0561141",
         "title": "Artificial Intelligence Engineer Intern - Client Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -236806,7 +236806,7 @@
         "company_name": "TikTok",
         "id": "2e35f7c5-6439-4055-8645-1f6e1035fcd6",
         "title": "Backend Software Engineer Intern - Digital Content Center",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -236996,7 +236996,7 @@
         "company_name": "TikTok",
         "id": "8f05dd2f-befa-4ddd-8488-134b03cc716d",
         "title": "Software Engineer Intern - Agentic Creation-Effect Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -237115,7 +237115,7 @@
         "company_name": "TikTok",
         "id": "21843187-b30d-4873-8247-27a9a3d7b05d",
         "title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -237295,7 +237295,7 @@
         "company_name": "JP Morgan Chase",
         "id": "736ed5d6-63be-4dfa-b0d6-5eb9c5d4e663",
         "title": "Quantitative Research Intern - Risk and Treasury",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -237377,7 +237377,7 @@
         "company_name": "JP Morgan Chase",
         "id": "6d7e83bd-6e67-4d8c-919e-862288b8b561",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -238105,7 +238105,7 @@
         "company_name": "TikTok",
         "id": "42c0c70a-f3aa-4aab-b737-a65c498589b7",
         "title": "Research Engineer Intern - Monetization Technology - Business Integrity",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -239845,7 +239845,7 @@
         "company_name": "TikTok",
         "id": "8b95003b-f01d-4d6b-a4d2-1e4c6d890df5",
         "title": "Software Engineer Intern - Global CRM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -239869,7 +239869,7 @@
         "company_name": "TikTok",
         "id": "6f9b09ce-ac3f-47ef-9225-03bace1084c7",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -239893,7 +239893,7 @@
         "company_name": "TikTok",
         "id": "4ef18c97-61e7-45fb-96b5-55d9163a1786",
         "title": "Software Engineer Intern - Effects Performance",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -239988,7 +239988,7 @@
         "company_name": "TikTok",
         "id": "6fa46b99-9c48-44b2-8d38-e17ef2651837",
         "title": "Software Engineer Intern - Ads Interface",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -240083,7 +240083,7 @@
         "company_name": "TikTok",
         "id": "14af9b4a-6b3e-473b-844f-542a89afb184",
         "title": "Recommendation Product Manager Intern - Content Ecosystem",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -240107,7 +240107,7 @@
         "company_name": "TikTok",
         "id": "708992c3-129c-4bbd-9c10-a0ae59f29fd2",
         "title": "Machine Learning Engineer Intern - Performance Monetization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -240176,7 +240176,7 @@
         "company_name": "TikTok",
         "id": "6c0be2d1-eac9-429a-b900-df719577d679",
         "title": "Machine Learning Engineer Intern - Commerce Ads - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -240225,7 +240225,7 @@
         "company_name": "TikTok",
         "id": "6dabe551-58cb-4dd5-9ba4-5656067dd84a",
         "title": "Machine Learning Engineer Intern - Brand Ads",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -240296,7 +240296,7 @@
         "company_name": "TikTok",
         "id": "6454b1b2-6daf-4a13-9e9f-47209a333d39",
         "title": "Backend Software Engineer Intern - LIVE Foundation Governance Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -240437,7 +240437,7 @@
         "company_name": "TikTok",
         "id": "722bb14f-670f-48c9-8320-e07db2eff930",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -240461,7 +240461,7 @@
         "company_name": "TikTok",
         "id": "3b44efc2-7d58-43bc-a375-21f4344932d3",
         "title": "Data Science Intern - Integrity and Safety",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -241226,7 +241226,7 @@
         "company_name": "American Express",
         "id": "14be19fd-d9b5-4218-9a72-21ca5a1b73da",
         "title": "Product Development Intern - US Consumer Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -241274,7 +241274,7 @@
         "company_name": "TikTok",
         "id": "87667d11-6adc-446a-9b2e-15e0dc0b761b",
         "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -241297,7 +241297,7 @@
         "company_name": "TikTok",
         "id": "3b700557-5c32-4773-8cfe-f11a66b71a4f",
         "title": "Data Science Intern - TikTok Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -241461,7 +241461,7 @@
         "company_name": "ByteDance",
         "id": "1077cb58-5992-4ad8-acb0-7980b9360baa",
         "title": "Student Researcher - Compiler - Seed Infra",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -241818,7 +241818,7 @@
         "company_name": "TikTok",
         "id": "861c7a8a-d9c3-4137-b070-331f0d26e5b3",
         "title": "Data Scientist Intern - VOD Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -241842,7 +241842,7 @@
         "company_name": "TikTok",
         "id": "633fde2a-eea3-462a-91b6-f0c8025fba8d",
         "title": "Machine Learning Engineer Intern - Search",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -241890,7 +241890,7 @@
         "company_name": "TikTok",
         "id": "7fdf2de6-75ca-4715-8764-720c7cc52695",
         "title": "Data Engineer Intern - Ads Targeting",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -244070,7 +244070,7 @@
         "company_name": "TikTok",
         "id": "8b5ac2f9-33b4-434d-b7d0-d7d0afcc5357",
         "title": "Fullstack Software Engineer Intern - Global E-Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -244094,7 +244094,7 @@
         "company_name": "TikTok",
         "id": "470d8405-efc2-46a4-984e-477fa5e3d31e",
         "title": "Software Engineer Intern - Global E-Commerce Search Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -244118,7 +244118,7 @@
         "company_name": "TikTok",
         "id": "3eeac721-35f3-4f16-9019-05cfc80ad251",
         "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -245357,7 +245357,7 @@
         "company_name": "TikTok",
         "id": "5cd02bbb-4f1e-49d8-a75c-44f5f6e2e968",
         "title": "Frontend Engineer Intern - Ads Interface",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -247650,7 +247650,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "14051ce6-a050-4a8e-851b-555583f7ba2c",
         "title": "Data Engineer Intern - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -249637,7 +249637,7 @@
         "company_name": "TikTok",
         "id": "37258bf6-9a8c-4245-bc45-0fb8e73fecca",
         "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -249660,7 +249660,7 @@
         "company_name": "TikTok",
         "id": "0e6104ee-b59a-435c-af2d-24c7e880c109",
         "title": "Product Manager Intern - Ads Interface and Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -249729,7 +249729,7 @@
         "company_name": "TikTok",
         "id": "0d1a5d14-2cc4-4c85-a1a6-aa02ecc2b4f8",
         "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -250497,7 +250497,7 @@
         "company_name": "TikTok",
         "id": "2546c60d-b4b4-495a-927e-6a112bdefc69",
         "title": "Product Operations Intern - TikTok Shop Apps and API",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -251247,7 +251247,7 @@
         "company_name": "TikTok",
         "id": "5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
         "title": "Data Science Intern - Advertisement Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -252385,7 +252385,7 @@
         "company_name": "Composio",
         "id": "4c0cebd4-5e15-474e-8493-34860927bdfb",
         "title": "Fullstack Engineer Intern - Product Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -252641,7 +252641,7 @@
         "company_name": "TikTok",
         "id": "56973e0e-ee92-4898-b2d3-7f5df827f064",
         "title": "Product Manager Intern - Scaled Growth",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -253437,7 +253437,7 @@
         "company_name": "GuideWell Mutual",
         "id": "7cd1e33f-21cb-46a0-9c15-b8392e204d63",
         "title": "Enterprise Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -254931,7 +254931,7 @@
         "company_name": "TikTok",
         "id": "154ae79b-60c6-40a6-9be2-a48637bb96ff",
         "title": "Machine Learning Engineer Intern - E-Commerce Governance",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -255114,7 +255114,7 @@
         "company_name": "FAST Enterprises",
         "id": "7838c307-daa5-4e75-b8c2-7218ab2354cb",
         "title": "Implementation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -255183,7 +255183,7 @@
         "company_name": "Datadog",
         "id": "31355168-e211-42dc-a7b5-c84567c929cc",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -256006,7 +256006,7 @@
         "company_name": "American Express",
         "id": "6c81f43a-0537-494d-a776-dd4ac38accbf",
         "title": "AI Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -257444,7 +257444,7 @@
         "company_name": "American Express",
         "id": "838b7d8e-c2bf-4395-b660-6f3484019451",
         "title": "AI Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -258371,7 +258371,7 @@
         "company_name": "TikTok",
         "id": "5b89096d-a6c7-439f-9d03-ebdd62e2588a",
         "title": "Data Science Project Intern - Advertisement Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258440,7 +258440,7 @@
         "company_name": "TikTok",
         "id": "5fef5ebc-9956-4edd-8a29-1eee01522d58",
         "title": "Software Engineer Intern - TikTok Search Data Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -261797,7 +261797,7 @@
         "company_name": "TikTok",
         "id": "89769fe8-b21d-48e7-bc68-0ac457b3a934",
         "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -261821,7 +261821,7 @@
         "company_name": "TikTok",
         "id": "7a6d014a-e6ad-4587-8acf-9acfe710342d",
         "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -261845,7 +261845,7 @@
         "company_name": "TikTok",
         "id": "4ecdff57-6188-48f4-9540-4521c485bc53",
         "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -262137,7 +262137,7 @@
         "company_name": "TikTok",
         "id": "79ddabd2-cd14-4fd6-8aec-f82858b2190e",
         "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -264165,7 +264165,7 @@
         "company_name": "AMD",
         "id": "646c1eeb-a6b8-40f6-95c7-581780504d2e",
         "title": "Machine Learning Intern/Co-op - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -264221,7 +264221,7 @@
         "company_name": "AMD",
         "id": "2b9774d4-2b94-4dc3-9aca-7b5dc857eaa2",
         "title": "Firmware Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -264251,7 +264251,7 @@
         "company_name": "AMD",
         "id": "16ab9e56-fd38-43a4-a048-7cca73f13c2d",
         "title": "Hardware Design Verification Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -264448,7 +264448,7 @@
         "company_name": "TikTok",
         "id": "892947b6-4cac-464b-941a-7244615e4d0a",
         "title": "Data Engineer Intern - E-commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264884,7 +264884,7 @@
         "company_name": "JP Morgan Chase",
         "id": "7833a92d-102e-4ca4-9a8b-c14f36398bc0",
         "title": "Analytics Solutions Associate - Consumer and Community Banking - Focused Analytics Solutions Team",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -266027,7 +266027,7 @@
         "company_name": "TikTok",
         "id": "7fff5796-fc88-4d04-a6fa-be35e0bdb2e0",
         "title": "AI Product Manager Intern - Product Social",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -267741,7 +267741,7 @@
         "company_name": "Procter & Gamble",
         "id": "24bed835-60bb-4054-acb7-317cd97877c7",
         "title": "Analytics & Insights Intern - Advanced Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2028"
@@ -269722,7 +269722,7 @@
         "company_name": "TikTok",
         "id": "63b147f7-67e5-40ea-bf27-906ad1de151c",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270405,7 +270405,7 @@
         "company_name": "AMD",
         "id": "8d8ee1d2-7639-4b3a-a595-6be2478476c4",
         "title": "ASIC Package Engineer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -271570,7 +271570,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "5b23b4bf-a18e-40ed-b036-ccb603c87ef3",
         "title": "Data Scientist Intern - Data Science - System Performance Evaluation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -272229,7 +272229,7 @@
         "company_name": "DTCC",
         "id": "262949d4-ed66-4934-b2fe-ba5b67318c50",
         "title": "Data Solutions Intern - Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -276112,7 +276112,7 @@
         "company_name": "Leidos",
         "id": "083cfc54-1c27-4fc6-ab89-6606e06aca1f",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -279330,7 +279330,7 @@
         "company_name": "Framatome",
         "id": "5e006de2-cad9-4e1d-a296-f0c0823c5b22",
         "title": "Computer Science Engineer Intern Co-op - University Co-op Technical",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -279883,7 +279883,7 @@
         "company_name": "American Express",
         "id": "6a910274-8203-4361-9726-d22a315d1644",
         "title": "Product Development Intern - Global Commercial Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280501,7 +280501,7 @@
         "company_name": "TikTok",
         "id": "4b81bd00-4b97-4ec4-954b-892368c48de0",
         "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280524,7 +280524,7 @@
         "company_name": "TikTok",
         "id": "30c6e50a-a52b-4624-ad9a-bff649958700",
         "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281055,7 +281055,7 @@
         "company_name": "Garmin",
         "id": "6fae71ff-8ba9-4cb2-9a98-67e653634b80",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281911,7 +281911,7 @@
         "company_name": "C3.ai",
         "id": "222db458-975e-451f-8e50-02fed5bc0583",
         "title": "Data Scientist Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -284362,7 +284362,7 @@
         "company_name": "Cvent",
         "id": "58e64075-6609-418d-a437-22d5c25dd225",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -284788,7 +284788,7 @@
         "company_name": "Travelers",
         "id": "19e8c15e-ce1a-40e9-9838-179717b8efba",
         "title": "Geospatial Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284839,7 +284839,7 @@
         "company_name": "Eaton",
         "id": "45c52bf1-8ead-4aef-b9c6-9780fb66048e",
         "title": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285073,7 +285073,7 @@
         "company_name": "American Express",
         "id": "19707ef8-155b-4c94-bab9-a0988614b068",
         "title": "Data Analytics Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285419,7 +285419,7 @@
         "company_name": "American Express",
         "id": "8c9a6e98-5612-418c-9824-6303cda6f199",
         "title": "Product Management Intern - Global Merchant & Network Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285442,7 +285442,7 @@
         "company_name": "American Express",
         "id": "6e4aa2c7-7957-4b8d-b4a1-b19dfa362504",
         "title": "Data Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285488,7 +285488,7 @@
         "company_name": "American Express",
         "id": "56cea9ec-cce7-458e-a197-985b6435bd36",
         "title": "Data Analytics Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285557,7 +285557,7 @@
         "company_name": "American Express",
         "id": "26134efd-a4c8-4c77-8131-6ee7b6bfa646",
         "title": "Digital Product Management Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285910,7 +285910,7 @@
         "company_name": "Emerson Electric",
         "id": "190b0feb-7aaf-4ddc-96db-7a8483dee439",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -286048,7 +286048,7 @@
         "company_name": "Emerson Electric",
         "id": "7c4751e6-afdf-4f9a-8e3d-6641e1b9ecc9",
         "title": "Product Management Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -286493,7 +286493,7 @@
         "company_name": "Momentive",
         "id": "0d13979f-34e6-4863-983f-b931e8619e05",
         "title": "Service Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286804,7 +286804,7 @@
         "company_name": "Stripe",
         "id": "5bef05c2-8d0b-497e-9bfe-64ff4e8045d0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -286855,7 +286855,7 @@
         "company_name": "Edison International",
         "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -287173,7 +287173,7 @@
         "company_name": "AMD",
         "id": "59aad3fe-5cae-48ca-9e34-608c664e0090",
         "title": "Graphics Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -288404,7 +288404,7 @@
         "company_name": "American Express",
         "id": "26fc2a52-b260-4601-a804-43fb299bebf2",
         "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -289623,7 +289623,7 @@
         "company_name": "Micron Technology",
         "id": "1155a976-0c8a-4ce5-8e4f-e717be6dff40",
         "title": "Systems Performance Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -290913,7 +290913,7 @@
         "company_name": "Post Holdings",
         "id": "6de536a3-1aec-4953-91d2-43e21e6062ef",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292442,7 +292442,7 @@
         "company_name": "Medline",
         "id": "14f23b27-94a9-4a14-8b54-c8b22a88277e",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293572,7 +293572,7 @@
         "company_name": "Formlabs",
         "id": "44a0f2de-9c89-49d5-b0c5-209980baaa01",
         "title": "Hardware Systems Integration Intern - Winter/Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -294300,7 +294300,7 @@
         "company_name": "Fenwick & West",
         "id": "20193c4f-2bf1-4b30-a574-750d8d917d92",
         "title": "Forward Deployed Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -294331,7 +294331,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "2a48e05f-f557-488e-876c-eafef0801099",
         "title": "Mission Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294426,7 +294426,7 @@
         "company_name": "TikTok",
         "id": "3f7978bc-c83d-4088-abff-540cb9036839",
         "title": "Ecosystem Analyst Intern - TikTok LIVE",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -295410,7 +295410,7 @@
         "company_name": "Formlabs",
         "id": "70b785a4-0df5-4327-9225-c3c707723254",
         "title": "R&D Print Process Engineering Intern - Winter/Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -296359,7 +296359,7 @@
         "company_name": "Emerson Electric",
         "id": "3f46a41f-3885-41a6-8f69-bbcc0fa3006a",
         "title": "Chemical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -297155,7 +297155,7 @@
         "company_name": "Shure",
         "id": "72b5a18b-7e85-4712-9ddd-9562a091e25f",
         "title": "FPGA Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297295,7 +297295,7 @@
         "company_name": "Shure",
         "id": "6d54d38d-e5ea-4b4e-8d05-dbea32923015",
         "title": "Application Systems Development Intern - Motive Mix",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297316,7 +297316,7 @@
         "company_name": "Shure",
         "id": "62b070f3-36f8-45af-8694-3c1417f363aa",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297340,7 +297340,7 @@
         "company_name": "Shure",
         "id": "1d106df7-acfd-4514-9ccd-c00e9d70d3d9",
         "title": "Quality Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297503,7 +297503,7 @@
         "company_name": "Shure",
         "id": "80bc2f39-e660-4691-aa38-68acbd7b9e84",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297526,7 +297526,7 @@
         "company_name": "Shure",
         "id": "79fa7912-460d-4ed0-8f17-686a0a47afbe",
         "title": "Mobile Applications Intern - iOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297576,7 +297576,7 @@
         "company_name": "Shure",
         "id": "5ea0f850-a40e-4b33-8998-b57f63ea8379",
         "title": "Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297690,7 +297690,7 @@
         "company_name": "Shure",
         "id": "645b61ea-3bc4-432f-86af-7f6909ed5656",
         "title": "Global Product Management Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298405,7 +298405,7 @@
         "company_name": "Shure",
         "id": "27e893cb-896a-4fd1-805b-a43fbb5f89f9",
         "title": "Electrical Engineer Intern - Pro Audio Circuitry",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298979,7 +298979,7 @@
         "company_name": "Samsara",
         "id": "1fd9f3fb-b5dd-4e12-9bf7-6d3ff988d2c3",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -299606,7 +299606,7 @@
         "company_name": "TikTok",
         "id": "82b82765-ac44-4015-94fc-97d512495e37",
         "title": "AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -301239,7 +301239,7 @@
         "company_name": "Texas Instruments",
         "id": "599825f7-b453-45b1-870a-8ab037aefcb2",
         "title": "Product Engineer Intern - Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -301780,7 +301780,7 @@
         "company_name": "GE Appliances",
         "id": "259c0c7d-c60b-40ad-936e-d5aef95bbb9f",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -302541,7 +302541,7 @@
         "company_name": "AMD",
         "id": "8239ef8b-e07a-4715-bc6d-2036aad271eb",
         "title": "Product Development Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -306158,7 +306158,7 @@
         "company_name": "AMD",
         "id": "68c629c0-ad5e-461a-a2fb-fecaf1808854",
         "title": "AGS Libraries Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -306693,7 +306693,7 @@
         "company_name": "TikTok",
         "id": "2240b40f-8b1b-4e97-a0b0-83f5e7a65019",
         "title": "Product Solutions and Operations Project Intern - Scaled Growth",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307084,7 +307084,7 @@
         "company_name": "TikTok",
         "id": "62159d15-bab7-4d5c-87ff-dbfd99f3c357",
         "title": "Product Solutions and Operations Intern - Ads Interface and Platform Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -307806,7 +307806,7 @@
         "company_name": "TikTok",
         "id": "4d6f0e26-8466-48bb-bb61-829dede5babb",
         "title": "Applied Scientist Intern - Business Integrity - Global Frontier Tech Recruitment Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -308054,7 +308054,7 @@
         "company_name": "TikTok",
         "id": "649ce601-1cf3-41a7-bc57-2ff4727b54be",
         "title": "Product Manager Vertical Search Ads Mandarin Speaking Project intern - Content and Service Ads - 2026 Start - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -308334,7 +308334,7 @@
         "company_name": "TikTok",
         "id": "8956fcef-9bc0-4e93-bbc2-2f9165ddc136",
         "title": "Product Solutions and Operations Project Intern - Ads Interface and Platform Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -308450,7 +308450,7 @@
         "company_name": "The Cary Company",
         "id": "06b42354-9e3f-4ab3-9d2d-ea134923bf23",
         "title": "AI / Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -308565,7 +308565,7 @@
         "company_name": "TikTok",
         "id": "20754e5e-e165-40e6-b859-c1dca81f7bdf",
         "title": "Machine Learning Infrastructure Engineer Intern - Ads Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -309107,7 +309107,7 @@
         "company_name": "Keysight Technologies",
         "id": "8da34271-ec6c-447c-b0fc-d9ee23fcdaa3",
         "title": "Integrated Photonics Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -310233,7 +310233,7 @@
         "company_name": "Waymo",
         "id": "27f622fc-a5e9-4b35-bfb1-ac371473556a",
         "title": "Software Engineering Intern - Behavior Test - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310302,7 +310302,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310348,7 +310348,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311926,7 +311926,7 @@
         "company_name": "GE Vernova",
         "id": "1da0d957-16fb-48fa-9def-e288461b2264",
         "title": "Hardware Engineer Co-op - Critical Infrastructure Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -312069,7 +312069,7 @@
         "company_name": "ByteDance",
         "id": "5b7f08a3-2a1a-4cc9-9c45-1c1354b90913",
         "title": "Student Researcher - AI Foundation Models Infrastructure - Seed Infra",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -312714,7 +312714,7 @@
         "company_name": "Corning",
         "id": "6960822e-4578-44ab-a953-a8185d77fad5",
         "title": "Digital & IT Intern - Analyst - Data & AI Platform Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314940,7 +314940,7 @@
         "company_name": "Garmin",
         "id": "09df6596-53d1-4585-a544-3614d26f1de7",
         "title": "Software Engineer Intern - Aviation Web Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -314987,7 +314987,7 @@
         "company_name": "RoviSys",
         "id": "5bf5148c-143a-498b-8734-4b44f867d53d",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -315832,7 +315832,7 @@
         "company_name": "RoviSys",
         "id": "78a66370-da21-4e67-97d5-5a37b4f51073",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317096,7 +317096,7 @@
         "company_name": "Applied Materials",
         "id": "175ef4c9-fecc-47c4-b091-217815858898",
         "title": "Data Analyst Intern - Global Technical Learning Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319575,7 +319575,7 @@
         "company_name": "incident.io",
         "id": "56542a8e-855c-488c-913e-1d63b6c0a8d6",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320277,7 +320277,7 @@
         "company_name": "Merck",
         "id": "0de01dac-3569-4e3a-a5e8-b53a36e66025",
         "title": "Digital Strategy & Insights Intern - Global Supplier Management Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321386,7 +321386,7 @@
         "company_name": "Gilead Sciences",
         "id": "02a5261f-1d0f-40cb-ba6f-7417c278e2c7",
         "title": "Development Intern - Regulatory Operations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321413,7 +321413,7 @@
         "company_name": "Gilead Sciences",
         "id": "21a1c289-2659-42d8-b129-afd4e443f775",
         "title": "Development Intern - Clinical Data Management - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321613,7 +321613,7 @@
         "company_name": "BJC HealthCare",
         "id": "0d841cc8-6e91-43dd-8425-aeaf1e9aeb1f",
         "title": "RPA Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -324335,7 +324335,7 @@
         "company_name": "Hoffman Construction",
         "id": "3260dc4e-1b9f-41a2-893f-faf780f3dad1",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325198,7 +325198,7 @@
         "company_name": "Datadog",
         "id": "4d30f64b-9b67-4679-a968-1b62bf57c98e",
         "title": "Software Engineer Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326622,7 +326622,7 @@
         "company_name": "Navy Federal",
         "id": "827d2b4c-173e-49bf-915b-86f7b399e88d",
         "title": "Business Intelligence Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2017"
         ],
@@ -326646,7 +326646,7 @@
         "company_name": "Navy Federal",
         "id": "8761cb91-c8d1-4411-9c25-3b8a7577c9c6",
         "title": "Payments AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326836,7 +326836,7 @@
         "company_name": "Navy Federal",
         "id": "84aceb36-b81e-41f2-b127-68507407f1b0",
         "title": "Summer Associate Internship - Fraud Data Governance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326860,7 +326860,7 @@
         "company_name": "Navy Federal",
         "id": "7d033b9a-bd88-4dfb-897d-f21892ee951f",
         "title": "Security Workflow Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326886,7 +326886,7 @@
         "company_name": "Navy Federal",
         "id": "6f27a249-c5f8-49c5-917a-9eb5679af824",
         "title": "Product Strategist Intern - Student Loans",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326909,7 +326909,7 @@
         "company_name": "Navy Federal",
         "id": "65ad38a7-2526-4991-8307-6c8daf2a8a35",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327008,7 +327008,7 @@
         "company_name": "Navy Federal",
         "id": "27da423b-2545-4b9a-a284-47eb573fb2d1",
         "title": "Business Intelligence Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327177,7 +327177,7 @@
         "company_name": "Navy Federal",
         "id": "21c86ca5-1325-4405-906c-b0752356bf86",
         "title": "Business Intelligence Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327221,7 +327221,7 @@
         "company_name": "Kinaxis",
         "id": "5ac1d7a8-5581-4468-b12a-92c221dd3cd0",
         "title": "Developer Intern - AI Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -331306,7 +331306,7 @@
         "company_name": "Garmin",
         "id": "81f5a173-5b4c-444a-ad18-56f5e832b4ce",
         "title": "Cartography Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -331352,7 +331352,7 @@
         "company_name": "Dell Technologies",
         "id": "30f6fed1-ce14-40e5-a0b6-c22c7ded3c7d",
         "title": "Hardware Engineering Intern - Client Solutions Group Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331756,7 +331756,7 @@
         "company_name": "Barr",
         "id": "043c5fe0-58dc-4412-aeef-db60c9bd78b9",
         "title": "GIS Specialist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Spring 2027"
@@ -336350,7 +336350,7 @@
         "company_name": "TD Bank",
         "id": "194a2192-6413-4ed0-9957-dfe5dc3f3f0c",
         "title": "Software Engineer Co-op - Global Technology & Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -336417,7 +336417,7 @@
         "company_name": "Kinaxis",
         "id": "5b07d830-b50d-4cff-a64a-555dad0ea478",
         "title": "Developer Intern - Clients - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -336438,7 +336438,7 @@
         "company_name": "Swarm Aero",
         "id": "4c49bc10-cd1b-499e-8eac-48cf3b26e69c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336645,7 +336645,7 @@
         "company_name": "The Toro Company",
         "id": "214f535e-90ec-4cb3-900e-571f33da6d08",
         "title": "Enterprise Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338936,7 +338936,7 @@
         "company_name": "Veeam Software",
         "id": "6db7a199-b2fc-411a-bc8e-960bd3c02f28",
         "title": "AI & Automation Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338984,7 +338984,7 @@
         "company_name": "Veeam Software",
         "id": "12b58efe-8607-4280-a3c0-fb40a2a2232a",
         "title": "Security & AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339992,7 +339992,7 @@
         "company_name": "AMD",
         "id": "5cefc7e6-b923-4f8b-805c-97d558b50afd",
         "title": "SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -340017,7 +340017,7 @@
         "company_name": "Amcor",
         "id": "16ff9620-4170-4062-a826-c16757d5c73f",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340136,7 +340136,7 @@
         "company_name": "SCOR",
         "id": "678495bb-e157-455e-8bb4-01d862999751",
         "title": "Strategy & Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -340570,7 +340570,7 @@
         "company_name": "Blue Robotics",
         "id": "4460b93d-f497-449c-9378-4be985d50e83",
         "title": "Electronics Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341170,7 +341170,7 @@
         "company_name": "TikTok",
         "id": "89f594f1-36b8-4da1-a6b7-4c345fc51e0b",
         "title": "Frontend Engineer Project Intern - Tiktok Multimedia Arch - 2026 - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342541,7 +342541,7 @@
         "company_name": "Wells Fargo",
         "id": "1ccbb9e2-4eb5-4b5c-b46b-df61586053ca",
         "title": "Software Engineer Intern - Early Careers - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344003,7 +344003,7 @@
         "company_name": "Waymo",
         "id": "555a5129-471f-4c93-8e7b-aa4a1996fa61",
         "title": "Human Behavior Analytics Intern - Safety Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344256,7 +344256,7 @@
         "company_name": "Google",
         "id": "747b784e-260a-408e-9aaa-b44aae10b4e9",
         "title": "Business Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344309,7 +344309,7 @@
         "company_name": "Google",
         "id": "6dd83af2-b361-466c-b194-a7b86e904899",
         "title": "Data Scientist Intern - Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344434,7 +344434,7 @@
         "company_name": "Google",
         "id": "6e14720a-d435-4679-887e-dd6287aad24a",
         "title": "Silicon Engineering Intern - BS/MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344537,7 +344537,7 @@
         "company_name": "Google",
         "id": "709433ac-42c3-4c44-a25b-c31b22c52054",
         "title": "User Experience Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344873,7 +344873,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "16e17942-d165-4b2f-bcb6-074d432003ea",
         "title": "Quantitative Trading Analyst Co-op - Global Equities",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -346773,7 +346773,7 @@
         "company_name": "Garmin",
         "id": "49b9153d-dd0a-4a39-8d08-d25c517c2417",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -346911,7 +346911,7 @@
         "company_name": "Dell Technologies",
         "id": "83c0080c-09ec-4ac1-9207-e3ffcf016d2f",
         "title": "Global Marketing AI & Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -347170,7 +347170,7 @@
         "company_name": "Johnson & Johnson",
         "id": "183a7c4c-19d3-4b57-85de-1ae125ee8aee",
         "title": "Electrical Engineer Intern - Robotics R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347967,7 +347967,7 @@
         "company_name": "BlackRock",
         "id": "20614976-ea25-4a78-9e7b-dd56262a74ca",
         "title": "Quantitative Master\u2019s Intern - Investments - Portfolio Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348126,7 +348126,7 @@
         "company_name": "Entegris",
         "id": "19d8e1f9-fd1a-43d1-a864-b5ab2e3e3cea",
         "title": "Operations Technical Training Platforms Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -349329,7 +349329,7 @@
         "company_name": "The Toro Company",
         "id": "133df2d5-e05c-44e5-acf9-2fde2084787e",
         "title": "ISC Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349540,7 +349540,7 @@
         "company_name": "SimVentions",
         "id": "5d113196-e5fd-48bb-9ca5-3ffccfb4683d",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350245,7 +350245,7 @@
         "company_name": "Nelnet",
         "id": "0c1f3584-5544-4498-90f5-5e78dbaaa86b",
         "title": "Software Engineer Intern - .NET/Web",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350458,7 +350458,7 @@
         "company_name": "APEX Analytix",
         "id": "45fec14d-2001-41b9-802c-251d000290e1",
         "title": "Data Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350528,7 +350528,7 @@
         "company_name": "APEX Analytix",
         "id": "00026218-6b9b-420f-a490-b3b29742cf17",
         "title": "Data Analyst Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -352569,7 +352569,7 @@
         "company_name": "CesiumAstro",
         "id": "76074617-8b99-469e-844d-793359eb86ee",
         "title": "Electrical Engineer Intern - FPGA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354275,7 +354275,7 @@
         "company_name": "Waymo",
         "id": "5efdb72a-819f-4637-a0fb-6f7ed73f2383",
         "title": "Machine Learning Intern - Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355383,7 +355383,7 @@
         "company_name": "Emerson Electric",
         "id": "717a9235-d891-49bf-845f-ebea0388bfe1",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356146,7 +356146,7 @@
         "company_name": "onsemi",
         "id": "3b6dc022-3c3c-4202-b427-b53c873fb2d0",
         "title": "Data and Visualization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356919,7 +356919,7 @@
         "company_name": "Axcelis Technologies",
         "id": "0f046a92-f831-47c1-8f88-5cc31f1722a8",
         "title": "Manufacturing Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -357671,7 +357671,7 @@
         "company_name": "LSEG",
         "id": "0fd4122e-ceb7-4f97-8f55-aaab32d000d7",
         "title": "Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358091,7 +358091,7 @@
         "company_name": "Garmin",
         "id": "51cf3d3e-0806-455c-933f-ca151601a136",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -359028,7 +359028,7 @@
         "company_name": "Qualcomm",
         "id": "1f958f11-c63f-4afb-8a4f-71e1e02f1ab0",
         "title": "Design Methodology Engineer Intern - MSIP - HW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359099,7 +359099,7 @@
         "company_name": "Qualcomm",
         "id": "5206048b-f392-4172-9f1c-bc86c12eabb3",
         "title": "Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359122,7 +359122,7 @@
         "company_name": "Qualcomm",
         "id": "4545deb5-ffdd-4032-ac96-4082299479fc",
         "title": "Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359145,7 +359145,7 @@
         "company_name": "Lennox International",
         "id": "34d8f865-8389-4eba-9e9e-66c244a5a9f3",
         "title": "Hardware Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -359352,7 +359352,7 @@
         "company_name": "OCC",
         "id": "16c51e84-e299-4273-8cd2-b0c002eb340d",
         "title": "Model Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359396,7 +359396,7 @@
         "company_name": "Invesco",
         "id": "0ce4d977-ead8-46ed-a4c7-aa2b56802591",
         "title": "Early Career Intern - Private Markets Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359561,7 +359561,7 @@
         "company_name": "REV Robotics",
         "id": "543a91b1-9042-4e1b-bdb1-91cd53d42f85",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -360402,7 +360402,7 @@
         "company_name": "TikTok",
         "id": "7c51e306-a24c-4fac-b188-b36e0bc3f128",
         "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360498,7 +360498,7 @@
         "company_name": "Kinaxis",
         "id": "3a72f20d-2be5-475f-ab69-49773fe54308",
         "title": "Developer Intern Co-op - AI Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -361938,7 +361938,7 @@
         "company_name": "Formlabs",
         "id": "3d4dd2b5-1f89-4cc5-8cf1-ab79dd00e3c1",
         "title": "Hardware Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -363329,7 +363329,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "3b1559b0-8937-4979-9507-9155ae62314f",
         "title": "Engineer/Scientist Intern - Health Systems and Human-Machine Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363523,7 +363523,7 @@
         "company_name": "Flex",
         "id": "1ce187ae-c250-4b22-8bee-28e3422d6cba",
         "title": "Manufacturing Data & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364694,7 +364694,7 @@
         "company_name": "UL Solutions",
         "id": "5c544a3c-f3fe-4f7d-961c-7405d57bacad",
         "title": "Digital Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368480,7 +368480,7 @@
         "company_name": "Rivian",
         "id": "40393754-cddc-4a20-94cc-f5d3c6f488bf",
         "title": "Software Engineer Co-op Intern - Enterprise Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -368504,7 +368504,7 @@
         "company_name": "Symbotic",
         "id": "0da41e04-d7cb-426a-87b7-932940f159f8",
         "title": "Bot Controls Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369544,7 +369544,7 @@
         "company_name": "Udig",
         "id": "3a86764d-e47b-4475-98c1-ec31081f9a2f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369867,7 +369867,7 @@
         "company_name": "West Bend Insurance",
         "id": "5b1eb0f8-7bed-43e1-8273-c4c58b2eca9e",
         "title": "IT Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370003,7 +370003,7 @@
         "company_name": "Waymo",
         "id": "6b159730-9852-401d-b64d-e07e1b5e80ba",
         "title": "Data Science Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370484,7 +370484,7 @@
         "company_name": "Eaton",
         "id": "3cd3db2a-093b-4ffb-b7fb-4348927dd1e1",
         "title": "Software Engineering Intern - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -370605,7 +370605,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370679,7 +370679,7 @@
         "company_name": "American Express",
         "id": "74ef05dd-dadb-4a70-838d-d41642df9bdd",
         "title": "Software Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371772,7 +371772,7 @@
         "company_name": "Vital Lyfe",
         "id": "55a8df83-d3ac-49bf-acf9-3f0994fef2ab",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -373050,7 +373050,7 @@
         "company_name": "West Bend Insurance",
         "id": "3ef4e51d-c8f0-4792-b2b3-bca136dbe3bb",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373074,7 +373074,7 @@
         "company_name": "West Bend Insurance",
         "id": "80fb1054-5f89-41bf-9c32-1132bd4aad16",
         "title": "Data Solution Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374256,7 +374256,7 @@
         "company_name": "Keysight Technologies",
         "id": "4aa62c62-3f0b-4713-bb23-b4c49825f562",
         "title": "Analog and Mixed Signal IC Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -374373,7 +374373,7 @@
         "company_name": "AMD",
         "id": "8e1d2d44-a43d-4241-9e7d-fc23ed939862",
         "title": "ML Systems Research Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375573,7 +375573,7 @@
         "company_name": "Semtech",
         "id": "1541d4e9-320a-423a-9a36-737a2e1a5cac",
         "title": "Validation Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375968,7 +375968,7 @@
         "company_name": "Marvell",
         "id": "18954c30-3dc4-4123-9a43-7c0b011c16e6",
         "title": "Analog and Mixed Signal Layout Engineer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376109,7 +376109,7 @@
         "company_name": "Corning",
         "id": "56a971f3-b99a-4529-adf4-d9c950b25ef5",
         "title": "Measurements Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377321,7 +377321,7 @@
         "company_name": "Tradeweb",
         "id": "65953c6c-4e10-43b0-bebf-f1a326199c76",
         "title": "Quantitative Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377796,7 +377796,7 @@
         "company_name": "Envoy",
         "id": "4dbf8f7e-b82e-4f37-97c6-327eac9a9efd",
         "title": "Solutions Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377819,7 +377819,7 @@
         "company_name": "Electronic Arts",
         "id": "8309b5a0-8e75-434e-b1e6-419b51f357ae",
         "title": "Gameplay Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378804,7 +378804,7 @@
         "company_name": "Atlassian",
         "id": "799d62f1-1dde-4bfb-83e1-3f4c656bf2d8",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378881,7 +378881,7 @@
         "company_name": "TRC Companies",
         "id": "3b1b8e9d-c4cf-4734-856a-c974daf38125",
         "title": "Advanced Energy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379564,7 +379564,7 @@
         "company_name": "Waymo",
         "id": "44631389-4603-4cbc-bb24-596433854282",
         "title": "Software Engineer Intern - Driver Refinement Foundations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379587,7 +379587,7 @@
         "company_name": "Waymo",
         "id": "3548b466-2e50-4b00-9af5-beccc61fd77d",
         "title": "Software Engineer Intern - MS/PhD - Systems Intelligence & Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379728,7 +379728,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "7d75bd70-f568-420d-985e-c8ccd2632c8f",
         "title": "Artificial Intelligence and Machine Learning Intern - Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380110,7 +380110,7 @@
         "company_name": "Copart",
         "id": "1b57129e-3960-4c01-aa5b-ba129d445e21",
         "title": "Software Engineering Intern - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380485,7 +380485,7 @@
         "company_name": "Waymo",
         "id": "557e1909-4373-42e8-847b-ee26942d838b",
         "title": "Perception Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380625,7 +380625,7 @@
         "company_name": "Atlassian",
         "id": "81966fa3-a10b-4a7d-bba2-f75b0ec0c239",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380879,7 +380879,7 @@
         "company_name": "TikTok",
         "id": "6eff6a24-903f-4e0d-9c37-9391aca12788",
         "title": "Cross-border E-commerce Product Operations Intern - TikTok Shop - User & Promotion Growth Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381515,7 +381515,7 @@
         "company_name": "Waymo",
         "id": "6acc24ca-3ff2-4d56-a40c-e531d2a57522",
         "title": "Machine Learning Research Intern - Planning/Prediction",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381538,7 +381538,7 @@
         "company_name": "RTX",
         "id": "159f82a2-c7ed-4eee-8157-6d300f593c83",
         "title": "Systems Engineer Co-op - Spring/Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384140,7 +384140,7 @@
         "company_name": "Itron",
         "id": "1e39ef9b-ab50-405f-808e-28002f4fc72f",
         "title": "Data Science Intern - Distributed Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384663,7 +384663,7 @@
         "company_name": "POET",
         "id": "1c05aeb6-1548-460d-ac98-cca04204d3a7",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385344,7 +385344,7 @@
         "company_name": "RTX",
         "id": "0a405c15-cc8e-435c-92fb-7fc22c23643b",
         "title": "Embedded Software Security Engineer Intern - S3E",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -387002,7 +387002,7 @@
         "company_name": "Rivian",
         "id": "6afc68db-8174-4996-815c-024b34fd54b0",
         "title": "Engineer Intern Co-op - Design-for-Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -388175,7 +388175,7 @@
         "company_name": "Keysight Technologies",
         "id": "5caca2df-6d23-4de9-aaef-86f0ac699741",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -388761,7 +388761,7 @@
         "company_name": "L3Harris Technologies",
         "id": "65c6980b-4420-4767-a479-d749f5e67d26",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -389750,7 +389750,7 @@
         "company_name": "Intuit",
         "id": "4c0ecb7d-5370-4670-b348-d2eb4e6be3f6",
         "title": "Business Data Analyst Intern - Strategy & Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391790,7 +391790,7 @@
         "company_name": "L3Harris Technologies",
         "id": "78a8e115-f0ce-4ab7-be5c-d4a784e15262",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392040,7 +392040,7 @@
         "company_name": "Regeneron Pharmaceuticals",
         "id": "1c799f05-b926-4be3-ae23-debd91b8eabf",
         "title": "Precision Medicine Operations Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -392555,7 +392555,7 @@
         "company_name": "C3.ai",
         "id": "5446e738-df78-4160-98ab-eb05d3f23d8f",
         "title": "AI Product Manager Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392889,7 +392889,7 @@
         "company_name": "MasterControl",
         "id": "32191e7f-2346-410f-9000-c179da8f97cb",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -393197,7 +393197,7 @@
         "company_name": "Waymo",
         "id": "5cd416b9-4e14-4c94-ba8f-96c9143bd4dc",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393220,7 +393220,7 @@
         "company_name": "Waymo",
         "id": "3475b425-7296-4926-a897-0f74a61038af",
         "title": "Perception Intern - Evaluation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393647,7 +393647,7 @@
         "company_name": "Intuit",
         "id": "27a08b0e-0a8d-4835-9024-61891268cd15",
         "title": "Finance Transformation & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394550,6 +394550,29 @@
             "Miamisburg, OH"
         ],
         "company_url": "https://simplify.jobs/c/CRG-Defense",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "incident.io",
+        "id": "06f477fe-1ed4-46b5-8559-17cc078c0b8c",
+        "title": "Product Engineer Placement Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791103564,
+        "date_posted": 1788790463,
+        "url": "https://jobs.ashbyhq.com/incident/2f692a4d-91b4-4d0f-ae39-b38b68a24a27/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Incident-Io",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
