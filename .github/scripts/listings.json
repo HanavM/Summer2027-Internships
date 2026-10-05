@@ -294952,7 +294952,7 @@
         "company_name": "Intel",
         "id": "ca96c441-d218-4a8a-b6f6-a035b101c51b",
         "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -314049,7 +314049,7 @@
         "company_name": "Applied Materials",
         "id": "175ef4c9-fecc-47c4-b091-217815858898",
         "title": "Data Analyst Intern - Global Technical Learning Center",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -343394,7 +343394,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351439,7 +351439,7 @@
         "company_name": "Collier Aerospace",
         "id": "b6b0bc09-5fc8-4d8e-ad3f-ffdd70e0315e",
         "title": "AI Feature Development Intern - NCSG",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -357355,7 +357355,7 @@
         "company_name": "TikTok",
         "id": "7c51e306-a24c-4fac-b188-b36e0bc3f128",
         "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374126,7 +374126,7 @@
         "company_name": "iRhythm Technologies",
         "id": "c9792cfd-c5b4-4224-b707-ce3b840830f4",
         "title": "Electrical Engineer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377714,7 +377714,7 @@
         "company_name": "Flint",
         "id": "ec241207-37cb-48f4-aa65-cf19d960f7a2",
         "title": "Engineering Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381756,7 +381756,7 @@
         "company_name": "RTX",
         "id": "8da55ce4-fa14-4294-b424-140c8d3755bc",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -382250,7 +382250,7 @@
         "company_name": "KLA",
         "id": "66fd3b4a-cc9c-4090-9786-0bf42637abfd",
         "title": "Optical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -383393,7 +383393,7 @@
         "company_name": "KLA",
         "id": "8bf131d5-7af2-4a4d-bd28-31d23bdc31c7",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385619,7 +385619,7 @@
         "company_name": "The Federal Reserve System",
         "id": "6a49ef5e-35b1-491d-a761-59e0a5779a89",
         "title": "Statistics and Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -389934,7 +389934,7 @@
         "company_name": "General Motors",
         "id": "a30de93c-bc93-469c-bd77-3bb267556f84",
         "title": "Systems/Calibration Engineer Intern - ADAS Drive",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392973,7 +392973,7 @@
         "company_name": "RTX",
         "id": "c87681f7-f024-4e16-8747-fb923be74d50",
         "title": "Digital Electrical Design Engineer 1 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
