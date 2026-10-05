@@ -386583,7 +386583,7 @@
         "company_name": "HMH",
         "id": "cd797b97-31de-482a-bda6-2a5a6836dd6b",
         "title": "AI & Automation Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388788,7 +388788,7 @@
         "company_name": "Graphcore",
         "id": "f587f567-7076-4901-8b22-2476f0e17fdd",
         "title": "Machine Learning and Data Science Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
