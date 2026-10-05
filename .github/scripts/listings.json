@@ -271613,7 +271613,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -284149,7 +284149,7 @@
         "company_name": "AMD",
         "id": "369ef34f-cdb6-4df1-a41f-39e63dc980cc",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -284197,7 +284197,7 @@
         "company_name": "AMD",
         "id": "3419991d-5fc5-4324-be22-3741aa48785f",
         "title": "Hardware Design Engineer Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -284220,7 +284220,7 @@
         "company_name": "AMD",
         "id": "1ba21039-d057-4cd1-9345-07562dad6ad0",
         "title": "Firmware Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -303715,7 +303715,7 @@
         "company_name": "M.C. Dean",
         "id": "39637140-eedf-4bd5-91c2-6f46c8287bd6",
         "title": "Engineering Intern - I2Cs",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -308384,7 +308384,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "b0a16fef-11b5-41ac-9847-3b4ac324f5b7",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -308407,7 +308407,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "a01d5838-0b05-459c-b1c7-dec1ce57ac47",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326202,7 +326202,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332017,7 +332017,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "0c28ec70-1138-4464-8cfe-9732f94e0dbd",
         "title": "Engineering/Science Intern - Tailored Autonomous Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338193,7 +338193,7 @@
         "company_name": "NVIDIA",
         "id": "13c20210-b9de-4f8c-93a7-96ce7766afc3",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346214,7 +346214,7 @@
         "company_name": "ATCO",
         "id": "3fbab2a7-a6f8-4ea2-a797-f0979731433f",
         "title": "IT Co-op - Cloud Platforms, Tools & Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -352455,7 +352455,7 @@
         "company_name": "Intel",
         "id": "02e5128c-f9d6-4224-9ba7-5ab3d06f1352",
         "title": "Operations Research Engineering Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -356960,7 +356960,7 @@
         "company_name": "Rivian",
         "id": "04543f6c-1d02-4612-b3ae-e9955fc11ad9",
         "title": "Engineering Intern/Co-op - Test and Validation - Charging Products",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -357451,7 +357451,7 @@
         "company_name": "Kinaxis",
         "id": "3a72f20d-2be5-475f-ab69-49773fe54308",
         "title": "Developer Intern Co-op - AI Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -360853,7 +360853,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -363362,7 +363362,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
         "title": "Product Management Intern - Artificial Intelligence Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363409,7 +363409,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "052eb803-66af-435a-9f6d-069e2aa8d052",
         "title": "Summer Intern - Data Mesh Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -367582,7 +367582,7 @@
         "company_name": "Rippling",
         "id": "0315cabd-eed9-4fb0-bf72-2770478f6bb9",
         "title": "Full Stack Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -368186,7 +368186,7 @@
         "company_name": "Marvell",
         "id": "02e2f469-ae3f-418c-9712-1e786b25ad68",
         "title": "Analog Layout Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371349,7 +371349,7 @@
         "company_name": "AMD",
         "id": "4dd92b4d-fcb3-4e7f-ab7e-984aa0260f5e",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372874,7 +372874,7 @@
         "company_name": "Marvell",
         "id": "030de51d-475d-4824-8b91-aa3e6ff1c86a",
         "title": "Analog Design Intern Co-op - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -378515,7 +378515,7 @@
         "company_name": "RTX",
         "id": "139c5ee4-482e-40f4-9946-3027f84308e3",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380784,7 +380784,7 @@
         "company_name": "RTX",
         "id": "3326c848-c502-4081-b774-c6a6b5b8a676",
         "title": "Electrical Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382460,7 +382460,7 @@
         "company_name": "Rivian",
         "id": "04e00d36-839d-4f8d-bad8-082a70f7c73e",
         "title": "Engineering Intern Co-op - Machine Learning Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -384120,7 +384120,7 @@
         "company_name": "Stripe",
         "id": "48975da5-2bb2-4457-8702-de4898cd805e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388649,7 +388649,7 @@
         "company_name": "Humanoid",
         "id": "090093e5-7ef5-475c-a791-32ea8ed332a7",
         "title": "Robot Learning Intern - Robot Learning Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -389164,7 +389164,7 @@
         "company_name": "The Walt Disney Company",
         "id": "02012887-38d0-4d2b-bca2-971dab9ad037",
         "title": "Graduate Associate - Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -393541,6 +393541,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace",
+        "id": "18fe3606-2c86-43ed-85fd-e9a975ac70c1",
+        "title": "Clinical Informatics Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1791189362,
+        "date_posted": 1780524376,
+        "url": "https://careers.medpace.com/jobs/12801?icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
