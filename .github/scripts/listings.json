@@ -220725,7 +220725,7 @@
         "company_name": "Roam",
         "id": "e679f6f6-f9f7-4771-b224-b0267b0d552b",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -220746,7 +220746,7 @@
         "company_name": "Phonic",
         "id": "dad82669-969e-46be-b826-6a55e2428723",
         "title": "Machine Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -275926,7 +275926,7 @@
         "company_name": "Charles Schwab",
         "id": "93f4951e-c280-428f-8f6f-a0611c97b96e",
         "title": "Data Engineering Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -283957,7 +283957,7 @@
         "company_name": "AMD",
         "id": "c2e5eec4-015a-4598-914b-e93aacc7b809",
         "title": "Hardware Design Verification Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -284055,7 +284055,7 @@
         "company_name": "AMD",
         "id": "a130716c-fb2f-4134-9ac5-6e93002f40e0",
         "title": "Hardware Design Engineer Intern/Co-op - Long Term",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -284792,7 +284792,7 @@
         "company_name": "ZS",
         "id": "bec0bfec-8232-4a08-b412-7acf9ff7b4fc",
         "title": "Business Technology Solutions Intern - North America - University Students",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -287530,7 +287530,7 @@
         "company_name": "Tencent",
         "id": "571dc222-d134-45dd-8547-ba1ce9e2c5a4",
         "title": "CPaaS Product Management Intern - Cloud & Smart Industries Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -287772,7 +287772,7 @@
         "company_name": "Post Holdings",
         "id": "aecf9a61-0e55-4e17-873b-d56a92f353a8",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -300656,7 +300656,7 @@
         "company_name": "MSA Safety",
         "id": "8fa032f8-d51f-4223-a529-d347b0267fab",
         "title": "Electrochemistry Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -307408,7 +307408,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -314872,7 +314872,7 @@
         "company_name": "Marvell",
         "id": "56f40262-c4cd-4b41-a304-a541df7d38a7",
         "title": "Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -320518,7 +320518,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336291,7 +336291,7 @@
         "company_name": "AMD",
         "id": "b9a00835-ca07-400b-a12a-27cbe97c83d1",
         "title": "Optical & Photonics Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -340770,7 +340770,7 @@
         "company_name": "Freddie Mac",
         "id": "49c47091-90b2-468b-9e5c-4879165b0d64",
         "title": "Multifamily Business Analysis Graduate Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341713,7 +341713,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "46da9fb1-59b8-4586-9a3e-f058863575ba",
         "title": "AI Engineer Co-op - Global Equities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362162,7 +362162,7 @@
         "company_name": "American Heart Association",
         "id": "b98b7a6e-23da-453f-9fb4-96667ec4687c",
         "title": "Data Science Intern - Machine Learning & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -362745,7 +362745,7 @@
         "company_name": "RTX",
         "id": "11505c09-a66c-4c86-a39d-81ffbce4b13d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386606,7 +386606,7 @@
         "company_name": "Stripe",
         "id": "8d662f47-4018-4534-bc0e-e3a416371581",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2028"
@@ -387528,7 +387528,7 @@
         "company_name": "Certara",
         "id": "87936000-a3cf-45e2-86db-6a819789493b",
         "title": "Junior Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -393459,7 +393459,7 @@
         "company_name": "State of North Carolina",
         "id": "20960b45-bcba-4977-a12f-eabbf6b2c80c",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
