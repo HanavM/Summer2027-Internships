@@ -106785,7 +106785,7 @@
         "company_name": "SharkNinja",
         "id": "d4f62e21-4bd0-4754-9ae0-0f63ab6272e7",
         "title": "Applied AI & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -185849,7 +185849,7 @@
         "company_name": "Meta",
         "id": "30d1162f-2765-4044-9e44-203f4a85d5a1",
         "title": "Research Scientist Intern - AI Alignment",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -237740,7 +237740,7 @@
         "company_name": "Diversified Automation",
         "id": "1f3a2e50-1559-4143-8c9e-f2a8d5462388",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -259532,7 +259532,7 @@
         "company_name": "Devon Energy",
         "id": "99fcf5a1-1347-44be-9d63-7e03612f082b",
         "title": "Technology Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -271001,7 +271001,7 @@
         "company_name": "Ameren",
         "id": "39304d92-2b98-45ee-9a39-8f4f5ac43185",
         "title": "Meteorology Intern - Crisis Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319561,7 +319561,7 @@
         "company_name": "Revel",
         "id": "b7c13988-0346-4ec4-a700-b203261be2f2",
         "title": "Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346399,7 +346399,7 @@
         "company_name": "Hitachi",
         "id": "95c4918c-cb96-4b7c-afa4-cb0f50c7378e",
         "title": "Onboard Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381779,7 +381779,7 @@
         "company_name": "Invesco",
         "id": "e02669bd-1cd4-43fc-ac1d-89d029602b6e",
         "title": "Early Career Intern - Digital Asset Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383256,7 +383256,7 @@
         "company_name": "Draper",
         "id": "be5ac22c-80eb-4333-a56c-065702c86e60",
         "title": "Integrated Circuits Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -383464,7 +383464,7 @@
         "company_name": "Noblis",
         "id": "e30652f9-cc86-4112-b084-f0cba5f2b4ce",
         "title": "Data Science and Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387245,7 +387245,7 @@
         "company_name": "Intel",
         "id": "b9f57b63-1497-43c1-a2c5-1e13174e3c10",
         "title": "AI Software Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
