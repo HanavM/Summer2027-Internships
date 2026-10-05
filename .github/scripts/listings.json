@@ -346305,7 +346305,7 @@
         "company_name": "Santander",
         "id": "79a2dc1b-cfae-4772-be32-6665799e95fb",
         "title": "Data Steward Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -390504,7 +390504,7 @@
         "company_name": "Leidos",
         "id": "ede62c8f-075b-4ba3-8409-4a187f9b6f1c",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
