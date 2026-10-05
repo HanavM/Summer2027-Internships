@@ -273115,7 +273115,7 @@
         "company_name": "Manulife Financial",
         "id": "caa5d432-7f4d-4c1f-92de-98d8fd87d850",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -273138,7 +273138,7 @@
         "company_name": "Manulife Financial",
         "id": "d1378a04-b2e2-4cfd-ae35-e0e1c8a675b5",
         "title": "AI Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -279471,7 +279471,7 @@
         "company_name": "Manulife Financial",
         "id": "e1a8ef4d-368e-4108-9f7a-0db5b3a7bf7f",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345032,7 +345032,7 @@
         "company_name": "LabCorp",
         "id": "b2720777-ec3e-4cab-a61d-8437236e8363",
         "title": "IT Product Manager Intern - Payer Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355410,7 +355410,7 @@
         "company_name": "Manulife Financial",
         "id": "e003bb69-614c-449a-9ef5-1c13ce5fe4c1",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
