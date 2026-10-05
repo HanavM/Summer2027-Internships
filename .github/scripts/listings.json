@@ -295195,7 +295195,7 @@
         "company_name": "Geotab",
         "id": "49a0917b-97ea-4ff8-809e-87ace1070b2f",
         "title": "Software Developer Intern - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351626,7 +351626,7 @@
         "company_name": "RTX",
         "id": "9f477186-5000-4fe3-8151-4971b1c4abfb",
         "title": "Software Engineer Co-op - Winter/Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
