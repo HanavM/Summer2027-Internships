@@ -315717,7 +315717,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "ce256f4f-ba4c-4eca-8f2a-42872413fa6f",
         "title": "Data Engineer - RBC Amplify",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
