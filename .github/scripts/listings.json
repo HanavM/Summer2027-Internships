@@ -4729,7 +4729,7 @@
         "company_name": "HubSpot",
         "id": "76683b81-5fbd-480b-9373-93c41652901b",
         "title": "HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -4752,7 +4752,7 @@
         "company_name": "HubSpot",
         "id": "068eb6a4-ee2f-4970-9ed2-2dab86516f6e",
         "title": "HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program - UK",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -267384,7 +267384,7 @@
         "company_name": "AMD",
         "id": "87d12a7b-d741-4dd9-a558-de2b329aa098",
         "title": "ASIC Package Engineering Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -271613,7 +271613,7 @@
         "company_name": "Realm",
         "id": "3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -284640,7 +284640,7 @@
         "company_name": "AMD",
         "id": "640797fc-5abf-4222-9bdb-16b62d09607e",
         "title": "Graphics Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -306900,7 +306900,7 @@
         "company_name": "Hexagon AB",
         "id": "ebd03b2f-5cf8-4bb0-84c0-26b61bbabc93",
         "title": "Defense Engineer Intern - Aerospace and Defense Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307255,7 +307255,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307366,7 +307366,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307408,7 +307408,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307524,7 +307524,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326202,7 +326202,7 @@
         "company_name": "Collier Aerospace",
         "id": "3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338193,7 +338193,7 @@
         "company_name": "NVIDIA",
         "id": "13c20210-b9de-4f8c-93a7-96ce7766afc3",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -344123,7 +344123,7 @@
         "company_name": "Johnson & Johnson",
         "id": "183a7c4c-19d3-4b57-85de-1ae125ee8aee",
         "title": "Electrical Engineer Intern - Robotics R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363362,7 +363362,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "3ced3a3b-c1dc-406e-9949-2fbc2be31d0c",
         "title": "Product Management Intern - Artificial Intelligence Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -364045,7 +364045,7 @@
         "company_name": "Fidelity Investments",
         "id": "e90daa3f-ccbc-4cb4-a7b9-b19d4eaf6594",
         "title": "Quantitative Development & Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371349,7 +371349,7 @@
         "company_name": "AMD",
         "id": "4dd92b4d-fcb3-4e7f-ab7e-984aa0260f5e",
         "title": "AI Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -378515,7 +378515,7 @@
         "company_name": "RTX",
         "id": "139c5ee4-482e-40f4-9946-3027f84308e3",
         "title": "Test Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384120,7 +384120,7 @@
         "company_name": "Stripe",
         "id": "48975da5-2bb2-4457-8702-de4898cd805e",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387528,7 +387528,7 @@
         "company_name": "Certara",
         "id": "87936000-a3cf-45e2-86db-6a819789493b",
         "title": "Junior Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -393459,7 +393459,7 @@
         "company_name": "State of North Carolina",
         "id": "20960b45-bcba-4977-a12f-eabbf6b2c80c",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
