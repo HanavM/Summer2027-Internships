@@ -228245,7 +228245,7 @@
         "company_name": "PathAI",
         "id": "0d592991-3f3c-4b1b-b380-4395ca871e34",
         "title": "Software Engineering Mlops Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -289395,7 +289395,7 @@
         "company_name": "Medline",
         "id": "14f23b27-94a9-4a14-8b54-c8b22a88277e",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333483,7 +333483,7 @@
         "company_name": "Ryan",
         "id": "3125c049-3c76-4186-97c5-3c9402cb6d3a",
         "title": "AI-Enabled Business Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -376215,7 +376215,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "2398b246-0367-461a-b3e4-e7cd3c94d6e1",
         "title": "Software Analyst / Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382297,7 +382297,7 @@
         "company_name": "RTX",
         "id": "0a405c15-cc8e-435c-92fb-7fc22c23643b",
         "title": "Embedded Software Security Engineer Intern - S3E",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -390481,7 +390481,7 @@
         "company_name": "Leidos",
         "id": "f763ceff-3ac4-4842-a597-f434b69362fa",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
