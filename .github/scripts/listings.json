@@ -312974,7 +312974,7 @@
         "company_name": "Schonfeld",
         "id": "ff867ed1-cf5a-4419-a4d7-47d1b9066205",
         "title": "Fixed Income Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376169,7 +376169,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "78a7d4d4-2ec8-4f04-9922-520c99e31f7a",
         "title": "Software Analyst / Developer Intern - Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389278,7 +389278,7 @@
         "company_name": "Altera",
         "id": "ec6f72c9-7ce7-4949-86ec-9a57ac1303b2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
