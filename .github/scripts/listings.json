@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AutoNation",
-        "id": "a34e76b3-a5c4-4658-9018-d840f1de8586",
-        "title": "Finance Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770422681,
-        "date_posted": 1770422681,
-        "url": "https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Headquarters/Finance-Analytics--Intern_JR2026135763",
-        "locations": [
-            "Fort Lauderdale, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/AutoNation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "TikTok",
         "id": "e7edc8a3-8756-4127-82d1-45ef3ff3cee4",
@@ -381720,7 +381696,7 @@
         "company_name": "Apple",
         "id": "7e4c5c71-f008-4439-8ae7-145e2b6cb5d9",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
