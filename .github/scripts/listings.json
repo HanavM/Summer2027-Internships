@@ -287819,7 +287819,7 @@
         "company_name": "Post Holdings",
         "id": "b366c04d-a45d-4b79-a577-682f0b05ade0",
         "title": "Business Intelligence Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341644,7 +341644,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "90bb6df8-68e3-4efc-b9fb-ab125bf7fa9f",
         "title": "Algorithmic Trading Developer Co-op - Global Equities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
