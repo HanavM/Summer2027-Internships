@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 1563 Inactive Internship Roles by Category
+### Browse 1561 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (557)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (90)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (521)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (519)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (177)
 
@@ -5023,13 +5023,6 @@
 <td>16d</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
-<td>Machine Learning Engineer Intern - E-Commerce Recommendation Mall 🎓</td>
-<td>San Jose, CA</td>
-<td>🔒</td>
-<td>17d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Gordon-Food-Service?utm_source=GHList&utm_medium=company">Gordon Food Service</a></strong></td>
 <td>Category Technology Intern</td>
 <td>Wyoming, MI</td>
@@ -5347,13 +5340,6 @@
 <tr>
 <td>↳</td>
 <td>Summer Intern - Performance Analysis</td>
-<td>Concord, NC</td>
-<td>🔒</td>
-<td>21d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Race Strategy & Analytics Intern - IndyCar</td>
 <td>Concord, NC</td>
 <td>🔒</td>
 <td>21d</td>
@@ -9587,13 +9573,6 @@
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Systems/Calibration Engineer Intern - ADAS Drive</td>
-<td>Milford, MI</td>
-<td>🔒</td>
-<td>3d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Space-Dynamics-Laboratory?utm_source=GHList&utm_medium=company">Space Dynamics Laboratory</a></strong></td>
 <td>FPGA Electrical Engineer Intern - Civil & Commercial Space Division</td>
 <td>North Logan, UT</td>
@@ -9602,6 +9581,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
+<td>Hardware Electronics Engineer Intern</td>
+<td>Rolling Meadows, IL</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Digital Intern</td>
 <td>Rolling Meadows, IL</td>
 <td>🔒</td>
@@ -9653,6 +9639,13 @@
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Test Engineer Intern</td>
 <td>Vandenberg Space Force Base, CA</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
+<td>AMS Validation Intern</td>
+<td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>6d</td>
 </tr>
@@ -10311,13 +10304,6 @@
 <td>↳</td>
 <td>Electrical Engineer Intern</td>
 <td>Melbourne, FL</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
-<td>Platform Hardware and Systems Engineering Intern - Bachelor's</td>
-<td><details><summary><strong>5 locations</strong></summary>Austin, TX<br>Santa Clara, CA<br>Hillsboro, OR<br>Folsom, CA<br>Phoenix, AZ</details></td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
