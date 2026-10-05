@@ -270361,7 +270361,7 @@
         "company_name": "Maxinsights",
         "id": "16a33b72-1c61-4db1-b55e-63d10155b928",
         "title": "Data Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -298639,7 +298639,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "2efe5ad7-560f-41b4-a4d2-891dd7a1587b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -312878,7 +312878,7 @@
         "company_name": "Schonfeld",
         "id": "e3e95c18-2bde-4838-952f-c9ff4c2cad82",
         "title": "Risk Analyst Intern - DMFI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374199,7 +374199,7 @@
         "company_name": "PathAI",
         "id": "e893c8a9-6a16-4e98-b3e6-3ef4b5b81b50",
         "title": "Machine Learning Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
