@@ -294952,7 +294952,7 @@
         "company_name": "Intel",
         "id": "ca96c441-d218-4a8a-b6f6-a035b101c51b",
         "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -343394,7 +343394,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -357355,7 +357355,7 @@
         "company_name": "TikTok",
         "id": "7c51e306-a24c-4fac-b188-b36e0bc3f128",
         "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -374126,7 +374126,7 @@
         "company_name": "iRhythm Technologies",
         "id": "c9792cfd-c5b4-4224-b707-ce3b840830f4",
         "title": "Electrical Engineer Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -379849,7 +379849,7 @@
         "company_name": "Marvell",
         "id": "5320306e-8189-42da-8f41-5a76a8501c36",
         "title": "AMS Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381403,7 +381403,7 @@
         "company_name": "Northrop Grumman",
         "id": "af7b23f4-17a4-4d21-9099-a8afec173586",
         "title": "Hardware Electronics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389934,7 +389934,7 @@
         "company_name": "General Motors",
         "id": "a30de93c-bc93-469c-bd77-3bb267556f84",
         "title": "Systems/Calibration Engineer Intern - ADAS Drive",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
