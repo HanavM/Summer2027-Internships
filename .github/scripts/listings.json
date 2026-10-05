@@ -314049,7 +314049,7 @@
         "company_name": "Applied Materials",
         "id": "175ef4c9-fecc-47c4-b091-217815858898",
         "title": "Data Analyst Intern - Global Technical Learning Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326043,7 +326043,7 @@
         "company_name": "Collier Aerospace",
         "id": "a023874d-88f4-4e6c-a29a-681d54bc45f9",
         "title": "Software Engineer Intern - Web Applications - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336775,7 +336775,7 @@
         "company_name": "AMD",
         "id": "fd459609-149f-4f12-8894-a6124c4b7163",
         "title": "AI Systems & GPU Performance Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -340844,7 +340844,7 @@
         "company_name": "Tive",
         "id": "9d613826-b169-4950-9be3-779d329aab98",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -342061,7 +342061,7 @@
         "company_name": "Lowe's",
         "id": "6be172ec-d3a7-445d-8218-d442e9c6dd1c",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -351439,7 +351439,7 @@
         "company_name": "Collier Aerospace",
         "id": "b6b0bc09-5fc8-4d8e-ad3f-ffdd70e0315e",
         "title": "AI Feature Development Intern - NCSG",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353896,7 +353896,7 @@
         "company_name": "Visa",
         "id": "92807540-7edf-40a4-87d1-ea892d3e44ca",
         "title": "Staff Research Scientist Intern - Foundational AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -368301,7 +368301,7 @@
         "company_name": "William Blair",
         "id": "dc550f37-4505-4a97-8560-642d1cc2f0e9",
         "title": "Application Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -377714,7 +377714,7 @@
         "company_name": "Flint",
         "id": "ec241207-37cb-48f4-aa65-cf19d960f7a2",
         "title": "Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381756,7 +381756,7 @@
         "company_name": "RTX",
         "id": "8da55ce4-fa14-4294-b424-140c8d3755bc",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382250,7 +382250,7 @@
         "company_name": "KLA",
         "id": "66fd3b4a-cc9c-4090-9786-0bf42637abfd",
         "title": "Optical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -383393,7 +383393,7 @@
         "company_name": "KLA",
         "id": "8bf131d5-7af2-4a4d-bd28-31d23bdc31c7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383440,7 +383440,7 @@
         "company_name": "KLA",
         "id": "46bc2309-eff6-49b8-b663-051d87560282",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -385619,7 +385619,7 @@
         "company_name": "The Federal Reserve System",
         "id": "6a49ef5e-35b1-491d-a761-59e0a5779a89",
         "title": "Statistics and Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386025,7 +386025,7 @@
         "company_name": "Veeam Software",
         "id": "d5599c90-9e9c-4cad-bf65-0e4ab06bf6f0",
         "title": "Competitive Intelligence AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386654,7 +386654,7 @@
         "company_name": "Stripe",
         "id": "d9bb2856-f02d-4539-b7c0-81e9ade1a86b",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -389958,7 +389958,7 @@
         "company_name": "General Motors",
         "id": "93b4a798-697c-42d2-a104-cda1bb152b83",
         "title": "Software Engineer Intern - AV/AI Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -391326,7 +391326,7 @@
         "company_name": "KLA Corporation",
         "id": "fb99fc9f-da10-4a0c-9d4c-565dd66138c8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -392973,7 +392973,7 @@
         "company_name": "RTX",
         "id": "c87681f7-f024-4e16-8747-fb923be74d50",
         "title": "Digital Electrical Design Engineer 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
