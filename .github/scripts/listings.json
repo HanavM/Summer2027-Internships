@@ -266153,7 +266153,7 @@
         "company_name": "BTI360",
         "id": "d1ce5eca-7313-4eee-b01a-088c01f2a85a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -305993,7 +305993,7 @@
         "company_name": "Tyson Foods",
         "id": "bcdf932a-34be-4d72-8b26-c843cffa9886",
         "title": "Analytics Intern - Transportation Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -340035,7 +340035,7 @@
         "company_name": "Micron Technology",
         "id": "4c400cb2-d4b7-4514-9d9c-e2b612596f10",
         "title": "Clock Design & Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -357306,7 +357306,7 @@
         "company_name": "RTX",
         "id": "d1b58794-f4e7-4d28-af0d-73a29d2fd9b6",
         "title": "Electrical Firmware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -382807,7 +382807,7 @@
         "company_name": "WEP Clinical",
         "id": "64dddef4-870d-4440-ba1f-942b86d1d82f",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -387813,7 +387813,7 @@
         "company_name": "Quantinuum",
         "id": "27201b4f-fe60-43b9-8546-29bd158804a5",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
