@@ -279517,7 +279517,7 @@
         "company_name": "Manulife Financial",
         "id": "5debe91f-f195-4bd0-a1c3-50c5bef17c2d",
         "title": "Quantitative Analyst Co-op - Derivative and Asset Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -279540,7 +279540,7 @@
         "company_name": "Manulife Financial",
         "id": "c9439df4-fd0e-4fa7-8928-3919f85286ed",
         "title": "Data Engineer Co-op - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -279609,7 +279609,7 @@
         "company_name": "Manulife Financial",
         "id": "9cfbbc33-1806-41f9-86ba-a01f31d477b2",
         "title": "Software Engineer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -281292,7 +281292,7 @@
         "company_name": "Manulife Financial",
         "id": "78fab1c2-9f47-412d-8659-873843843c0a",
         "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370838,7 +370838,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "8fb8da69-0fc8-4982-b79c-f2c3bd7b24b5",
         "title": "Data Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -373290,7 +373290,7 @@
         "company_name": "Manulife Financial",
         "id": "e00317bd-78ee-4ca7-b2c0-c6f09ad8c442",
         "title": "Grit Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
