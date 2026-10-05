@@ -237602,7 +237602,7 @@
         "company_name": "PNC Financial Services",
         "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
         "title": "Data and Analytics Intern - Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -257192,7 +257192,7 @@
         "company_name": "NVIDIA",
         "id": "832f302a-8bc2-45f2-8ada-37a23bf080a7",
         "title": "Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -262298,7 +262298,7 @@
         "company_name": "Brunswick",
         "id": "c4bfe952-8e9a-4599-966c-127295b128ad",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265168,7 +265168,7 @@
         "company_name": "Freddie Mac",
         "id": "2ca29e94-257e-49f3-8ba7-5ad8b1ef12ea",
         "title": "Multifamily Digital Product Analysis Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -289886,7 +289886,7 @@
         "company_name": "Tesla",
         "id": "84d2832d-f2be-4040-a7c8-6624a43f50fc",
         "title": "Machine Learning Engineer Intern - Charging Data Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -292688,7 +292688,7 @@
         "company_name": "Omnicom Group",
         "id": "75e8f127-6508-489a-85af-6d0bb6299903",
         "title": "Experience Design Engineer Intern Consultant - Design Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -295144,7 +295144,7 @@
         "company_name": "Intel",
         "id": "b854fca7-7546-478f-937b-a76b8dbbddae",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -327655,7 +327655,7 @@
         "company_name": "RTX",
         "id": "757ed4c0-2f8e-4285-a0dd-e82bb8698fb7",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -348087,7 +348087,7 @@
         "company_name": "Analog Devices",
         "id": "f0bd2e8e-c29b-4598-a4f6-712a6741f8d6",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -354156,7 +354156,7 @@
         "company_name": "Copart",
         "id": "49b31087-1e4c-42c6-8ff8-bf49f6ad3153",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -379825,7 +379825,7 @@
         "company_name": "Marvell",
         "id": "8d8ac70c-4524-4e6c-abd0-378889133e68",
         "title": "AI-Native Development Platform Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386727,7 +386727,7 @@
         "company_name": "The Walt Disney Company",
         "id": "f1021153-fdd3-4681-a29d-ddc5d8fcb27e",
         "title": "Decision Science Product Engineering Graduate Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -388809,7 +388809,7 @@
         "company_name": "Marvell",
         "id": "e58ec8c1-6859-41aa-af05-4d0267eca597",
         "title": "Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
