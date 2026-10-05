@@ -222206,7 +222206,7 @@
         "company_name": "BlackEdge Capital",
         "id": "3a7da9d0-4f05-439f-bde1-b9fca696577d",
         "title": "Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -279793,7 +279793,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -295062,7 +295062,7 @@
         "company_name": "Intel",
         "id": "fbbaa89d-fca9-49aa-9d4a-14d71883ea4a",
         "title": "Silicon Hardware Engineering Intern - Graduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -306601,7 +306601,7 @@
         "company_name": "Adobe",
         "id": "a9900edf-029b-4f1e-98cb-a9a1c96f11b3",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -314292,7 +314292,7 @@
         "company_name": "Marvell",
         "id": "b72627a2-345c-4008-84ca-772020b7b572",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344599,7 +344599,7 @@
         "company_name": "Howden",
         "id": "45bb0134-eba9-4dfc-8a2a-8f33974172e2",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -372122,7 +372122,7 @@
         "company_name": "Cenovus Energy",
         "id": "6b8dd43f-f7c6-40fc-afb7-915318ecdc76",
         "title": "Information Technology Student - Data Science and Software",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -383604,7 +383604,7 @@
         "company_name": "Bose",
         "id": "3ee40ac5-c7d1-4fcc-92ae-6bbd4a5346a0",
         "title": "Reverse Logistics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
