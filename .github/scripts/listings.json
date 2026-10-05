@@ -295288,7 +295288,7 @@
         "company_name": "HD Supply",
         "id": "09cac698-c1c9-40d2-92e8-212671869939",
         "title": "Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -315842,7 +315842,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "42918cae-c990-4cae-b7ba-3e45510cb9fa",
         "title": "Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381450,7 +381450,7 @@
         "company_name": "Northrop Grumman",
         "id": "0e88b223-3137-4971-96be-a636939bea84",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
