@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "Product",
-        "company_name": "Warner Bros.",
-        "id": "1bca7197-56ce-4628-b228-dcd9c4fa9455",
-        "title": "WB Games Product Management Intern: LA - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770506784,
-        "date_posted": 1770506784,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/CA-Burbank-Bldg-750-Second-Century-Tower-2/WB-Games-Product-Management-Intern--LA---Summer-2026_R000102702",
-        "locations": [
-            "Burbank, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
         "company_name": "The Walt Disney Company",
         "id": "87d159ea-cf67-4caf-a122-7c0291ae5c1a",
         "title": "Disney Consumer Products Retail Strategy and Integration Intern",
@@ -275211,7 +275188,7 @@
         "company_name": "Booz Allen",
         "id": "7cef83de-ff10-493e-abfb-9def6ada06d0",
         "title": "AI Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293966,7 +293943,7 @@
         "company_name": "Cigna Group",
         "id": "fb70a4df-1f1d-4ce6-b56c-5d6e38d9d2ed",
         "title": "Artificial Intelligence Innovation Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320143,7 +320120,7 @@
         "company_name": "Revel",
         "id": "7b684d8f-d5d1-4f2a-ae66-c9f8f79aec21",
         "title": "Forward Deployed Engineer Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374507,7 +374484,7 @@
         "company_name": "GoTo Group",
         "id": "7471b8b6-f1d5-4c2b-88f7-47f118d9cc04",
         "title": "Software Engineer Intern - C3PO",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377623,7 +377600,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "6db9023a-15b9-4dfa-a544-4779d19c4277",
         "title": "Software Systems Engineer Intern - Acquisition",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381521,7 +381498,7 @@
         "company_name": "Apple",
         "id": "6795e080-5626-469b-a609-48988a09eab1",
         "title": "Data Scientist Co-op - Sales Business Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387016,7 +386993,7 @@
         "company_name": "Novelis",
         "id": "421a9b25-70bf-4a77-9100-9b4e49c43667",
         "title": "Analytics & Data Consumption Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
