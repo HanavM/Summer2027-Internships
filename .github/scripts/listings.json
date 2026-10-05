@@ -279563,7 +279563,7 @@
         "company_name": "Manulife Financial",
         "id": "a7aa0edb-225b-4884-88ec-d974d3b5fad9",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -279655,7 +279655,7 @@
         "company_name": "Manulife Financial",
         "id": "5520ba3c-2420-49b4-9e71-e8a3b6fa4399",
         "title": "Product Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -315742,7 +315742,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "7a902c4a-8678-47af-ae5c-cb8f2d0b9e6f",
         "title": "Developer - Amplify",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315767,7 +315767,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "73ffef1b-8361-47db-a713-1364328aa70c",
         "title": "Data Engineer - RBC Amplify 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -373574,7 +373574,7 @@
         "company_name": "Manulife Financial",
         "id": "5de70651-7d69-4108-95c3-555e83062f78",
         "title": "Product Management & Risk Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
