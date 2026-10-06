@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 1625 Inactive Internship Roles by Category
+### Browse 1626 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (584)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (585)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (96)
 
@@ -1547,6 +1547,13 @@
 <td><strong><a href="https://simplify.jobs/c/Rivian-And-Volkswagen-Group-Technologies?utm_source=GHList&utm_medium=company">Rivian and Volkswagen Group Technologies</a></strong></td>
 <td>Software Engineering Intern - Vehicle Controls</td>
 <td>Vancouver, BC, Canada</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Spirit-AeroSystems?utm_source=GHList&utm_medium=company">Spirit AeroSystems</a></strong></td>
+<td>Programmer Analyst / Developer Intern - IDT&S</td>
+<td>Wichita, KS</td>
 <td>🔒</td>
 <td>27d</td>
 </tr>
