@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 1618 Inactive Internship Roles by Category
+### Browse 1619 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (579)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (580)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (96)
 
@@ -98,6 +98,13 @@
 <td>↳</td>
 <td>Technical Intern 🎓</td>
 <td>Remote in USA</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/SAS?utm_source=GHList&utm_medium=company">SAS</a></strong></td>
+<td>Software Development and Testing Intern</td>
+<td>Cary, NC</td>
 <td>🔒</td>
 <td>4d</td>
 </tr>
