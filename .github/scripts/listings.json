@@ -281865,7 +281865,7 @@
         "company_name": "Trane Technologies",
         "id": "98540e92-9f57-4fcc-9005-6dc6593e8205",
         "title": "AI Intern - AI Product Management - AI Controls Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -284055,7 +284055,7 @@
         "company_name": "AMD",
         "id": "63f022cb-b4f4-4fd9-869e-9bdd55d6fabe",
         "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -284619,7 +284619,7 @@
         "company_name": "AMD",
         "id": "874ab97b-4128-4172-bb03-7699b5dbb328",
         "title": "Firmware Engineer Intern/Co-op - Long Term",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -285269,7 +285269,7 @@
         "company_name": "Magna",
         "id": "47d95f89-f763-477d-a29f-ec7b46b0f160",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354554,7 +354554,7 @@
         "company_name": "Marvell",
         "id": "42ef3361-65d3-45bc-bb21-c1fe2908bf6c",
         "title": "SRAM Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027",
             "Summer 2028"
@@ -363456,7 +363456,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "62014017-f39b-4e2f-969b-4520e27dc627",
         "title": "Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -393413,7 +393413,7 @@
         "company_name": "State of North Carolina",
         "id": "20960b45-bcba-4977-a12f-eabbf6b2c80c",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -394982,7 +394982,7 @@
         "company_name": "Solink",
         "id": "60cceb67-73c6-4b3b-9464-f6f276a9ad2c",
         "title": "Software Engineer Co-op - Apps",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -395268,7 +395268,7 @@
         "company_name": "General Motors",
         "id": "206b933c-d14d-4bf7-952c-895af8edc9ac",
         "title": "Summer Intern - AI & Hardware Analytics - Adpt",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -399092,5 +399092,26 @@
         "degrees": [
             "MD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Focusrite Group",
+        "id": "8ad4b8bd-6782-4d69-ad11-4fb01c69b1c3",
+        "title": "Embedded Software Placement Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791280621,
+        "date_posted": 1790634034,
+        "url": "https://apply.workable.com/focusrite/j/6520BBBFF1/apply",
+        "locations": [
+            "High Wycombe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Focusrite-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
