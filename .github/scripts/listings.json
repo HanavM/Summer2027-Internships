@@ -292856,7 +292856,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "049c86d3-c16d-4798-9d63-c15b59e626ce",
         "title": "Actuarial Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371326,7 +371326,7 @@
         "company_name": "AMD",
         "id": "4dd92b4d-fcb3-4e7f-ab7e-984aa0260f5e",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387766,7 +387766,7 @@
         "company_name": "Nokia",
         "id": "32a96299-0317-405b-a98b-214b6ff94716",
         "title": "AI R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
