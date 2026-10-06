@@ -243085,7 +243085,7 @@
         "company_name": "Vertiv",
         "id": "8fdae942-cdba-4211-9277-dd563870610d",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -251304,7 +251304,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -251346,7 +251346,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -251395,7 +251395,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -251513,7 +251513,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -251539,7 +251539,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -251585,7 +251585,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -272156,7 +272156,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -272453,7 +272453,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302945,7 +302945,7 @@
         "company_name": "Brunswick",
         "id": "e6071b93-7dbd-4e00-9f95-3aedd8bda97c",
         "title": "Power BI/Ops Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -307232,7 +307232,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -307362,7 +307362,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -307385,7 +307385,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -307455,7 +307455,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -307478,7 +307478,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307501,7 +307501,7 @@
         "company_name": "Goldman Sachs",
         "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
         "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -313579,7 +313579,7 @@
         "company_name": "Susquehanna International Group",
         "id": "6ad3c0e8-ef42-4d34-b105-e719ee13b152",
         "title": "Technology Co-op - Northeastern University",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -327441,7 +327441,7 @@
         "company_name": "RTX",
         "id": "7ca37683-268a-4dd7-a974-d250fd211b31",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -347652,7 +347652,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -370396,7 +370396,7 @@
         "company_name": "Jabil",
         "id": "fe98fa31-597a-4003-89f0-89fa37a7c563",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378516,7 +378516,7 @@
         "company_name": "RTX",
         "id": "9ab13260-bac2-4bc2-9334-a6f0d248d8be",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -394887,7 +394887,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "5880290d-76ca-4275-a87f-5c15736fcf49",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395293,7 +395293,7 @@
         "company_name": "Insulet",
         "id": "877a9341-f1cf-4811-b50f-994e93d1791e",
         "title": "R&D Electrical Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -399157,5 +399157,244 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Scientific",
+        "id": "80c856e0-3ec4-4026-9444-8ee61d28bf1e",
+        "title": "Equipment Engineering AI Vision Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791296822,
+        "date_posted": 1791296665,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584308",
+        "locations": [
+            "Maple Grove, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross Blue Shield of Michigan",
+        "id": "40f11b76-b951-46c8-a71e-e8182aa18926",
+        "title": "Epidemiology / Biostatistics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791296774,
+        "date_posted": 1791296520,
+        "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IDEMIA",
+        "id": "ca81a621-2f36-49ca-a53c-8b2ade452ded",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791296766,
+        "date_posted": 1791296515,
+        "url": "https://uscareers-idemia.icims.com/jobs/8647/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Idemia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tradeweb",
+        "id": "ff8fadb8-1a36-463a-9258-da2a9fe79a54",
+        "title": "Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791296593,
+        "date_posted": 1791296370,
+        "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301946",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tradeweb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sentinel Technologies",
+        "id": "9021bf38-e375-42b6-92d9-98a404723624",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791296463,
+        "date_posted": 1791296382,
+        "url": "https://careers-sentinel.icims.com/jobs/5122/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Downers Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentinel-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "e6f9e297-654b-4ab5-a79f-6d9f4d7f38dc",
+        "title": "Hardware Intern - AI HW & System on a Chip",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791296281,
+        "date_posted": 1791296252,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KKR",
+        "id": "50597a72-b855-4e2f-a7fe-130439c9ff69",
+        "title": "Summer Analyst Intern - Insurance Risk - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791296463,
+        "date_posted": 1791296021,
+        "url": "https://www.kkr.com/careers/student-careers/student-career-opportunities/post?gh_jid=6200944004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/KKR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "b685eb9a-3c67-46fe-b44d-24dc58e134a4",
+        "title": "Design Verification Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791296105,
+        "date_posted": 1791295641,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153770924",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Macy's",
+        "id": "db62749f-cc63-4330-9dbd-0a828789aba4",
+        "title": "Summer Intern - Consumer Insights: Customer & Digital Intelligence and Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791295703,
+        "date_posted": 1791295536,
+        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Macys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Macy's",
+        "id": "f0290968-f103-48af-89e4-6c57d1500413",
+        "title": "Analytics Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791295710,
+        "date_posted": 1791295541,
+        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Macys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
