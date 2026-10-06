@@ -220570,7 +220570,7 @@
         "company_name": "GenMD",
         "id": "25b39cd6-8460-4aa3-be55-52865cb6c034",
         "title": "AI Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389749,7 +389749,7 @@
         "company_name": "Natera",
         "id": "53b80883-d4d1-4b69-9bce-15f9ddb4d132",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
