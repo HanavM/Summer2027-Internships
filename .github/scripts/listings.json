@@ -277076,7 +277076,7 @@
         "company_name": "Qorvo",
         "id": "21878633-4f34-4274-81f7-68ceb6d1ace9",
         "title": "Product Management Engineer Intern - High Performance Analog",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -280097,7 +280097,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "97b19795-4fdd-4a30-8b4d-fd78592f4793",
         "title": "AI Application Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -327441,7 +327441,7 @@
         "company_name": "RTX",
         "id": "7ca37683-268a-4dd7-a974-d250fd211b31",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -370628,7 +370628,7 @@
         "company_name": "Jabil",
         "id": "1e568492-ddb0-486c-80f3-1280cbfe1b5d",
         "title": "Operations Analytics & Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378516,7 +378516,7 @@
         "company_name": "RTX",
         "id": "9ab13260-bac2-4bc2-9334-a6f0d248d8be",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386095,7 +386095,7 @@
         "company_name": "CoStar Group",
         "id": "be949df0-0657-4f39-b1f3-e45962a3eee3",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387862,7 +387862,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c821a189-b150-4657-a1c7-b7a27d61e0b8",
         "title": "Electrical Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -395293,7 +395293,7 @@
         "company_name": "Insulet",
         "id": "877a9341-f1cf-4811-b50f-994e93d1791e",
         "title": "R&D Electrical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
