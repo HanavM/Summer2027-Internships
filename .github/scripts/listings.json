@@ -4683,7 +4683,7 @@
         "company_name": "HubSpot",
         "id": "76683b81-5fbd-480b-9373-93c41652901b",
         "title": "HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -302945,7 +302945,7 @@
         "company_name": "Brunswick",
         "id": "e6071b93-7dbd-4e00-9f95-3aedd8bda97c",
         "title": "Power BI/Ops Analytics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -351723,7 +351723,7 @@
         "company_name": "RTX",
         "id": "06c5700d-2702-4f7a-a7c1-e713c7de94a4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -365786,7 +365786,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -379199,7 +379199,7 @@
         "company_name": "RTX",
         "id": "ec00eac5-4585-4280-840e-de9a25fe6595",
         "title": "Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -394887,7 +394887,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "5880290d-76ca-4275-a87f-5c15736fcf49",
         "title": "Data Science Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -399391,6 +399391,379 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Macys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Family Insurance Group",
+        "id": "c0f389e5-99cf-4fb0-a67e-06d06d9a36b2",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791298742,
+        "date_posted": 1791244800,
+        "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analytics_R39631",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Family-Insurance-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "RSM",
+        "id": "55b9897d-6ff2-41fb-ae7b-47246489a120",
+        "title": "Catamaran Managed Services Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1791298081,
+        "date_posted": 1791244800,
+        "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Francisco/Catamaran-Managed-Services-Intern---Fall-2026_JR121785",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/RSM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Allegion",
+        "id": "5fdf7b23-cdb5-4291-bf68-d6e4d8443b70",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1791298175,
+        "date_posted": 1791244800,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Management_JR37369-1",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alston & Bird Law Firm",
+        "id": "d0cef856-98c0-4742-86ea-e16297da53fb",
+        "title": "Developer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791297722,
+        "date_posted": 1791244800,
+        "url": "https://alston.wd1.myworkdayjobs.com/ExternalCareer/job/Atlanta/Developer-Intern_JR100986",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alston-And-Bird-Law-Firm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Biogen",
+        "id": "3922d4b5-0abb-4220-a5a2-9a47a2faba53",
+        "title": "Machine Learning Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1791297820,
+        "date_posted": 1791244800,
+        "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Biogen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "fe5603d3-8972-41af-b7a7-f049affc7864",
+        "title": "Vehicle Experience Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1791297901,
+        "date_posted": 1791244800,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Vehicle-Experience-Software-Developer_JR-202621872",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "6d72adc9-d3c0-4b7b-95ee-85e523701bab",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1791297622,
+        "date_posted": 1790553600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "ce00df4f-d241-4013-897d-9dbdd794d1e1",
+        "title": "Business Intelligence Enterprise Anti-Money Laundering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1791297446,
+        "date_posted": 1791244800,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "ee4339eb-31e5-4658-ae15-d2e95544773a",
+        "title": "Business Intelligence Enterprise Anti-Money Laundering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1791297452,
+        "date_posted": 1791244800,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kyndryl",
+        "id": "abb1b26c-9b2c-414f-bc57-31b189bd9466",
+        "title": "Marketing Intern - Marketing Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791297185,
+        "date_posted": 1791244800,
+        "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69404",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyndryl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kyndryl",
+        "id": "deac1153-7f92-4d34-8295-09dfbf1c3183",
+        "title": "Marketing Intern - Marketing Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791297184,
+        "date_posted": 1791244800,
+        "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analytics_R-69403",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyndryl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Procter & Gamble",
+        "id": "04082f6d-c15d-4431-bf6a-5ac5f3fd7dc8",
+        "title": "IT Technical Specialist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791297171,
+        "date_posted": 1791244800,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State Employees' Credit Union",
+        "id": "68d1e3b8-289f-4846-8957-2eb76828d84c",
+        "title": "Server Engineering and Operations Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1791297181,
+        "date_posted": 1791244800,
+        "url": "https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Server-Engineering-and-Operations-Part-time-Spring-2027_JR-16564",
+        "locations": [
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/SECU",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Space Dynamics Laboratory",
+        "id": "b83f3fb8-0a55-4eed-82f6-9b98a78af0e9",
+        "title": "Software Engineer Intern - Software, AI, & Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791297005,
+        "date_posted": 1791296847,
+        "url": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning",
+        "locations": [
+            "North Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Space-Dynamics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Space Dynamics Laboratory",
+        "id": "5c36212c-2f70-482d-91ee-c4c8fdcd552f",
+        "title": "Electro-Optical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791297005,
+        "date_posted": 1791296846,
+        "url": "https://spacedynamicslaboratory.applytojob.com/apply/E1nubjCRhW/ElectroOptical-Engineer-Intern",
+        "locations": [
+            "North Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Space-Dynamics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Space Dynamics Laboratory",
+        "id": "2e5df730-d9a8-47e0-aac3-c386a7274276",
+        "title": "Software Engineer Intern - AI Enabled Software Development",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791297118,
+        "date_posted": 1791296845,
+        "url": "https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development",
+        "locations": [
+            "North Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Space-Dynamics-Laboratory",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
