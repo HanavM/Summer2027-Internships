@@ -204070,7 +204070,7 @@
         "company_name": "Netflix",
         "id": "dee128c9-ea09-43a7-b1c8-6ab36d14287e",
         "title": "AI/ML Scientist Intern - AIMS AI Foundations",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -260806,7 +260806,7 @@
         "company_name": "AMD",
         "id": "b6461f19-ac97-4787-a3e5-e3529e7f1e28",
         "title": "Product Development Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -281865,7 +281865,7 @@
         "company_name": "Trane Technologies",
         "id": "98540e92-9f57-4fcc-9005-6dc6593e8205",
         "title": "AI Intern - AI Product Management - AI Controls Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -285269,7 +285269,7 @@
         "company_name": "Magna",
         "id": "47d95f89-f763-477d-a29f-ec7b46b0f160",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -354554,7 +354554,7 @@
         "company_name": "Marvell",
         "id": "42ef3361-65d3-45bc-bb21-c1fe2908bf6c",
         "title": "SRAM Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2027",
             "Summer 2028"
@@ -362844,7 +362844,7 @@
         "company_name": "Rodan Energy Solutions",
         "id": "bfd666d6-eb74-40ca-8595-5c0e16820216",
         "title": "Data Operations Engineer AI Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -363779,7 +363779,7 @@
         "company_name": "GE Healthcare",
         "id": "7d669b5f-60d8-41f2-8c63-353b9b7240a7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368255,7 +368255,7 @@
         "company_name": "William Blair",
         "id": "dc550f37-4505-4a97-8560-642d1cc2f0e9",
         "title": "Application Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -370537,7 +370537,7 @@
         "company_name": "Qumulo",
         "id": "c2cbd149-9096-42ca-b785-b8ab7d96e3cf",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -389068,7 +389068,7 @@
         "company_name": "Bose",
         "id": "2d557827-15c8-4aae-b17a-37a7ad82b3ec",
         "title": "Data Science Co-op - NLP & GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -389819,7 +389819,7 @@
         "company_name": "MasterControl",
         "id": "a16db3b5-8163-4ee5-913a-2df08569ad8c",
         "title": "Context Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -395554,7 +395554,7 @@
         "company_name": "RTX",
         "id": "725c24d1-eff4-4761-8075-200afd2345f7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
