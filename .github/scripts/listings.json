@@ -240774,7 +240774,7 @@
         "company_name": "Northrop Grumman",
         "id": "a65068a9-808a-4223-9f74-2421c555cb44",
         "title": "Software Engineer Intern - Aeronautics Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328976,7 +328976,7 @@
         "company_name": "L3Harris Technologies",
         "id": "1ce2a613-e411-4a03-a5e2-73ef2a74935a",
         "title": "Integration/Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
