@@ -265122,7 +265122,7 @@
         "company_name": "Freddie Mac",
         "id": "2ca29e94-257e-49f3-8ba7-5ad8b1ef12ea",
         "title": "Multifamily Digital Product Analysis Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313956,7 +313956,7 @@
         "company_name": "Johnson Controls",
         "id": "73e4ce20-6a87-4c11-85a0-52fdf043464a",
         "title": "Software/Controls Engineering Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352051,7 +352051,7 @@
         "company_name": "KBR",
         "id": "979ac96d-8d31-44b0-b0ce-b26b281568e9",
         "title": "Data Processing Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -354110,7 +354110,7 @@
         "company_name": "Copart",
         "id": "49b31087-1e4c-42c6-8ff8-bf49f6ad3153",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -354926,7 +354926,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "4bde8bc5-067e-4676-9a52-d07891e1cb78",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381687,7 +381687,7 @@
         "company_name": "GE Healthcare",
         "id": "864cc8b9-b420-476e-a6a6-b9bb048c678d",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382204,7 +382204,7 @@
         "company_name": "KLA",
         "id": "66fd3b4a-cc9c-4090-9786-0bf42637abfd",
         "title": "Optical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -382621,7 +382621,7 @@
         "company_name": "GE Healthcare",
         "id": "2e8fab2b-d09c-456f-9ec4-f142c8021d83",
         "title": "Algorithms Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -384933,7 +384933,7 @@
         "company_name": "RTX",
         "id": "7344ee5e-5174-44c2-acec-12e21379b83f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385693,7 +385693,7 @@
         "company_name": "Marvell",
         "id": "be7a85db-d805-4c2a-b5d3-9e65f0e50f15",
         "title": "Firmware Engineer Intern - MS - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386305,7 +386305,7 @@
         "company_name": "Northrop Grumman",
         "id": "f28f57ef-d9b4-4201-95d1-2c55f337532f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386922,7 +386922,7 @@
         "company_name": "Freddie Mac",
         "id": "75bf9ace-02bf-45d8-be12-dd89e1b6b7ba",
         "title": "Multifamily Capital Markets Analytics & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389021,7 +389021,7 @@
         "company_name": "Intel",
         "id": "f59257fb-9deb-439b-867b-379bc02454b2",
         "title": "Thermal Mechanical Engineering Intern - GPU Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -399113,5 +399113,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Associated Bank",
+        "id": "f2bb0ff1-d4c7-4c79-9e2a-bcb920182f37",
+        "title": "Corporate Intern - Product Development",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791291290,
+        "date_posted": 1790899200,
+        "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/XMLNAME-2027-Corporate-Intern---Product-Development_JR106518",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Associated-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
