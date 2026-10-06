@@ -265122,7 +265122,7 @@
         "company_name": "Freddie Mac",
         "id": "2ca29e94-257e-49f3-8ba7-5ad8b1ef12ea",
         "title": "Multifamily Digital Product Analysis Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -302197,7 +302197,7 @@
         "company_name": "Magna",
         "id": "a7beff09-b326-4679-a544-c614e04aa701",
         "title": "Robotics AI Algorithm Intern - Research and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -313956,7 +313956,7 @@
         "company_name": "Johnson Controls",
         "id": "73e4ce20-6a87-4c11-85a0-52fdf043464a",
         "title": "Software/Controls Engineering Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -342461,7 +342461,7 @@
         "company_name": "Space Dynamics Laboratory",
         "id": "f7628ce8-6895-4567-b889-509bb8769f10",
         "title": "Web Developer Assistant - Enterprise Application Support Team",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -350399,7 +350399,7 @@
         "company_name": "Jabil",
         "id": "43d3c59e-64e3-4833-bc36-39a62abb1ded",
         "title": "Server Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352051,7 +352051,7 @@
         "company_name": "KBR",
         "id": "979ac96d-8d31-44b0-b0ce-b26b281568e9",
         "title": "Data Processing Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -354926,7 +354926,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "4bde8bc5-067e-4676-9a52-d07891e1cb78",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382621,7 +382621,7 @@
         "company_name": "GE Healthcare",
         "id": "2e8fab2b-d09c-456f-9ec4-f142c8021d83",
         "title": "Algorithms Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -384933,7 +384933,7 @@
         "company_name": "RTX",
         "id": "7344ee5e-5174-44c2-acec-12e21379b83f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386095,7 +386095,7 @@
         "company_name": "CoStar Group",
         "id": "be949df0-0657-4f39-b1f3-e45962a3eee3",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386922,7 +386922,7 @@
         "company_name": "Freddie Mac",
         "id": "75bf9ace-02bf-45d8-be12-dd89e1b6b7ba",
         "title": "Multifamily Capital Markets Analytics & Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387862,7 +387862,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c821a189-b150-4657-a1c7-b7a27d61e0b8",
         "title": "Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -389021,7 +389021,7 @@
         "company_name": "Intel",
         "id": "f59257fb-9deb-439b-867b-379bc02454b2",
         "title": "Thermal Mechanical Engineering Intern - GPU Platforms",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -399136,5 +399136,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astera Labs",
+        "id": "92d87db9-dd71-4247-ba44-65a8df64f295",
+        "title": "Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791268034,
+        "date_posted": 1791267444,
+        "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727655005",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AsteraLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
