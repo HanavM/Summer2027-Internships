@@ -239869,7 +239869,7 @@
         "company_name": "Northrop Grumman",
         "id": "a9d682ef-59ba-42c1-9fad-28a7afc1aea4",
         "title": "Software Engineer Intern - Aeronautics Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -241911,7 +241911,7 @@
         "company_name": "Epic Games",
         "id": "31ab487e-bda7-4337-94b7-bda1786f13f2",
         "title": "Machine Learning Intern - Special Projects - Epic Research Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2027",
@@ -328876,7 +328876,7 @@
         "company_name": "L3Harris Technologies",
         "id": "352fa54f-2951-4516-9bad-74ec4d58df98",
         "title": "Integration/Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -339827,7 +339827,7 @@
         "company_name": "Raymond James Financial",
         "id": "cdb5a574-e710-4dee-8108-35936fc5c297",
         "title": "Private Client Banking Strategy, Analytics & Sales Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
