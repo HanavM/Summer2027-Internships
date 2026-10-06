@@ -375472,7 +375472,7 @@
         "company_name": "GE Healthcare",
         "id": "5cfd0cc4-fb8d-400a-8048-c690831418ad",
         "title": "Software Engineer Intern - Workflow Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -387361,7 +387361,7 @@
         "company_name": "Nokia",
         "id": "e424ed63-cf81-42da-b8e7-31265322ec20",
         "title": "AI R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -387623,7 +387623,7 @@
         "company_name": "Nokia",
         "id": "7712858f-382a-45d0-b39e-96399014727b",
         "title": "AI R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
