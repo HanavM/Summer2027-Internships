@@ -212980,7 +212980,7 @@
         "company_name": "Jump Trading",
         "id": "03fc254f-2b9e-4967-8b85-06408e320808",
         "title": "Campus Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367512,7 +367512,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372169,7 +372169,7 @@
         "company_name": "Kitware",
         "id": "2eb2bfe3-9937-4b98-9849-60d70134ff10",
         "title": "Computer Vision Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385036,7 +385036,7 @@
         "company_name": "SAS",
         "id": "2f4d691e-c368-4b0b-a6ca-641b6441ab48",
         "title": "Software Development and Testing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
