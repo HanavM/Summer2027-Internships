@@ -370746,7 +370746,7 @@
         "company_name": "CAE",
         "id": "4c5f0079-fc09-463d-a5f2-15618f660fcc",
         "title": "Weapons Simulation Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -394080,7 +394080,7 @@
         "company_name": "Capital One",
         "id": "4d64e8aa-5ca6-44d5-b949-00e619cfebfe",
         "title": "Applied Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394864,7 +394864,7 @@
         "company_name": "Leidos",
         "id": "1c35501c-aa12-4357-b0f5-e1dd1b8ae28b",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
