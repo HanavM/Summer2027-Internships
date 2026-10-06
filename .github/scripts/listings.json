@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "The Walt Disney Company",
-        "id": "87d159ea-cf67-4caf-a122-7c0291ae5c1a",
-        "title": "Disney Consumer Products Retail Strategy and Integration Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770535833,
-        "date_posted": 1770535833,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Kissimmee-FL-USA/Disney-Consumer-Products-Retail-Strategy-and-Integration-Intern--Summer-Fall-2026_10141874-1",
-        "locations": [
-            "Kissimmee, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Voyager Technologies",
         "id": "44fbef42-c81c-4902-be0e-fc96876fffc2",
@@ -158907,7 +158884,7 @@
         "company_name": "Tenstorrent",
         "id": "e971a3e2-631b-4ad9-ab78-effc38c864ed",
         "title": "AI Compiler Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
