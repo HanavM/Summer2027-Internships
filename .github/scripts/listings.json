@@ -271450,7 +271450,7 @@
         "company_name": "RTX",
         "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
         "title": "Customer Data Management and Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -312441,7 +312441,7 @@
         "company_name": "Marvell",
         "id": "72a95a86-9b4f-436c-b408-21eafc8a80fb",
         "title": "IC Validation Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -312494,7 +312494,7 @@
         "company_name": "Marvell",
         "id": "ce92705c-8ef8-41b9-b977-84b925ad7137",
         "title": "Analog Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -314409,7 +314409,7 @@
         "company_name": "Marvell",
         "id": "769667d7-3030-4678-96db-9cd5a6787b75",
         "title": "Design Verification Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339400,7 +339400,7 @@
         "company_name": "BP",
         "id": "27d35509-4d8d-4dd3-9313-54dfaee11170",
         "title": "Data Strategist Intern - Global Data Strategists Team",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -376612,7 +376612,7 @@
         "company_name": "Intel",
         "id": "2d77d594-bd99-46dd-bb12-5e46c01f41e8",
         "title": "System Software Engineer PhD Intern - Intel Foundry - LTD CMT Litho Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382668,7 +382668,7 @@
         "company_name": "Marvell",
         "id": "2e092fdb-ec46-491f-a0b4-0730b3e3d0d7",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387020,7 +387020,7 @@
         "company_name": "The Home Depot",
         "id": "e16ac71f-72f4-4100-b277-2a92a88c6d05",
         "title": "AI Machine Learning Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -387933,7 +387933,7 @@
         "company_name": "General Motors",
         "id": "937f9f37-e581-434f-a5f4-54b33dbe72ab",
         "title": "Infotainment Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
