@@ -287321,7 +287321,7 @@
         "company_name": "Philips",
         "id": "ae81d4a7-3369-45ee-b1b0-74df1c1e83e0",
         "title": "Data Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -327465,7 +327465,7 @@
         "company_name": "Entegris",
         "id": "3aaa017a-6262-4f8b-bce9-760c9d609335",
         "title": "AI Continuous Improvement Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -352960,7 +352960,7 @@
         "company_name": "Leidos",
         "id": "be3dadf8-1646-4cc7-926c-77a499228223",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394959,7 +394959,7 @@
         "company_name": "Root Insurance",
         "id": "475fc092-f1c3-41b4-9ccc-fb886ef59e52",
         "title": "Software Engineer Intern: Agent Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
