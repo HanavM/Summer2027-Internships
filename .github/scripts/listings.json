@@ -163166,7 +163166,7 @@
         "company_name": "Astera",
         "id": "d82bb13b-066a-4f6d-8f2f-ad3e7b394a3d",
         "title": "Software Engineer Intern - Distributed Simulation Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281957,7 +281957,7 @@
         "company_name": "American Express",
         "id": "de9099c6-40df-40d2-ab9a-82d46ae5b517",
         "title": "Product Management Intern - Global Merchant & Network Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -282003,7 +282003,7 @@
         "company_name": "American Express",
         "id": "19707ef8-155b-4c94-bab9-a0988614b068",
         "title": "Data Analytics Intern - Enterprise Technology Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371257,7 +371257,7 @@
         "company_name": "AMD",
         "id": "f3d05ac2-889f-41af-8897-4ebab63cc29b",
         "title": "Applied Artificial Intelligence Engineering Intern - Hardware AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379554,7 +379554,7 @@
         "company_name": "Motorola",
         "id": "e0f70e66-00e3-4ebe-964f-c3783246b9f2",
         "title": "Junior Product Owner Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387385,7 +387385,7 @@
         "company_name": "Nokia",
         "id": "e0df696d-2ab2-4d0d-8651-fb2a0f1bd983",
         "title": "AI Research and Development Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -387668,7 +387668,7 @@
         "company_name": "Nokia",
         "id": "a4b8903a-9aef-42f2-bcff-932971e9ba29",
         "title": "AI Research and Development Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -393799,7 +393799,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "fc6dd952-8dfe-40dc-bb6b-bc812a95c847",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -396497,5 +396497,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Signifyd",
+        "id": "ecea0a0c-194c-4478-8605-93cac5731cb2",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791251281,
+        "date_posted": 1791251198,
+        "url": "https://job-boards.greenhouse.io/signifyd95/jobs/8240551",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Signifyd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
