@@ -1,101 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mikata Health",
-        "id": "0ebcd2b4-be09-42d6-8809-53d04d09dc5e",
-        "title": "Healthcare Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770650331,
-        "date_posted": 1770650331,
-        "url": "https://ats.rippling.com/mikata/jobs/b27c6e6a-0bdd-4452-b5dc-c0514dcd7441",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mikata-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "John Deere",
-        "id": "7ad11c2d-98c6-4f9b-b7b5-80fd612ae084",
-        "title": "Part-Time Student - Engine Performance Analyst - Product Engineering (CA)",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1770650051,
-        "date_posted": 1770650051,
-        "url": "https://johndeere.eightfold.ai/careers/job/137478895192",
-        "locations": [
-            "Waterloo, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "John Deere",
-        "id": "ef1f3a44-77c2-4d49-9805-7bc0aa9c6e79",
-        "title": "Part-Time Student - Continuous Improvement - Waterloo IA Product Engineering (CA)",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1770650037,
-        "date_posted": 1770650037,
-        "url": "https://johndeere.eightfold.ai/careers/job/137478896949",
-        "locations": [
-            "Waterloo, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SRI International",
-        "id": "2668af86-ff6f-421a-b673-6e6194c9b840",
-        "title": "Data Science/Computer Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770649966,
-        "date_posted": 1770649966,
-        "url": "https://careers-sri.icims.com/jobs/6330/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SRI-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "State Street",
         "id": "db4f7e31-fbef-41c2-a702-f8f5f5d89a56",
@@ -273321,7 +273226,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -309671,7 +309576,7 @@
         "company_name": "Prysmian Cables & Systems",
         "id": "7ed5f8a7-365f-4795-bb28-dd68ad3dfbcf",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -321897,7 +321802,7 @@
         "company_name": "Spirit AeroSystems",
         "id": "d00d0b1e-deb5-4f08-bef7-f61438054ee6",
         "title": "Data Analytics Intern - Production & Industrial Engineering - Paid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362753,7 +362658,7 @@
         "company_name": "General Motors",
         "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
         "title": "Software Engineer Intern - Digital Product: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -363459,7 +363364,7 @@
         "company_name": "PrizePicks",
         "id": "270f99a7-34f7-4b24-a868-04937e87dc59",
         "title": "Software Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364111,7 +364016,7 @@
         "company_name": "Fidelity Investments",
         "id": "695c330c-a16f-4490-93fc-2f34b8d874ce",
         "title": "Quantitative Research Intern - Multi-Asset Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368777,7 +368682,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368845,7 +368750,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369470,7 +369375,7 @@
         "company_name": "Neuberger Berman",
         "id": "d19faef5-69be-4dee-b896-16d292336009",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377719,7 +377624,7 @@
         "company_name": "RTX",
         "id": "a9a76fae-a7c1-48c3-8229-1804f208d98d",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -379643,7 +379548,7 @@
         "company_name": "Marvell",
         "id": "8d8ac70c-4524-4e6c-abd0-378889133e68",
         "title": "AI-Native Development Platform Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382021,7 +381926,7 @@
         "company_name": "KLA",
         "id": "9750e606-5a81-4a74-9492-ca1a93b10e38",
         "title": "Optical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382044,7 +381949,7 @@
         "company_name": "KLA Corporation",
         "id": "e0190f47-ebc1-4e15-884d-ef5b3ddda1b3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383027,7 +382932,7 @@
         "company_name": "KLA",
         "id": "a81d9b15-5ceb-436d-bbb3-c8bb2fe509ea",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400539,7 +400444,7 @@
         "company_name": "KLA",
         "id": "98500a46-81cc-4232-a948-20ca62544339",
         "title": "PLM Business Intelligence & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401687,7 +401592,7 @@
         "company_name": "KLA",
         "id": "bdb92677-9bd1-4327-b0ca-c988ff0e1d31",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401710,7 +401615,7 @@
         "company_name": "KLA",
         "id": "29379ac0-6351-43a9-a3a3-cd3b286670cb",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402460,7 +402365,7 @@
         "company_name": "RTX",
         "id": "ba84059f-11a6-4121-a01d-1229ff58c1c9",
         "title": "Systems Engineering Test Equipment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403400,6 +403305,29 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "9facd644-c8bc-46cb-bd5a-ddf808865147",
+        "title": "Business Systems AI Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791386341,
+        "date_posted": 1790899200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
