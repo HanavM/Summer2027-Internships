@@ -186120,7 +186120,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -229282,7 +229282,7 @@
         "company_name": "Copart",
         "id": "079e1669-46b8-488f-8297-f7c139a745ec",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -232062,7 +232062,7 @@
         "company_name": "Terranova",
         "id": "168be0d0-eff5-4b46-acaf-353e65e445b0",
         "title": "Embedded Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -272906,7 +272906,7 @@
         "company_name": "Leidos",
         "id": "083cfc54-1c27-4fc6-ab89-6606e06aca1f",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -298104,7 +298104,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "00a52ad4-067c-472b-a535-cacfc706483d",
         "title": "Acoustic Algorithm Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336399,7 +336399,7 @@
         "company_name": "Amgen",
         "id": "079b70ee-8105-46b4-9163-319c8610f157",
         "title": "Software Engineer Intern - Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343448,7 +343448,7 @@
         "company_name": "Keysight Technologies",
         "id": "159e9477-d98e-4aae-bf19-215989e0cbc9",
         "title": "Compound Semiconductor Device Characterization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347322,7 +347322,7 @@
         "company_name": "APEX Analytix",
         "id": "00026218-6b9b-420f-a490-b3b29742cf17",
         "title": "Data Analyst Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381102,7 +381102,7 @@
         "company_name": "Microsoft",
         "id": "da82f397-2510-43a6-93a8-f5f5bdc70d0d",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385252,7 +385252,7 @@
         "company_name": "Principal Financial Group",
         "id": "150975a3-5da9-4ebe-8e99-a6efe8822741",
         "title": "Quantitative Analyst Intern - Quantitative Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388307,7 +388307,7 @@
         "company_name": "TikTok",
         "id": "0ea4c6d9-c64c-48a4-af5c-f9cb2fbb082e",
         "title": "Product Marketing Management Intern - Systems Strategy & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402588,6 +402588,27 @@
             "Menlo Park, CA"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ema",
+        "id": "119fc4cb-f9b7-4e2f-b40e-0a1885e0aa33",
+        "title": "AI Resident",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791363546,
+        "date_posted": 1790893309,
+        "url": "https://jobs.ashbyhq.com/ema/c6ec72b0-dce1-422c-895f-9f22c4762a76/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ema",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
