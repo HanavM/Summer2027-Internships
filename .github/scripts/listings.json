@@ -107772,7 +107772,7 @@
         "company_name": "Cloudflare",
         "id": "dff947d1-40bd-4f5e-8076-ee60983486f8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -213124,7 +213124,7 @@
         "company_name": "Akuna Capital University",
         "id": "30a79016-bc6f-4525-a5fe-a459b18de455",
         "title": "Software Engineer Intern - C++",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -213172,7 +213172,7 @@
         "company_name": "Akuna Capital University",
         "id": "bc91fbea-a1d8-4e14-8446-6d0df9d7a3f3",
         "title": "Quantitative Development & Strategy Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -213197,7 +213197,7 @@
         "company_name": "Akuna Capital University",
         "id": "18e99160-24c6-4a84-bc61-bec64dd7decb",
         "title": "Software Engineer Intern - Full Stack Web",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -213222,7 +213222,7 @@
         "company_name": "Akuna Capital University",
         "id": "d6690f5c-9890-48da-a03e-38cc3e89d071",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -213271,7 +213271,7 @@
         "company_name": "Akuna Capital University",
         "id": "13b103af-8b5c-4685-9b00-18ce29399f40",
         "title": "Software Engineer Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -214172,7 +214172,7 @@
         "company_name": "Akuna Capital University",
         "id": "17b55e16-4b9d-4870-ba60-51a53eaf71c5",
         "title": "Software Engineer Intern - C# .NET Desktop",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299598,7 +299598,7 @@
         "company_name": "Freeform",
         "id": "544a91de-8c02-404d-8acd-5d1dc17c71a4",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402279,6 +402279,218 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
+        "title": "Entry-Level C++ Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1791337514,
+        "date_posted": 1791337377,
+        "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Figure",
+        "id": "aaa30ce6-c284-414d-9691-f95b388b2ccf",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1791337345,
+        "date_posted": 1791337157,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4601309006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Figure",
+        "id": "aa69d095-c407-4d41-bd13-43bf2ad85ee3",
+        "title": "Validation Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1791337349,
+        "date_posted": 1791337160,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4606072006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Figure",
+        "id": "3aa8e6d6-bc8d-4612-a995-21c9edb99cb9",
+        "title": "Middleware Software Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1791337348,
+        "date_posted": 1791337158,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4605724006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sigma Computing",
+        "id": "c63e2992-9d5c-413d-b83d-c3e7ac272cb1",
+        "title": "AI/ML PhD Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791337141,
+        "date_posted": 1791337031,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "b29f7462-630f-4a75-8dca-924bcd83bd11",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791337161,
+        "date_posted": 1791337035,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "020d221e-9e1f-4ed0-9e98-add0f65d7c47",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791337161,
+        "date_posted": 1791337035,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Highmark Health",
+        "id": "f837be5e-a836-41f8-ae75-18dafffcf33a",
+        "title": "Market Analytics Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791336617,
+        "date_posted": 1791244800,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Highmark-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "North Atlantic Industries",
+        "id": "c7796ea0-4118-410b-bdfc-3321a9f772a8",
+        "title": "Electrical Engineer Qualification Test Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1791336620,
+        "date_posted": 1791335911,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4566437",
+        "locations": [
+            "Bohemia, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
