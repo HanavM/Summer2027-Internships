@@ -138332,7 +138332,7 @@
         "company_name": "TikTok",
         "id": "1ed2eb99-0aad-44c5-a7ec-2987bd71cfc3",
         "title": "Data Product Manager Project Intern - Monetization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371073,7 +371073,7 @@
         "company_name": "Texas A&M University System",
         "id": "a1a049c7-dd9d-4c03-a24a-7c4e79e74dbb",
         "title": "Graduate Assistant Non-Teaching",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378074,7 +378074,7 @@
         "company_name": "Boston Scientific",
         "id": "9f98eff6-d8a9-41cc-9d73-e31bc31c2617",
         "title": "Software Development Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401664,7 +401664,7 @@
         "company_name": "Procter & Gamble",
         "id": "ef96a3f9-16e2-4616-994f-10af59a086aa",
         "title": "R&D PhD Summer Intern: Grooming M&S",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402591,6 +402591,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sigma Computing",
+        "id": "6173399c-5581-4c15-9b5b-8f08d3e0bfc4",
+        "title": "AI/ML PhD Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791354961,
+        "date_posted": 1791354890,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8015269003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "PhD"
         ]
     }
