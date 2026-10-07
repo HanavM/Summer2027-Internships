@@ -365670,7 +365670,7 @@
         "company_name": "Google",
         "id": "36fdb948-c215-4a20-afda-958941c4de18",
         "title": "Product Manager Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399191,7 +399191,7 @@
         "company_name": "Kyndryl",
         "id": "deac1153-7f92-4d34-8295-09dfbf1c3183",
         "title": "Marketing Intern - Marketing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
