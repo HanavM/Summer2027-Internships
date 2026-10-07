@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 1679 Inactive Internship Roles by Category
+### Browse 1680 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (593)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (100)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (549)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (550)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (200)
 
@@ -1114,7 +1114,7 @@
 <td>Software Engineer Intern - BS/MS</td>
 <td>SF</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Principal-Financial?utm_source=GHList&utm_medium=company">Principal Financial Group</a></strong></td>
@@ -5191,6 +5191,13 @@
 <td>14d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Excellus-BCBS?utm_source=GHList&utm_medium=company">Excellus BCBS</a></strong></td>
+<td>College Intern - Data Governance & AI Governance</td>
+<td><details><summary><strong>6 locations</strong></summary>Rochester, NY<br>De Witt, NY<br>Utica, NY<br>Albany, NY<br>Binghamton, NY<br>Buffalo, NY</details></td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
 <td>AI Systems Engineer Intern - Summer 2027</td>
 <td>Annapolis Junction, MD<br>Fort Meade, MD</td>
@@ -6570,7 +6577,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/United-Airlines?utm_source=GHList&utm_medium=company">United Airlines</a></strong></td>
 <td>Digital Technology Intern - Summer 2027</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
