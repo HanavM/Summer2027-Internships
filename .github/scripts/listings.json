@@ -2,52 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ICF International",
-        "id": "9d64f247-8401-4032-8922-39e34539b442",
-        "title": "Intern - Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770621916,
-        "date_posted": 1770621916,
-        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Developer_R2600424",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/ICF-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Delinea",
-        "id": "f925542d-af58-4268-8419-f2a33e1f39e6",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770621359,
-        "date_posted": 1770621359,
-        "url": "https://jobs.ashbyhq.com/delinea/3eed48b7-b60c-4c50-adc2-4523337e1592/application",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Delinea",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Mikata Health",
         "id": "0ebcd2b4-be09-42d6-8809-53d04d09dc5e",
         "title": "Healthcare Data Science Intern",
@@ -402616,5 +402570,26 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "bb6a3336-da15-4b50-b989-9e84766d0e86",
+        "title": "Data Scientist Intern - Product Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1791353529,
+        "date_posted": 1791353325,
+        "url": "https://www.metacareers.com/jobs/929757023499411",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
