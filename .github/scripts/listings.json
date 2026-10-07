@@ -2,50 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "f36fed31-7e79-42bf-b531-6503de152383",
-        "title": "Healthcare Sensing and Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770603265,
-        "date_posted": 1770603265,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000108018725",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson Controls",
-        "id": "aa9f8702-1cf0-4c15-9121-11e4a898e084",
-        "title": "Apprentice Installation Engineer - Fire",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770603885,
-        "date_posted": 1770603885,
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Rochester-Kent-United-Kingdom/Apprentice-Installation-Engineer---Fire_EB00075064",
-        "locations": [
-            "Maidstone, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Controls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ICF International",
         "id": "9d64f247-8401-4032-8922-39e34539b442",
         "title": "Intern - Developer",
@@ -297606,7 +297562,7 @@
         "company_name": "North American Construction Group",
         "id": "5bd436ab-2543-4cf9-9565-0a571ae07475",
         "title": "Full Stack Developer Co-op - Acheson",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -376906,7 +376862,7 @@
         "company_name": "Novanta",
         "id": "8dd6f712-add1-4d49-aa43-64b93109e969",
         "title": "Computer Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -397403,7 +397359,7 @@
         "company_name": "Mayo Clinic",
         "id": "59ead4ad-d3ee-470f-a947-a4671f81858a",
         "title": "Artificial Intelligence and Informatics/Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
